@@ -1,0 +1,24 @@
+{
+  "name": "web-ifc-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rdfjs/namespace": "^2.0.0",
+    "@tpluscode/rdf-ns-builders": "^4.0.0",
+    "clownface": "^1.5.1",
+    "console": "^0.7.2",
+    "fs": "^0.0.1-security",
+    "n3": "^1.16.4",
+    "rdf-ext": "^2.2.0",
+    "rdf-utils-fs": "^2.3.0",
+    "sparql-http-client": "^2.4.2",
+    "web-ifc": "^0.0.40",
+    "web-ifc-viewer": "^1.0.216"
+  }
+}

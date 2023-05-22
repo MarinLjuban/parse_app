@@ -1,0 +1,3 @@
+graph <http://example.org/subject> {
+    <http://example.org/subject> <http://example.org/predicate> "object" .
+}
