@@ -40,7 +40,7 @@
         "otl:Roof-NOTDEFINED",
         "otl:Roof"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:09noPL9CnEteQC$K2rQBSE"
         },
@@ -121,7 +121,7 @@
         "otl:Stair-STRAIGHT_RUN_STAIR",
         "otl:Stair"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:0dq1fXwfL3GPdjFJ1AlutS"
         },
@@ -275,7 +275,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:0u_w1dRd90DPa_t_DDSuXN"
         },
@@ -305,7 +305,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:0u_w1dRd90DPa_t_DDSuab"
         },
@@ -331,7 +331,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:0ys3OT0S95reczLhes631P"
         },
@@ -721,7 +721,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:12UbOIi5n8IxlQGQSmHoeA"
         },
@@ -919,7 +919,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:12UbOIi5n8IxlQGQSmHoiw"
         },
@@ -1081,7 +1081,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:12UbOIi5n8IxlQGQSmHopA"
         },
@@ -1271,7 +1271,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:12UbOIi5n8IxlQGQSmHowg"
         },
@@ -1457,7 +1457,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:12UbOIi5n8IxlQGQSmHp0h"
         },
@@ -1675,7 +1675,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:12UbOIi5n8IxlQGQSmHpBI"
         },
@@ -1857,7 +1857,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:12UbOIi5n8IxlQGQSmHpIs"
         },
@@ -2238,7 +2238,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:1ACcNyVjf4LRQqbu5ZRyKM"
         },
@@ -2481,21 +2481,21 @@
     {
       "@id": "dis:1CmCCBZ4rBDe2rjTwZFe5O",
       "@type": "otl:Site",
-      "nen2660term:contains": {
+      "nen2660term:hasPart": {
         "@id": "dis:1CmCCBZ4rBDe2rjTwZFe5R"
       }
     },
     {
       "@id": "dis:1CmCCBZ4rBDe2rjTwZFe5Q",
       "@type": "otl:Project",
-      "nen2660term:contains": {
+      "nen2660term:hasPart": {
         "@id": "dis:1CmCCBZ4rBDe2rjTwZFe5O"
       }
     },
     {
       "@id": "dis:1CmCCBZ4rBDe2rjTwZFe5R",
       "@type": "otl:Building",
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:3Zu5Bv0LOHrPC10026FoQQ"
         },
@@ -2554,7 +2554,7 @@
         "otl:Stair-NOTDEFINED",
         "otl:Stair"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:1aNUoRaEj8pgr95_WvutI$"
         },
@@ -2937,7 +2937,7 @@
         "otl:Roof-NOTDEFINED",
         "otl:Roof"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:1dSZGUQVz3iwR7CgLutMvf"
         },
@@ -4345,7 +4345,7 @@
         "otl:Stair-STRAIGHT_RUN_STAIR",
         "otl:Stair"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:2dFwp44uPFQRRWqh3fvaYp"
         },
@@ -4407,7 +4407,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:2gvPjy0ef0Le27qKCMgxYw"
         },
@@ -4605,7 +4605,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:2m6dApVM16mvb8m00znef7"
         },
@@ -4639,7 +4639,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:2m6dApVM16mvb8m00znerO"
         },
@@ -7237,7 +7237,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:35UlH$HxT0t84tAjh7PueT"
         },
@@ -10755,7 +10755,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:3GYgOXJlf67gQLEHK0HX_R"
         },
@@ -10781,7 +10781,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:3GYgOXJlf67gQLEHK0HXoT"
         },
@@ -10883,7 +10883,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:3QfwH9F6LAF9tKBhtuSKJt"
         },
@@ -11037,7 +11037,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:3QnBu3fKvEH9z12yEpGU$Z"
         },
@@ -11079,7 +11079,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:3QnBu3fKvEH9z12yEpGU$t"
         },
@@ -11141,7 +11141,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:3QnBu3fKvEH9z12yEpGU_r"
         },
@@ -12059,7 +12059,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:1btBDYppP9MArWbv3NThPM"
         },
@@ -12311,7 +12311,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:3QnBu3fKvEH9z12yEpGUwD"
         },
@@ -12509,7 +12509,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:3QnBu3fKvEH9z12yEpGUy6"
         },
@@ -12547,7 +12547,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:3QnBu3fKvEH9z12yEpGUzQ"
         },
@@ -14965,7 +14965,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:3QnBu3fKvEH9z12yEpGVJJ"
         },
@@ -15035,7 +15035,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:3QnBu3fKvEH9z12yEpGVKN"
         },
@@ -15069,7 +15069,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:3QnBu3fKvEH9z12yEpGVRq"
         },
@@ -15271,7 +15271,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:3QnBu3fKvEH9z12yEpGVTP"
         },
@@ -18140,7 +18140,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:3TcMq_pebEv9BllmG6Mvcc"
         },
@@ -18366,7 +18366,7 @@
         "otl:CurtainWall-NOTDEFINED",
         "otl:CurtainWall"
       ],
-      "nen2660term:contains": [
+      "nen2660term:hasPart": [
         {
           "@id": "dis:3TcMq_pebEv9BllmG6MvlF"
         },

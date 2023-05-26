@@ -216,4 +216,4 @@ async function runProgram(ifcFile, ttlFile, jsonldFile) {
 }
 
 // RUNNING THE PROGRAM WITH SAMPLE FILES
-runProgram("Mech.ifc", "test_mech.ttl", "test_mech.jsonld");
+runProgram("Arch.ifc", "arch.ttl", "arch.jsonld");
