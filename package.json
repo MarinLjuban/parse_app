@@ -9,11 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@rdfjs-elements/formats-pretty": "^0.6.3",
     "@rdfjs/namespace": "^2.0.0",
     "@tpluscode/rdf-ns-builders": "^4.0.0",
     "clownface": "^1.5.1",
     "console": "^0.7.2",
     "fs": "^0.0.1-security",
+    "get-stream": "^6.0.1",
     "n3": "^1.16.4",
     "rdf-ext": "^2.2.0",
     "rdf-utils-fs": "^2.3.0",

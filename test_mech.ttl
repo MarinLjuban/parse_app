@@ -1,0 +1,1010 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ifc: <https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD2/OWL#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix otl: <https://otl.buildingsmart.org/IFC4_ADD2_TC1/def/> .
+@prefix nen2660term: <https://w3id.org/nen2660/term#> .
+@prefix dis: <https://otl.buildingsmart.org/test-project/> .
+
+dis:0Zbcw4zuTA5wHLhuC4oKOE a otl:Space-SPACE ;
+	nen2660term:contains dis:0Zbcw4zuTA5wHLhuC4oNA4, dis:0Zbcw4zuTA5wHLhuC4oNA5, dis:0Zbcw4zuTA5wHLhuC4oKmR, dis:29JEkkq6v4deitAoBmB9eD .
+
+dis:0Zbcw4zuTA5wHLhuC4oKO9 a otl:Space-SPACE ;
+	nen2660term:contains dis:0Zbcw4zuTA5wHLhuC4oKwE, dis:0Zbcw4zuTA5wHLhuC4oKwF, dis:0Zbcw4zuTA5wHLhuC4oKQo, dis:29JEkkq6v4deitAoBmBDmZ .
+
+dis:0Zbcw4zuTA5wHLhuC4oKO4 a otl:Space-SPACE ;
+	nen2660term:contains dis:29JEkkq6v4deitAoBmBE4v, dis:1FBFJ578nChfG3o8n8AF0d, dis:1FBFJ578nChfG3o8n8AF0U, dis:2U2bEFdi9D29Y9qmkfOTdh, dis:2U2bEFdi9D29Y9qmkfOQRU, dis:2U2bEFdi9D29Y9qmkfOQRE, dis:2U2bEFdi9D29Y9qmkfOQO1, dis:2U2bEFdi9D29Y9qmkfOQPY, dis:29JEkkq6v4deitAoBmBE0V .
+
+dis:0Zbcw4zuTA5wHLhuC4oKO7 a otl:Space-SPACE ;
+	nen2660term:contains dis:2SYClznvj7rAN0m34eJAin, <https://otl.buildingsmart.org/test-project/0y6$ro3_zABAi6_W6LSPAm>, dis:2U2bEFdi9D29Y9qmkfOTC5, dis:2U2bEFdi9D29Y9qmkfORaM, dis:2U2bEFdi9D29Y9qmkfORaf, dis:2U2bEFdi9D29Y9qmkfOVid, dis:2U2bEFdi9D29Y9qmkfORj4, dis:2U2bEFdi9D29Y9qmkfOTF1, dis:2U2bEFdi9D29Y9qmkfOT2X, <https://otl.buildingsmart.org/test-project/2gKM$JUHj8TRf3NFnYoqrT>, <https://otl.buildingsmart.org/test-project/2gKM$JUHj8TRf3NFnYoqry>, dis:2U2bEFdi9D29Y9qmkfOSlc, dis:2U2bEFdi9D29Y9qmkfORaQ, dis:2U2bEFdi9D29Y9qmkfORbH, dis:2SYClznvj7rAN0m34eJAg8, dis:2SYClznvj7rAN0m34eJAj6, dis:2SYClznvj7rAN0m34eJAjE, dis:2SYClznvj7rAN0m34eJAjI, dis:2SYClznvj7rAN0m34eJAih, dis:2SYClznvj7rAN0m34eJAir, dis:2SYClznvj7rAN0m34eJAhU, dis:2SYClznvj7rAN0m34eJAga, dis:2SYClznvj7rAN0m34eJAg0, dis:2SYClznvj7rAN0m34eJAgC, dis:2KdtiNC6963urv7OWmfioK, dis:29JEkkq6v4deitAoBmBEvU, dis:29JEkkq6v4deitAoBmBHBG, <https://otl.buildingsmart.org/test-project/2gKM$JUHj8TRf3NFnYoqqP>, dis:2KdtiNC6963urv7OWmfioI .
+
+dis:0Zbcw4zuTA5wHLhuC4oKO2 a otl:Space-SPACE ;
+	nen2660term:contains dis:0Zbcw4zuTA5wHLhuC4oPSI, <https://otl.buildingsmart.org/test-project/0Zbcw4zuTA5wHLhuC4oM$l>, dis:0VP3G_FGb07xtu0JblVgdK, dis:0Zbcw4zuTA5wHLhuC4oN0I, dis:0Zbcw4zuTA5wHLhuC4oKeo, dis:29JEkkq6v4deitAoBmBEI2 .
+
+dis:0Zbcw4zuTA5wHLhuC4oKOT a otl:Space-SPACE ;
+	nen2660term:contains dis:0Zbcw4zuTA5wHLhuC4oMzT, dis:0Zbcw4zuTA5wHLhuC4oMzU, dis:0Zbcw4zuTA5wHLhuC4oMuD, dis:0Zbcw4zuTA5wHLhuC4oKgQ, dis:29JEkkq6v4deitAoBmBEIJ .
+
+dis:1eqg1glbL1rABPeoupj2EA a otl:Space-SPACE ;
+	nen2660term:contains dis:29JEkkq6v4deitAoBmBESO, dis:29JEkkq6v4deitAoBmBESS, <https://otl.buildingsmart.org/test-project/0ehR7UOvv8aPeOVSa$yWaU> .
+
+dis:1eqg1glbL1rABPeoupj2Eu a otl:Space-SPACE .
+
+dis:1eqg1glbL1rABPeoupj2Ea a otl:Space-SPACE ;
+	nen2660term:contains dis:2U2bEFdi9D29Y9qmkfOVdm, dis:2U2bEFdi9D29Y9qmkfOT06, dis:2U2bEFdi9D29Y9qmkfOT_v, dis:2U2bEFdi9D29Y9qmkfOTyZ, dis:2U2bEFdi9D29Y9qmkfOTod, dis:2U2bEFdi9D29Y9qmkfOTpT, dis:2U2bEFdi9D29Y9qmkfOORV, dis:2U2bEFdi9D29Y9qmkfOOR2, dis:2U2bEFdi9D29Y9qmkfOORE, dis:0VP3G_FGb07xtu0JblVgay, dis:0VP3G_FGb07xtu0JblVgd3, dis:0Py2m111j3WggYaJTeOQmT, dis:0Py2m111j3WggYaJTeOQmN, dis:0Py2m111j3WggYaJTeOQmL, dis:2U2bEFdi9D29Y9qmkfOORP, dis:0Py2m111j3WggYaJTeOQmR .
+
+<https://otl.buildingsmart.org/test-project/1VO3iV$$96$hFKjId3TrJW> a otl:UnitaryEquipment-ROOFTOPUNIT .
+
+dis:2U2bEFdi9D29Y9qmkfOX16 a otl:UnitaryEquipment-ROOFTOPUNIT .
+
+dis:0Zbcw4zuTA5wHLhuC4oPSI a otl:SanitaryTerminal-WASHHANDBASIN .
+
+dis:0Zbcw4zuTA5wHLhuC4oNA4 a otl:SanitaryTerminal-WASHHANDBASIN .
+
+<https://otl.buildingsmart.org/test-project/0Zbcw4zuTA5wHLhuC4oM$l> a otl:Valve-FAUCET .
+
+dis:0Zbcw4zuTA5wHLhuC4oNA5 a otl:Valve-FAUCET .
+
+dis:0Zbcw4zuTA5wHLhuC4oMzT a otl:SanitaryTerminal-WASHHANDBASIN .
+
+dis:0Zbcw4zuTA5wHLhuC4oKwE a otl:SanitaryTerminal-WASHHANDBASIN .
+
+dis:0Zbcw4zuTA5wHLhuC4oMzU a otl:Valve-FAUCET .
+
+dis:0Zbcw4zuTA5wHLhuC4oKwF a otl:Valve-FAUCET .
+
+dis:0Zbcw4zuTA5wHLhuC4oMv7 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oMub a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oMsZ a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oMr3 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:3GUROyVen7WPkUlCoXlecS a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oMrd a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oMqg a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oM82 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oM6g a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/0Zbcw4zuTA5wHLhuC4oM6$> a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/2_$HzqhibEA8GBQ3mKMrZJ> a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oM46 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oM4h a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oNbE a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oNnr a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:04LbL4d8nEZu0UqO6mquBI a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKWo a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oK_c a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKw3 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKwH a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKwr a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0me7HuOOT2XRwTWJq7sYBw a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKvX a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:3t269URvrAx8JqCtHhzsKD a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKu0 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKtE a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKtQ a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKtd a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKts a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKsB a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKrj a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKoT a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKPP a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8Q3 a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/0Zbcw4zuTA5wHLhuC4oM3$> a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8MR a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8Ln a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8Ns a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8L3 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8Q8 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8IO a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8FR a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8DF a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8CG a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8CN a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/3y$UZ_q1n8TxHmkLpVQmC4> a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8B5 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8B4 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:3t6fs6Xgj0sRdZB6rsUSkE a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOR1_ a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOR6M a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOR4Z a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfORwP a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/0MN1Y$MdnFzB8BBdjdLRv3> a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0NCGaLA3zCrfkQllMtPmQv a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1V3Mkf3yf6BeoadC1lQJ51 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1V3Mkf3yf6BeoadC1lQJ5G a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1V3Mkf3yf6BeoadC1lQJ5Q a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1V3Mkf3yf6BeoadC1lQJ2a a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1V3Mkf3yf6BeoadC1lQJ2G a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1V3Mkf3yf6BeoadC1lQJ3h a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1V3Mkf3yf6BeoadC1lQJ3u a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1V3Mkf3yf6BeoadC1lQJ32 a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/2q00LXIp16feL$4F0m7U6Z> a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Yf1Q_2r9CbPtIkG01Ru4H a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Yf1Q_2r9CbPtIkG01Ru47 a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/0Yf1Q_2r9CbPtIkG01Ru5$> a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/1rUlriaPD9XBnIitcXdWA$> a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1ZLKa4lfz3DQi0cEnb7fHq a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1eqg1glbL1rABPeoupj2BJ a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1eqg1glbL1rABPeoupj2Bc a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0HvNvNTgf0rxiWOWMUvLXM a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:38vpW_wgXCNA0RZdKmCLTm a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:38vpW_wgXCNA0RZdKmCLSU a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:38vpW_wgXCNA0RZdKmCLSM a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oMva a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oMvt a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oNhS a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oNgL a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oNft a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oN5L a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oN1E a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oN10 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oN06 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oN0z a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oNVL a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oNU7 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oNTM a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oNKD a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oNJf a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oNJz a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKk4 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKkS a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKfK a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKfM a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKfc a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKfW a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKog a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKov a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKoo a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKnR a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKnl a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKnW a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKm8 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKmT a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKme a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKFa a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKEk a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKCK a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oK9I a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oK3m a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oK14 a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/2L1w2sO$1F_9Qrg0IghYhb> a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKSE a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKDa a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oKLs a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:3zyDmA2RvD_wT1i2i5MSb6 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8UN a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8Sy a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8SD a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8RB a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOX76 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOX7w a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOThS a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2FXjL1Bn50EhPlSV0mjtgK a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOTj2 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBE5H a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBE55 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBE0Y a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/1FCNic0r1E_O1XZY$rXL5t> a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBETR a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBET8 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBESY a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBEVA a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBEPl a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8A8R4 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBE2g a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0dkTLSvXHECuXyUwo2U0mv a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1V3Mkf3yf6BeoadC1lQJzM a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1V3Mkf3yf6BeoadC1lQJzP a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:3uh20AA1vBG8rVQwcTHJKE a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Zbcw4zuTA5wHLhuC4oMuD a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oMu2 a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKSS a otl:PipeFitting-BEND .
+
+dis:0VP3G_FGb07xtu0JblVgdK a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oMr8 a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oM6a a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oM6x a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oM6t a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oM5c a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oM5n a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oNmS a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKtm a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKto a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKs7 a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKpY a otl:PipeFitting-BEND .
+
+dis:1FBFJ578nChfG3o8n8A8BM a otl:PipeFitting-BEND .
+
+dis:2SYClznvj7rAN0m34eJAin a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oMrJ a otl:PipeFitting-JUNCTION .
+
+dis:0Zbcw4zuTA5wHLhuC4oM5O a otl:PipeFitting-JUNCTION .
+
+dis:0Zbcw4zuTA5wHLhuC4oNm5 a otl:PipeFitting-JUNCTION .
+
+dis:1FBFJ578nChfG3o8n8A8Bc a otl:PipeFitting-JUNCTION .
+
+dis:0Zbcw4zuTA5wHLhuC4oM1E a otl:SanitaryTerminal-WCSEAT .
+
+dis:0Zbcw4zuTA5wHLhuC4oNF3 a otl:SanitaryTerminal-WCSEAT .
+
+dis:0Zbcw4zuTA5wHLhuC4oNeh a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oNc6 a otl:SanitaryTerminal-WCSEAT .
+
+dis:0Zbcw4zuTA5wHLhuC4oNBm a otl:SanitaryTerminal-WCSEAT .
+
+dis:0Zbcw4zuTA5wHLhuC4oN76 a otl:PipeFitting-JUNCTION .
+
+dis:0Zbcw4zuTA5wHLhuC4oN5s a otl:PipeFitting-BEND .
+
+dis:29JEkkq6v4deitAoBmBE4v a otl:PipeFitting-BEND .
+
+dis:29JEkkq6v4deitAoBmBESO a otl:PipeFitting-BEND .
+
+dis:29JEkkq6v4deitAoBmBESS a otl:PipeFitting-BEND .
+
+<https://otl.buildingsmart.org/test-project/0ehR7UOvv8aPeOVSa$yWaU> a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oN1M a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oN0I a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oNUj a otl:PipeFitting-JUNCTION .
+
+dis:0Zbcw4zuTA5wHLhuC4oNJv a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oNI0 a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKgQ a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKgI a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKfI a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKfy a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKes a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKeo a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKwl a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKvC a otl:PipeFitting-BEND .
+
+<https://otl.buildingsmart.org/test-project/0Zbcw4zuTA5wHLhuC4oKv$> a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKPH a otl:PipeFitting-BEND .
+
+dis:1FBFJ578nChfG3o8n8A8KF a otl:PipeFitting-BEND .
+
+dis:1FBFJ578nChfG3o8n8A8DR a otl:PipeFitting-BEND .
+
+dis:1FBFJ578nChfG3o8n8A8CQ a otl:PipeFitting-BEND .
+
+<https://otl.buildingsmart.org/test-project/1FBFJ578nChfG3o8n8A8B$> a otl:PipeFitting-BEND .
+
+dis:1V3Mkf3yf6BeoadC1lQJ2V a otl:PipeFitting-BEND .
+
+dis:1V3Mkf3yf6BeoadC1lQJ3d a otl:PipeFitting-BEND .
+
+dis:1V3Mkf3yf6BeoadC1lQJ30 a otl:PipeFitting-BEND .
+
+dis:1V3Mkf3yf6BeoadC1lQJ38 a otl:PipeFitting-BEND .
+
+dis:0Yf1Q_2r9CbPtIkG01Ru45 a otl:PipeFitting-BEND .
+
+dis:0Yf1Q_2r9CbPtIkG01Ru5z a otl:PipeFitting-BEND .
+
+dis:0Yf1Q_2r9CbPtIkG01Ru5p a otl:PipeFitting-BEND .
+
+dis:0Yf1Q_2r9CbPtIkG01Ru5j a otl:PipeFitting-BEND .
+
+dis:1eqg1glbL1rABPeoupj2Av a otl:PipeFitting-BEND .
+
+dis:38vpW_wgXCNA0RZdKmCLS0 a otl:PipeFitting-BEND .
+
+dis:38vpW_wgXCNA0RZdKmCLSO a otl:PipeFitting-BEND .
+
+dis:38vpW_wgXCNA0RZdKmCLSg a otl:PipeFitting-BEND .
+
+dis:38vpW_wgXCNA0RZdKmCLSe a otl:PipeFitting-BEND .
+
+dis:2t55pVFeTBCxEOnajemY2g a otl:PipeFitting-BEND .
+
+dis:2t55pVFeTBCxEOnajemY73 a otl:PipeFitting-BEND .
+
+dis:2t55pVFeTBCxEOnajemY7H a otl:PipeFitting-BEND .
+
+dis:2t55pVFeTBCxEOnajemY7J a otl:PipeFitting-BEND .
+
+dis:2t55pVFeTBCxEOnajemY7N a otl:PipeFitting-BEND .
+
+dis:2t55pVFeTBCxEOnajemY7h a otl:PipeFitting-BEND .
+
+dis:2t55pVFeTBCxEOnajemY7j a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKwt a otl:PipeFitting-JUNCTION .
+
+dis:0Zbcw4zuTA5wHLhuC4oKvZ a otl:PipeFitting-JUNCTION .
+
+dis:0Zbcw4zuTA5wHLhuC4oKoD a otl:PipeFitting-JUNCTION .
+
+dis:0Zbcw4zuTA5wHLhuC4oKqc a otl:PipeFitting-JUNCTION .
+
+dis:1FBFJ578nChfG3o8n8A8IL a otl:PipeFitting-JUNCTION .
+
+dis:0Zbcw4zuTA5wHLhuC4oKor a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKnh a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKmR a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKE3 a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKET a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKB_ a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKQo a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKmr a otl:PipeFitting-JUNCTION .
+
+dis:0Zbcw4zuTA5wHLhuC4oKC5 a otl:PipeFitting-JUNCTION .
+
+dis:0Zbcw4zuTA5wHLhuC4oK27 a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oK23 a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oK1R a otl:PipeFitting-JUNCTION .
+
+dis:0Zbcw4zuTA5wHLhuC4oK1G a otl:PipeFitting-BEND .
+
+dis:0Zbcw4zuTA5wHLhuC4oKNY a otl:PipeFitting-TRANSITION .
+
+dis:0Zbcw4zuTA5wHLhuC4oKKP a otl:PipeFitting-JUNCTION .
+
+dis:0Zbcw4zuTA5wHLhuC4oKKM a otl:PipeFitting-BEND .
+
+dis:1FBFJ578nChfG3o8n8A8Tg a otl:PipeFitting-BEND .
+
+dis:1FBFJ578nChfG3o8n8A8S9 a otl:PipeFitting-BEND .
+
+dis:1FBFJ578nChfG3o8n8A8Rh a otl:PipeFitting-JUNCTION .
+
+dis:1FBFJ578nChfG3o8n8A8RF a otl:PipeFitting-BEND .
+
+dis:1FBFJ578nChfG3o8n8A8RT a otl:PipeFitting-BEND .
+
+dis:1FBFJ578nChfG3o8n8A8RP a otl:PipeFitting-BEND .
+
+dis:1FBFJ578nChfG3o8n8A8CU a otl:PipeFitting-BEND .
+
+dis:1FBFJ578nChfG3o8n8A8BX a otl:PipeFitting-BEND .
+
+dis:1FBFJ578nChfG3o8n8A8BD a otl:PipeFitting-BEND .
+
+dis:1FBFJ578nChfG3o8n8A8BG a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfORw1 a otl:PipeFitting-BEND .
+
+dis:1FBFJ578nChfG3o8n8AF0d a otl:UnitaryEquipment-AIRHANDLER .
+
+dis:1FBFJ578nChfG3o8n8AF0U a otl:UnitaryEquipment-AIRHANDLER .
+
+dis:1FBFJ578nChfG3o8n8ADSY a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8ADS5 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8ADSN a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8ADRk a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8ADQY a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8ADQs a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8ADNP a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8ADN5 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8AEde a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8AEYr a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8AD1A a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8AD0Z a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8AD0x a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/0y6$ro3_zABAi6_W6LSP9Z> a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOX4I a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:19WE8vVzj6auDRHdUgJisS a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOVdn a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOVdz a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/2U2bEFdi9D29Y9qmkfOVd$> a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8ADQe a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8ADNJ a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1FBFJ578nChfG3o8n8ADI0 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOS6t a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOS6l a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOSeD a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOSiX a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:07oXa_vc94e8OUb7yg1Q6_ a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0Q8HDPjsH5b9QwemIkR3jg a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:3pGf9F1SbB_8ZUz8D7FGeK a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOT1P a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOT15 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOT17 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOT13 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOT1t a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOT1p a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOT1z a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOT1v a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/2Zd$tVSQj0TuYGU6IBoC0_> a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0oBQPHMpfESufhW3iTNo7W a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0FsRTCzdDCUe1zH6BEMkIb a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/0J35z$tDLANRveiL50lrFj> a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOTvN a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOTv8 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:3D9LsQKrr8B8MENevn4bXb a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/2U2bEFdi9D29Y9qmkfOT$8> a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0AwVaDrH955fzKGd6NHBUV a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOTnZ a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOTtV a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOTt_ a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOTqu a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOThx a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOTeC a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:0M9lnfhvj0rgx2MREjM1tu a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOTji a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOTdZ a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOTbk a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOQQU a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOQQF a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOQOS a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOQO7 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOQPW a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfORhH a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfORef a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfORf2 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfORku a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfORl8 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfORjW a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfORY7 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfORaK a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1fdDgZ_nD4BRmWjisHlHJ6 a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/3$AT6dL_r0gBYFTkiQxvN3> a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOORJ a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfOORS a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:05bQqVhmfB4eJezFaEpusG a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:3bvB4gGKPDsfiIFEL03pTx a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfORZ5 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2U2bEFdi9D29Y9qmkfORZf a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2SYClznvj7rAN0m34eJAhQ a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2SYClznvj7rAN0m34eJAhP a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2SYClznvj7rAN0m34eJAgy a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2SYClznvj7rAN0m34eJAg3 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2SYClznvj7rAN0m34eJAj0 a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:2SYClznvj7rAN0m34eJAib a otl:PipeSegment-RIGIDSEGMENT .
+
+dis:1TiBZEpyn0IgO8v1l0tABn a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/2$VuWQNz54ceVuljhLXj5r> a otl:PipeSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/0y6$ro3_zABAi6_W6LSPAm> a otl:PipeFitting-JUNCTION .
+
+dis:2U2bEFdi9D29Y9qmkfOTC5 a otl:PipeFitting-JUNCTION .
+
+dis:2U2bEFdi9D29Y9qmkfOT4m a otl:PipeFitting-JUNCTION .
+
+dis:2U2bEFdi9D29Y9qmkfOTfR a otl:PipeFitting-JUNCTION .
+
+dis:2U2bEFdi9D29Y9qmkfORaM a otl:PipeFitting-JUNCTION .
+
+dis:2U2bEFdi9D29Y9qmkfORaf a otl:PipeFitting-JUNCTION .
+
+dis:2U2bEFdi9D29Y9qmkfOVid a otl:UnitaryEquipment-AIRHANDLER .
+
+dis:2U2bEFdi9D29Y9qmkfOVd6 a otl:UnitaryEquipment-AIRHANDLER .
+
+dis:2U2bEFdi9D29Y9qmkfOVdm a otl:UnitaryEquipment-AIRHANDLER .
+
+dis:2U2bEFdi9D29Y9qmkfOT04 a otl:UnitaryEquipment-AIRHANDLER .
+
+dis:2U2bEFdi9D29Y9qmkfOT06 a otl:UnitaryEquipment-AIRHANDLER .
+
+dis:2U2bEFdi9D29Y9qmkfORj4 a otl:UnitaryEquipment-AIRHANDLER .
+
+dis:2U2bEFdi9D29Y9qmkfOSKT a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOSzz a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOSa9 a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOSbS a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOSbO a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOTF1 a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOT2X a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOTog a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOTpH a otl:PipeFitting-BEND .
+
+<https://otl.buildingsmart.org/test-project/2gKM$JUHj8TRf3NFnYoqrT> a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOSsU a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOSbE a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOSb8 a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOTjk a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOTYG a otl:PipeFitting-BEND .
+
+<https://otl.buildingsmart.org/test-project/2gKM$JUHj8TRf3NFnYoqry> a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOSlc a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOT4G a otl:PipeFitting-JUNCTION .
+
+dis:2U2bEFdi9D29Y9qmkfOT40 a otl:PipeFitting-JUNCTION .
+
+dis:2U2bEFdi9D29Y9qmkfOT_v a otl:PipeFitting-JUNCTION .
+
+dis:2U2bEFdi9D29Y9qmkfOTyZ a otl:PipeFitting-JUNCTION .
+
+dis:2U2bEFdi9D29Y9qmkfOT4A a otl:PipeFitting-JUNCTION .
+
+dis:2U2bEFdi9D29Y9qmkfOTwQ a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOTxN a otl:PipeFitting-TRANSITION .
+
+dis:2U2bEFdi9D29Y9qmkfOTod a otl:PipeFitting-TRANSITION .
+
+dis:2U2bEFdi9D29Y9qmkfOTpT a otl:PipeFitting-TRANSITION .
+
+dis:2U2bEFdi9D29Y9qmkfOQR2 a otl:PipeFitting-TRANSITION .
+
+dis:2U2bEFdi9D29Y9qmkfOTrZ a otl:PipeFitting-JUNCTION .
+
+dis:2U2bEFdi9D29Y9qmkfOTjC a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOTjt a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOTdh a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOTao a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOQRU a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOQRC a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOQRE a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOQO1 a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOQOD a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOQO9 a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOQPY a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOQPg a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOQUK a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfORfx a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfORkB a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfORkW a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfORaQ a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfORbH a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOORV a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOOR2 a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOORE a otl:PipeFitting-BEND .
+
+dis:0VP3G_FGb07xtu0JblVga3 a otl:PipeFitting-BEND .
+
+dis:0VP3G_FGb07xtu0JblVgaK a otl:PipeFitting-BEND .
+
+dis:0VP3G_FGb07xtu0JblVgay a otl:PipeFitting-BEND .
+
+dis:0VP3G_FGb07xtu0JblVgd3 a otl:PipeFitting-BEND .
+
+dis:2SYClznvj7rAN0m34eJAg8 a otl:PipeFitting-BEND .
+
+dis:2SYClznvj7rAN0m34eJAj6 a otl:PipeFitting-BEND .
+
+dis:2SYClznvj7rAN0m34eJAjE a otl:PipeFitting-BEND .
+
+dis:2SYClznvj7rAN0m34eJAjI a otl:PipeFitting-BEND .
+
+dis:2SYClznvj7rAN0m34eJAih a otl:PipeFitting-BEND .
+
+dis:2SYClznvj7rAN0m34eJAir a otl:PipeFitting-BEND .
+
+dis:0Py2m111j3WggYaJTeOQmT a otl:PipeFitting-BEND .
+
+dis:0Py2m111j3WggYaJTeOQmN a otl:PipeFitting-BEND .
+
+dis:0Py2m111j3WggYaJTeOQmL a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOTa_ a otl:PipeFitting-TRANSITION .
+
+dis:2U2bEFdi9D29Y9qmkfORDL a otl:PipeFitting-JUNCTION .
+
+dis:2U2bEFdi9D29Y9qmkfOR6I a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOR5M a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfORiT a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfORiP a otl:PipeFitting-BEND .
+
+dis:2U2bEFdi9D29Y9qmkfOORP a otl:PipeFitting-BEND .
+
+dis:2SYClznvj7rAN0m34eJAhU a otl:PipeFitting-BEND .
+
+dis:2SYClznvj7rAN0m34eJAga a otl:PipeFitting-BEND .
+
+dis:2SYClznvj7rAN0m34eJAg0 a otl:PipeFitting-BEND .
+
+dis:2SYClznvj7rAN0m34eJAgC a otl:PipeFitting-BEND .
+
+dis:0Py2m111j3WggYaJTeOQmR a otl:PipeFitting-BEND .
+
+dis:29JEkkq6v4deitAoBmB9eD a otl:AirTerminal-REGISTER .
+
+dis:29JEkkq6v4deitAoBmBDmZ a otl:AirTerminal-REGISTER .
+
+dis:29JEkkq6v4deitAoBmBEIJ a otl:AirTerminal-REGISTER .
+
+dis:29JEkkq6v4deitAoBmBEI2 a otl:AirTerminal-REGISTER .
+
+dis:29JEkkq6v4deitAoBmBBKm a otl:AirTerminal-GRILLE .
+
+dis:29JEkkq6v4deitAoBmBDwQ a otl:Fan-PROPELLORAXIAL .
+
+dis:29JEkkq6v4deitAoBmBDtg a otl:DuctSegment-RIGIDSEGMENT .
+
+<https://otl.buildingsmart.org/test-project/29JEkkq6v4deitAoBmBDs$> a otl:DuctSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBDnF a otl:DuctSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBDn6 a otl:DuctSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBDmU a otl:DuctSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBDmL a otl:DuctSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBEga a otl:DuctSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBEbS a otl:DuctSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBEb7 a otl:DuctSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBH1m a otl:DuctSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBDmw a otl:DuctFitting-CONNECTOR .
+
+dis:29JEkkq6v4deitAoBmBDm9 a otl:DuctFitting-CONNECTOR .
+
+dis:29JEkkq6v4deitAoBmBDmp a otl:DuctFitting-BEND .
+
+dis:29JEkkq6v4deitAoBmBDm1 a otl:DuctFitting-BEND .
+
+dis:2KdtiNC6963urv7OWmfioK a otl:DuctFitting-BEND .
+
+dis:29JEkkq6v4deitAoBmBDpb a otl:DuctFitting-OBSTRUCTION .
+
+dis:29JEkkq6v4deitAoBmBFcR a otl:DuctSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBEvb a otl:DuctSegment-RIGIDSEGMENT .
+
+dis:1dE6KuRdP4BB7xFbPTpEDM a otl:DuctSegment-RIGIDSEGMENT .
+
+dis:29JEkkq6v4deitAoBmBFXx a otl:DuctFitting-TRANSITION .
+
+dis:29JEkkq6v4deitAoBmBEFu a otl:WasteTerminal-ROOFDRAIN .
+
+dis:29JEkkq6v4deitAoBmBEFn a otl:WasteTerminal-ROOFDRAIN .
+
+dis:29JEkkq6v4deitAoBmBEFY a otl:WasteTerminal-ROOFDRAIN .
+
+dis:29JEkkq6v4deitAoBmBE0V a otl:PipeFitting-JUNCTION .
+
+dis:29JEkkq6v4deitAoBmBEGD a otl:PipeFitting-JUNCTION .
+
+dis:29JEkkq6v4deitAoBmBEG6 a otl:PipeFitting-TRANSITION .
+
+dis:29JEkkq6v4deitAoBmBEIi a otl:PipeFitting-BEND .
+
+dis:29JEkkq6v4deitAoBmBEXb a otl:DuctSegment-FLEXIBLESEGMENT .
+
+dis:29JEkkq6v4deitAoBmBEXO a otl:DuctSegment-FLEXIBLESEGMENT .
+
+dis:29JEkkq6v4deitAoBmBEWS a otl:AirTerminal-GRILLE .
+
+dis:29JEkkq6v4deitAoBmBEvU a otl:DuctFitting-TRANSITION .
+
+dis:29JEkkq6v4deitAoBmBHBG a otl:Fan-PROPELLORAXIAL .
+
+dis:1V3Mkf3yf6BeoadC1lQJzQ a otl:PipeFitting-BEND .
+
+dis:1V3Mkf3yf6BeoadC1lQJwX a otl:PipeFitting-BEND .
+
+dis:1V3Mkf3yf6BeoadC1lQJ5y a otl:PipeFitting-BEND .
+
+dis:1V3Mkf3yf6BeoadC1lQJ5M a otl:PipeFitting-BEND .
+
+dis:1V3Mkf3yf6BeoadC1lQJ2Y a otl:PipeFitting-BEND .
+
+dis:1V3Mkf3yf6BeoadC1lQJ2g a otl:PipeFitting-BEND .
+
+<https://otl.buildingsmart.org/test-project/2gKM$JUHj8TRf3NFnYoqqP> a otl:PipeFitting-TRANSITION .
+
+<https://otl.buildingsmart.org/test-project/0ehR7UOvv8aPeOVSa$yWaO> a otl:PipeFitting-BEND .
+
+<https://otl.buildingsmart.org/test-project/0ehR7UOvv8aPeOVSa$yWa4> a otl:PipeFitting-BEND .
+
+dis:2KdtiNC6963urv7OWmfioI a otl:DuctFitting-JUNCTION .
+
+dis:2t55pVFeTBCxEOnajemY2f a otl:PipeFitting-TRANSITION .
+
+dis:2t55pVFeTBCxEOnajemY54 a otl:PipeFitting-BEND .
+
+dis:3Zu5Bv0LOHrPC10026FoQQ a otl:BuildingStorey ;
+	nen2660term:contains <https://otl.buildingsmart.org/test-project/1VO3iV$$96$hFKjId3TrJW>, dis:2U2bEFdi9D29Y9qmkfOX16, dis:0Zbcw4zuTA5wHLhuC4oMv7, dis:0Zbcw4zuTA5wHLhuC4oMub, dis:0Zbcw4zuTA5wHLhuC4oMsZ, dis:0Zbcw4zuTA5wHLhuC4oMr3, dis:3GUROyVen7WPkUlCoXlecS, dis:0Zbcw4zuTA5wHLhuC4oMrd, dis:0Zbcw4zuTA5wHLhuC4oMqg, dis:0Zbcw4zuTA5wHLhuC4oM82, dis:0Zbcw4zuTA5wHLhuC4oM6g, <https://otl.buildingsmart.org/test-project/0Zbcw4zuTA5wHLhuC4oM6$>, <https://otl.buildingsmart.org/test-project/2_$HzqhibEA8GBQ3mKMrZJ>, dis:0Zbcw4zuTA5wHLhuC4oM46, dis:0Zbcw4zuTA5wHLhuC4oM4h, dis:0Zbcw4zuTA5wHLhuC4oNbE, dis:0Zbcw4zuTA5wHLhuC4oNnr, dis:04LbL4d8nEZu0UqO6mquBI, dis:0Zbcw4zuTA5wHLhuC4oKWo, dis:0Zbcw4zuTA5wHLhuC4oK_c, dis:0Zbcw4zuTA5wHLhuC4oKw3, dis:0Zbcw4zuTA5wHLhuC4oKwH, dis:0Zbcw4zuTA5wHLhuC4oKwr, dis:0me7HuOOT2XRwTWJq7sYBw, dis:0Zbcw4zuTA5wHLhuC4oKvX, dis:3t269URvrAx8JqCtHhzsKD, dis:0Zbcw4zuTA5wHLhuC4oKu0, dis:0Zbcw4zuTA5wHLhuC4oKtE, dis:0Zbcw4zuTA5wHLhuC4oKtQ, dis:0Zbcw4zuTA5wHLhuC4oKtd, dis:0Zbcw4zuTA5wHLhuC4oKts, dis:0Zbcw4zuTA5wHLhuC4oKsB, dis:0Zbcw4zuTA5wHLhuC4oKrj, dis:0Zbcw4zuTA5wHLhuC4oKoT, dis:0Zbcw4zuTA5wHLhuC4oKPP, dis:1FBFJ578nChfG3o8n8A8Q3, <https://otl.buildingsmart.org/test-project/0Zbcw4zuTA5wHLhuC4oM3$>, dis:1FBFJ578nChfG3o8n8A8MR, dis:1FBFJ578nChfG3o8n8A8Ln, dis:1FBFJ578nChfG3o8n8A8Ns, dis:1FBFJ578nChfG3o8n8A8L3, dis:1FBFJ578nChfG3o8n8A8Q8, dis:1FBFJ578nChfG3o8n8A8IO, dis:1FBFJ578nChfG3o8n8A8FR, dis:1FBFJ578nChfG3o8n8A8DF, dis:1FBFJ578nChfG3o8n8A8CG, dis:1FBFJ578nChfG3o8n8A8CN, <https://otl.buildingsmart.org/test-project/3y$UZ_q1n8TxHmkLpVQmC4>, dis:1FBFJ578nChfG3o8n8A8B5, dis:1FBFJ578nChfG3o8n8A8B4, dis:3t6fs6Xgj0sRdZB6rsUSkE, dis:2U2bEFdi9D29Y9qmkfOR1_, dis:2U2bEFdi9D29Y9qmkfOR6M, dis:2U2bEFdi9D29Y9qmkfOR4Z, dis:2U2bEFdi9D29Y9qmkfORwP, <https://otl.buildingsmart.org/test-project/0MN1Y$MdnFzB8BBdjdLRv3>, dis:0NCGaLA3zCrfkQllMtPmQv, dis:1V3Mkf3yf6BeoadC1lQJ51, dis:1V3Mkf3yf6BeoadC1lQJ5G, dis:1V3Mkf3yf6BeoadC1lQJ5Q, dis:1V3Mkf3yf6BeoadC1lQJ2a, dis:1V3Mkf3yf6BeoadC1lQJ2G, dis:1V3Mkf3yf6BeoadC1lQJ3h, dis:1V3Mkf3yf6BeoadC1lQJ3u, dis:1V3Mkf3yf6BeoadC1lQJ32, <https://otl.buildingsmart.org/test-project/2q00LXIp16feL$4F0m7U6Z>, dis:0Yf1Q_2r9CbPtIkG01Ru4H, dis:0Yf1Q_2r9CbPtIkG01Ru47, <https://otl.buildingsmart.org/test-project/0Yf1Q_2r9CbPtIkG01Ru5$>, <https://otl.buildingsmart.org/test-project/1rUlriaPD9XBnIitcXdWA$>, dis:1ZLKa4lfz3DQi0cEnb7fHq, dis:1eqg1glbL1rABPeoupj2BJ, dis:1eqg1glbL1rABPeoupj2Bc, dis:0HvNvNTgf0rxiWOWMUvLXM, dis:38vpW_wgXCNA0RZdKmCLTm, dis:38vpW_wgXCNA0RZdKmCLSU, dis:38vpW_wgXCNA0RZdKmCLSM, dis:0Zbcw4zuTA5wHLhuC4oMva, dis:0Zbcw4zuTA5wHLhuC4oMvt, dis:0Zbcw4zuTA5wHLhuC4oNhS, dis:0Zbcw4zuTA5wHLhuC4oNgL, dis:0Zbcw4zuTA5wHLhuC4oNft, dis:0Zbcw4zuTA5wHLhuC4oN5L, dis:0Zbcw4zuTA5wHLhuC4oN1E, dis:0Zbcw4zuTA5wHLhuC4oN10, dis:0Zbcw4zuTA5wHLhuC4oN06, dis:0Zbcw4zuTA5wHLhuC4oN0z, dis:0Zbcw4zuTA5wHLhuC4oNVL, dis:0Zbcw4zuTA5wHLhuC4oNU7, dis:0Zbcw4zuTA5wHLhuC4oNTM, dis:0Zbcw4zuTA5wHLhuC4oNKD, dis:0Zbcw4zuTA5wHLhuC4oNJf, dis:0Zbcw4zuTA5wHLhuC4oNJz, dis:0Zbcw4zuTA5wHLhuC4oKk4, dis:0Zbcw4zuTA5wHLhuC4oKkS, dis:0Zbcw4zuTA5wHLhuC4oKfK, dis:0Zbcw4zuTA5wHLhuC4oKfM, dis:0Zbcw4zuTA5wHLhuC4oKfc, dis:0Zbcw4zuTA5wHLhuC4oKfW, dis:0Zbcw4zuTA5wHLhuC4oKog, dis:0Zbcw4zuTA5wHLhuC4oKov, dis:0Zbcw4zuTA5wHLhuC4oKoo, dis:0Zbcw4zuTA5wHLhuC4oKnR, dis:0Zbcw4zuTA5wHLhuC4oKnl, dis:0Zbcw4zuTA5wHLhuC4oKnW, dis:0Zbcw4zuTA5wHLhuC4oKm8, dis:0Zbcw4zuTA5wHLhuC4oKmT, dis:0Zbcw4zuTA5wHLhuC4oKme, dis:0Zbcw4zuTA5wHLhuC4oKFa, dis:0Zbcw4zuTA5wHLhuC4oKEk, dis:0Zbcw4zuTA5wHLhuC4oKCK, dis:0Zbcw4zuTA5wHLhuC4oK9I, dis:0Zbcw4zuTA5wHLhuC4oK3m, dis:0Zbcw4zuTA5wHLhuC4oK14, <https://otl.buildingsmart.org/test-project/2L1w2sO$1F_9Qrg0IghYhb>, dis:0Zbcw4zuTA5wHLhuC4oKSE, dis:0Zbcw4zuTA5wHLhuC4oKDa, dis:0Zbcw4zuTA5wHLhuC4oKLs, dis:3zyDmA2RvD_wT1i2i5MSb6, dis:1FBFJ578nChfG3o8n8A8UN, dis:1FBFJ578nChfG3o8n8A8Sy, dis:1FBFJ578nChfG3o8n8A8SD, dis:1FBFJ578nChfG3o8n8A8RB, dis:2U2bEFdi9D29Y9qmkfOX76, dis:2U2bEFdi9D29Y9qmkfOX7w, dis:2U2bEFdi9D29Y9qmkfOThS, dis:2FXjL1Bn50EhPlSV0mjtgK, dis:2U2bEFdi9D29Y9qmkfOTj2, dis:29JEkkq6v4deitAoBmBE5H, dis:29JEkkq6v4deitAoBmBE55, dis:29JEkkq6v4deitAoBmBE0Y, <https://otl.buildingsmart.org/test-project/1FCNic0r1E_O1XZY$rXL5t>, dis:29JEkkq6v4deitAoBmBETR, dis:29JEkkq6v4deitAoBmBET8, dis:29JEkkq6v4deitAoBmBESY, dis:29JEkkq6v4deitAoBmBEVA, dis:29JEkkq6v4deitAoBmBEPl, dis:1FBFJ578nChfG3o8n8A8R4, dis:29JEkkq6v4deitAoBmBE2g, dis:0dkTLSvXHECuXyUwo2U0mv, dis:1V3Mkf3yf6BeoadC1lQJzM, dis:1V3Mkf3yf6BeoadC1lQJzP, dis:3uh20AA1vBG8rVQwcTHJKE, dis:0Zbcw4zuTA5wHLhuC4oMu2, dis:0Zbcw4zuTA5wHLhuC4oKSS, dis:0Zbcw4zuTA5wHLhuC4oMr8, dis:0Zbcw4zuTA5wHLhuC4oM6a, dis:0Zbcw4zuTA5wHLhuC4oM6x, dis:0Zbcw4zuTA5wHLhuC4oM6t, dis:0Zbcw4zuTA5wHLhuC4oM5c, dis:0Zbcw4zuTA5wHLhuC4oM5n, dis:0Zbcw4zuTA5wHLhuC4oNmS, dis:0Zbcw4zuTA5wHLhuC4oKtm, dis:0Zbcw4zuTA5wHLhuC4oKto, dis:0Zbcw4zuTA5wHLhuC4oKs7, dis:0Zbcw4zuTA5wHLhuC4oKpY, dis:1FBFJ578nChfG3o8n8A8BM, dis:0Zbcw4zuTA5wHLhuC4oMrJ, dis:0Zbcw4zuTA5wHLhuC4oM5O, dis:0Zbcw4zuTA5wHLhuC4oNm5, dis:1FBFJ578nChfG3o8n8A8Bc, dis:0Zbcw4zuTA5wHLhuC4oM1E, dis:0Zbcw4zuTA5wHLhuC4oNF3, dis:0Zbcw4zuTA5wHLhuC4oNeh, dis:0Zbcw4zuTA5wHLhuC4oNc6, dis:0Zbcw4zuTA5wHLhuC4oNBm, dis:0Zbcw4zuTA5wHLhuC4oN76, dis:0Zbcw4zuTA5wHLhuC4oN5s, dis:0Zbcw4zuTA5wHLhuC4oN1M, dis:0Zbcw4zuTA5wHLhuC4oNUj, dis:0Zbcw4zuTA5wHLhuC4oNJv, dis:0Zbcw4zuTA5wHLhuC4oNI0, dis:0Zbcw4zuTA5wHLhuC4oKgI, dis:0Zbcw4zuTA5wHLhuC4oKfI, dis:0Zbcw4zuTA5wHLhuC4oKfy, dis:0Zbcw4zuTA5wHLhuC4oKes, dis:0Zbcw4zuTA5wHLhuC4oKwl, dis:0Zbcw4zuTA5wHLhuC4oKvC, <https://otl.buildingsmart.org/test-project/0Zbcw4zuTA5wHLhuC4oKv$>, dis:0Zbcw4zuTA5wHLhuC4oKPH, dis:1FBFJ578nChfG3o8n8A8KF, dis:1FBFJ578nChfG3o8n8A8DR, dis:1FBFJ578nChfG3o8n8A8CQ, <https://otl.buildingsmart.org/test-project/1FBFJ578nChfG3o8n8A8B$>, dis:1V3Mkf3yf6BeoadC1lQJ2V, dis:1V3Mkf3yf6BeoadC1lQJ3d, dis:1V3Mkf3yf6BeoadC1lQJ30, dis:1V3Mkf3yf6BeoadC1lQJ38, dis:0Yf1Q_2r9CbPtIkG01Ru45, dis:0Yf1Q_2r9CbPtIkG01Ru5z, dis:0Yf1Q_2r9CbPtIkG01Ru5p, dis:0Yf1Q_2r9CbPtIkG01Ru5j, dis:1eqg1glbL1rABPeoupj2Av, dis:38vpW_wgXCNA0RZdKmCLS0, dis:38vpW_wgXCNA0RZdKmCLSO, dis:38vpW_wgXCNA0RZdKmCLSg, dis:38vpW_wgXCNA0RZdKmCLSe, dis:2t55pVFeTBCxEOnajemY2g, dis:2t55pVFeTBCxEOnajemY73, dis:2t55pVFeTBCxEOnajemY7H, dis:2t55pVFeTBCxEOnajemY7J, dis:2t55pVFeTBCxEOnajemY7N, dis:2t55pVFeTBCxEOnajemY7h, dis:2t55pVFeTBCxEOnajemY7j, dis:0Zbcw4zuTA5wHLhuC4oKwt, dis:0Zbcw4zuTA5wHLhuC4oKvZ, dis:0Zbcw4zuTA5wHLhuC4oKoD, dis:0Zbcw4zuTA5wHLhuC4oKqc, dis:1FBFJ578nChfG3o8n8A8IL, dis:0Zbcw4zuTA5wHLhuC4oKor, dis:0Zbcw4zuTA5wHLhuC4oKnh, dis:0Zbcw4zuTA5wHLhuC4oKE3, dis:0Zbcw4zuTA5wHLhuC4oKET, dis:0Zbcw4zuTA5wHLhuC4oKB_, dis:0Zbcw4zuTA5wHLhuC4oKmr, dis:0Zbcw4zuTA5wHLhuC4oKC5, dis:0Zbcw4zuTA5wHLhuC4oK27, dis:0Zbcw4zuTA5wHLhuC4oK23, dis:0Zbcw4zuTA5wHLhuC4oK1R, dis:0Zbcw4zuTA5wHLhuC4oK1G, dis:0Zbcw4zuTA5wHLhuC4oKNY, dis:0Zbcw4zuTA5wHLhuC4oKKP, dis:0Zbcw4zuTA5wHLhuC4oKKM, dis:1FBFJ578nChfG3o8n8A8Tg, dis:1FBFJ578nChfG3o8n8A8S9, dis:1FBFJ578nChfG3o8n8A8Rh, dis:1FBFJ578nChfG3o8n8A8RF, dis:1FBFJ578nChfG3o8n8A8RT, dis:1FBFJ578nChfG3o8n8A8RP, dis:1FBFJ578nChfG3o8n8A8CU, dis:1FBFJ578nChfG3o8n8A8BX, dis:1FBFJ578nChfG3o8n8A8BD, dis:1FBFJ578nChfG3o8n8A8BG, dis:2U2bEFdi9D29Y9qmkfORw1, dis:1FBFJ578nChfG3o8n8ADSY, dis:1FBFJ578nChfG3o8n8ADS5, dis:1FBFJ578nChfG3o8n8ADSN, dis:1FBFJ578nChfG3o8n8ADRk, dis:1FBFJ578nChfG3o8n8ADQY, dis:1FBFJ578nChfG3o8n8ADQs, dis:1FBFJ578nChfG3o8n8ADNP, dis:1FBFJ578nChfG3o8n8ADN5, dis:1FBFJ578nChfG3o8n8AEde, dis:1FBFJ578nChfG3o8n8AEYr, <https://otl.buildingsmart.org/test-project/0y6$ro3_zABAi6_W6LSP9Z>, dis:2U2bEFdi9D29Y9qmkfOX4I, dis:1FBFJ578nChfG3o8n8ADQe, dis:1FBFJ578nChfG3o8n8ADI0, dis:2U2bEFdi9D29Y9qmkfOSeD, dis:2U2bEFdi9D29Y9qmkfOSiX, dis:07oXa_vc94e8OUb7yg1Q6_, dis:0Q8HDPjsH5b9QwemIkR3jg, dis:3pGf9F1SbB_8ZUz8D7FGeK, dis:0FsRTCzdDCUe1zH6BEMkIb, <https://otl.buildingsmart.org/test-project/0J35z$tDLANRveiL50lrFj>, dis:2U2bEFdi9D29Y9qmkfOTnZ, dis:2U2bEFdi9D29Y9qmkfOTtV, dis:2U2bEFdi9D29Y9qmkfOTt_, dis:2U2bEFdi9D29Y9qmkfOTqu, dis:2U2bEFdi9D29Y9qmkfOThx, dis:2U2bEFdi9D29Y9qmkfOTeC, dis:0M9lnfhvj0rgx2MREjM1tu, dis:2U2bEFdi9D29Y9qmkfOTji, dis:2U2bEFdi9D29Y9qmkfOTdZ, dis:2U2bEFdi9D29Y9qmkfOTbk, dis:2U2bEFdi9D29Y9qmkfOQQU, dis:2U2bEFdi9D29Y9qmkfOQQF, dis:2U2bEFdi9D29Y9qmkfOQOS, dis:2U2bEFdi9D29Y9qmkfOQO7, dis:2U2bEFdi9D29Y9qmkfOQPW, dis:1fdDgZ_nD4BRmWjisHlHJ6, <https://otl.buildingsmart.org/test-project/3$AT6dL_r0gBYFTkiQxvN3>, dis:3bvB4gGKPDsfiIFEL03pTx, dis:2U2bEFdi9D29Y9qmkfORZ5, dis:2U2bEFdi9D29Y9qmkfORZf, dis:2SYClznvj7rAN0m34eJAhQ, dis:2SYClznvj7rAN0m34eJAhP, dis:2SYClznvj7rAN0m34eJAj0, dis:2U2bEFdi9D29Y9qmkfOTfR, dis:2U2bEFdi9D29Y9qmkfOSKT, dis:2U2bEFdi9D29Y9qmkfOSzz, dis:2U2bEFdi9D29Y9qmkfOSa9, dis:2U2bEFdi9D29Y9qmkfOSbS, dis:2U2bEFdi9D29Y9qmkfOSbO, dis:2U2bEFdi9D29Y9qmkfOTpH, dis:2U2bEFdi9D29Y9qmkfOSsU, dis:2U2bEFdi9D29Y9qmkfOSbE, dis:2U2bEFdi9D29Y9qmkfOSb8, dis:2U2bEFdi9D29Y9qmkfOTjk, dis:2U2bEFdi9D29Y9qmkfOTYG, dis:2U2bEFdi9D29Y9qmkfOQR2, dis:2U2bEFdi9D29Y9qmkfOTrZ, dis:2U2bEFdi9D29Y9qmkfOTjC, dis:2U2bEFdi9D29Y9qmkfOTjt, dis:2U2bEFdi9D29Y9qmkfOTao, dis:2U2bEFdi9D29Y9qmkfOQRC, dis:2U2bEFdi9D29Y9qmkfOQOD, dis:2U2bEFdi9D29Y9qmkfOQO9, dis:2U2bEFdi9D29Y9qmkfOQPg, dis:2U2bEFdi9D29Y9qmkfOQUK, dis:2U2bEFdi9D29Y9qmkfOTa_, dis:2U2bEFdi9D29Y9qmkfORDL, dis:2U2bEFdi9D29Y9qmkfOR6I, dis:2U2bEFdi9D29Y9qmkfOR5M, dis:29JEkkq6v4deitAoBmBDnF, dis:29JEkkq6v4deitAoBmBDn6, dis:29JEkkq6v4deitAoBmBDmU, dis:29JEkkq6v4deitAoBmBDmL, dis:29JEkkq6v4deitAoBmBEga, dis:29JEkkq6v4deitAoBmBEbS, dis:29JEkkq6v4deitAoBmBEb7, dis:29JEkkq6v4deitAoBmBDmw, dis:29JEkkq6v4deitAoBmBDm9, dis:29JEkkq6v4deitAoBmBDmp, dis:29JEkkq6v4deitAoBmBDm1, dis:29JEkkq6v4deitAoBmBEvb, dis:1dE6KuRdP4BB7xFbPTpEDM, dis:29JEkkq6v4deitAoBmBEGD, dis:29JEkkq6v4deitAoBmBEG6, dis:29JEkkq6v4deitAoBmBEIi, dis:29JEkkq6v4deitAoBmBEXb, dis:29JEkkq6v4deitAoBmBEXO, dis:29JEkkq6v4deitAoBmBEWS, dis:1V3Mkf3yf6BeoadC1lQJzQ, dis:1V3Mkf3yf6BeoadC1lQJwX, dis:1V3Mkf3yf6BeoadC1lQJ5y, dis:1V3Mkf3yf6BeoadC1lQJ5M, dis:1V3Mkf3yf6BeoadC1lQJ2Y, dis:1V3Mkf3yf6BeoadC1lQJ2g, <https://otl.buildingsmart.org/test-project/0ehR7UOvv8aPeOVSa$yWaO>, <https://otl.buildingsmart.org/test-project/0ehR7UOvv8aPeOVSa$yWa4>, dis:2t55pVFeTBCxEOnajemY2f, dis:2t55pVFeTBCxEOnajemY54 .
+
+dis:15Z0v90RiHrPC20026FoKR a otl:BuildingStorey ;
+	nen2660term:contains dis:1FBFJ578nChfG3o8n8AD1A, dis:1FBFJ578nChfG3o8n8AD0Z, dis:1FBFJ578nChfG3o8n8ADNJ, dis:2U2bEFdi9D29Y9qmkfOS6t, dis:2U2bEFdi9D29Y9qmkfOS6l, dis:2U2bEFdi9D29Y9qmkfOT13, <https://otl.buildingsmart.org/test-project/2Zd$tVSQj0TuYGU6IBoC0_>, dis:2U2bEFdi9D29Y9qmkfORjW, dis:2U2bEFdi9D29Y9qmkfORY7, dis:2U2bEFdi9D29Y9qmkfORaK, dis:05bQqVhmfB4eJezFaEpusG, dis:2SYClznvj7rAN0m34eJAgy, dis:2SYClznvj7rAN0m34eJAg3, dis:2SYClznvj7rAN0m34eJAib, dis:2U2bEFdi9D29Y9qmkfOT4m, dis:2U2bEFdi9D29Y9qmkfOT4G, dis:2U2bEFdi9D29Y9qmkfOTwQ, dis:0VP3G_FGb07xtu0JblVga3, dis:2U2bEFdi9D29Y9qmkfORiT, dis:29JEkkq6v4deitAoBmBBKm, dis:29JEkkq6v4deitAoBmBDwQ, dis:29JEkkq6v4deitAoBmBDtg, <https://otl.buildingsmart.org/test-project/29JEkkq6v4deitAoBmBDs$>, dis:29JEkkq6v4deitAoBmBH1m, dis:29JEkkq6v4deitAoBmBDpb, dis:29JEkkq6v4deitAoBmBFcR, dis:29JEkkq6v4deitAoBmBFXx, dis:29JEkkq6v4deitAoBmBEFu, dis:29JEkkq6v4deitAoBmBEFn, dis:29JEkkq6v4deitAoBmBEFY .
+
+<https://otl.buildingsmart.org/test-project/1VO3iV$$96$hFKjId3ToVq> a otl:BuildingStorey ;
+	nen2660term:contains dis:1FBFJ578nChfG3o8n8AD0x, dis:19WE8vVzj6auDRHdUgJisS, dis:2U2bEFdi9D29Y9qmkfOT1P, dis:2U2bEFdi9D29Y9qmkfOT15, dis:2U2bEFdi9D29Y9qmkfOT17, dis:2U2bEFdi9D29Y9qmkfOT1v, dis:0oBQPHMpfESufhW3iTNo7W, dis:2U2bEFdi9D29Y9qmkfOTvN, dis:2U2bEFdi9D29Y9qmkfOTv8, dis:3D9LsQKrr8B8MENevn4bXb, <https://otl.buildingsmart.org/test-project/2U2bEFdi9D29Y9qmkfOT$8>, dis:0AwVaDrH955fzKGd6NHBUV, dis:2U2bEFdi9D29Y9qmkfORhH, dis:2U2bEFdi9D29Y9qmkfORef, dis:2U2bEFdi9D29Y9qmkfORf2, dis:2U2bEFdi9D29Y9qmkfORku, dis:2U2bEFdi9D29Y9qmkfORl8, dis:2U2bEFdi9D29Y9qmkfOORJ, <https://otl.buildingsmart.org/test-project/2$VuWQNz54ceVuljhLXj5r>, dis:2U2bEFdi9D29Y9qmkfOVd6, dis:2U2bEFdi9D29Y9qmkfOT04, dis:2U2bEFdi9D29Y9qmkfOTog, dis:2U2bEFdi9D29Y9qmkfOT40, dis:2U2bEFdi9D29Y9qmkfOT4A, dis:2U2bEFdi9D29Y9qmkfOTxN, dis:2U2bEFdi9D29Y9qmkfORfx, dis:2U2bEFdi9D29Y9qmkfORkB, dis:2U2bEFdi9D29Y9qmkfORkW, dis:0VP3G_FGb07xtu0JblVgaK, dis:2U2bEFdi9D29Y9qmkfORiP .
+
+<https://otl.buildingsmart.org/test-project/1VO3iV$$96$hFKjId3ToVt> a otl:BuildingStorey ;
+	nen2660term:contains dis:2U2bEFdi9D29Y9qmkfOVdn, dis:2U2bEFdi9D29Y9qmkfOVdz, <https://otl.buildingsmart.org/test-project/2U2bEFdi9D29Y9qmkfOVd$>, dis:2U2bEFdi9D29Y9qmkfOT1t, dis:2U2bEFdi9D29Y9qmkfOT1p, dis:2U2bEFdi9D29Y9qmkfOT1z, dis:2U2bEFdi9D29Y9qmkfOORS, dis:1TiBZEpyn0IgO8v1l0tABn .
+
+<https://otl.buildingsmart.org/test-project/2BuAc$sGjBxPgdrqYVruQ0> a otl:Project ;
+	nen2660term:hasPart <https://otl.buildingsmart.org/test-project/2BuAc$sGjBxPgdrqYVruQ2> .
+
+<https://otl.buildingsmart.org/test-project/2BuAc$sGjBxPgdrqYVruQ2> a otl:Site ;
+	nen2660term:hasPart <https://otl.buildingsmart.org/test-project/2BuAc$sGjBxPgdrqYVruQ1> .
+
+<https://otl.buildingsmart.org/test-project/2BuAc$sGjBxPgdrqYVruQ1> a otl:Building ;
+	nen2660term:hasPart dis:3Zu5Bv0LOHrPC10026FoQQ, dis:15Z0v90RiHrPC20026FoKR, <https://otl.buildingsmart.org/test-project/1VO3iV$$96$hFKjId3ToVq>, <https://otl.buildingsmart.org/test-project/1VO3iV$$96$hFKjId3ToVt> .
+
