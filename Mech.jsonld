@@ -1,1 +1,3461 @@
-{"@context":{"rdf":"http://www.w3.org/1999/02/22-rdf-syntax-ns#","rdfs":"http://www.w3.org/2000/01/rdf-schema#","skos":"http://www.w3.org/2004/02/skos/core#","ifc":"https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD2/OWL#","owl":"http://www.w3.org/2002/07/owl#","otl":"https://otl.buildingsmart.org/IFC4_ADD2_TC1/def/","nen2660term":"https://w3id.org/nen2660/term#","dis":"https://otl.buildingsmart.org/test-project/"},"@graph":[{"@id":"dis:04LbL4d8nEZu0UqO6mquBI","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:05bQqVhmfB4eJezFaEpusG","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:07oXa_vc94e8OUb7yg1Q6_","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0AwVaDrH955fzKGd6NHBUV","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0FsRTCzdDCUe1zH6BEMkIb","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0HvNvNTgf0rxiWOWMUvLXM","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0J35z$tDLANRveiL50lrFj","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0M9lnfhvj0rgx2MREjM1tu","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0MN1Y$MdnFzB8BBdjdLRv3","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0NCGaLA3zCrfkQllMtPmQv","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Py2m111j3WggYaJTeOQmL","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Py2m111j3WggYaJTeOQmN","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Py2m111j3WggYaJTeOQmR","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Py2m111j3WggYaJTeOQmT","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Q8HDPjsH5b9QwemIkR3jg","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0VP3G_FGb07xtu0JblVga3","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0VP3G_FGb07xtu0JblVgaK","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0VP3G_FGb07xtu0JblVgay","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0VP3G_FGb07xtu0JblVgd3","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0VP3G_FGb07xtu0JblVgdK","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Yf1Q_2r9CbPtIkG01Ru45","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Yf1Q_2r9CbPtIkG01Ru47","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Yf1Q_2r9CbPtIkG01Ru4H","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Yf1Q_2r9CbPtIkG01Ru5$","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Yf1Q_2r9CbPtIkG01Ru5j","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Yf1Q_2r9CbPtIkG01Ru5p","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Yf1Q_2r9CbPtIkG01Ru5z","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oK14","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oK1G","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oK1R","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oK23","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oK27","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oK3m","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oK9I","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKB_","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKC5","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKCK","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKDa","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKE3","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKET","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKEk","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKFa","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKKM","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKKP","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKLs","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKNY","@type":"otl:PipeFitting-TRANSITION"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKO2","@type":"otl:Space-SPACE","nen2660term:contains":[{"@id":"dis:0Zbcw4zuTA5wHLhuC4oPSI"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM$l"},{"@id":"dis:0VP3G_FGb07xtu0JblVgdK"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN0I"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKeo"},{"@id":"dis:29JEkkq6v4deitAoBmBEI2"}]},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKO4","@type":"otl:Space-SPACE","nen2660term:contains":[{"@id":"dis:29JEkkq6v4deitAoBmBE4v"},{"@id":"dis:1FBFJ578nChfG3o8n8AF0d"},{"@id":"dis:1FBFJ578nChfG3o8n8AF0U"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTdh"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQRU"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQRE"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQO1"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQPY"},{"@id":"dis:29JEkkq6v4deitAoBmBE0V"}]},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKO7","@type":"otl:Space-SPACE","nen2660term:contains":[{"@id":"dis:2SYClznvj7rAN0m34eJAin"},{"@id":"dis:0y6$ro3_zABAi6_W6LSPAm"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTC5"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORaM"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORaf"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOVid"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORj4"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTF1"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT2X"},{"@id":"dis:2gKM$JUHj8TRf3NFnYoqrT"},{"@id":"dis:2gKM$JUHj8TRf3NFnYoqry"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSlc"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORaQ"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORbH"},{"@id":"dis:2SYClznvj7rAN0m34eJAg8"},{"@id":"dis:2SYClznvj7rAN0m34eJAj6"},{"@id":"dis:2SYClznvj7rAN0m34eJAjE"},{"@id":"dis:2SYClznvj7rAN0m34eJAjI"},{"@id":"dis:2SYClznvj7rAN0m34eJAih"},{"@id":"dis:2SYClznvj7rAN0m34eJAir"},{"@id":"dis:2SYClznvj7rAN0m34eJAhU"},{"@id":"dis:2SYClznvj7rAN0m34eJAga"},{"@id":"dis:2SYClznvj7rAN0m34eJAg0"},{"@id":"dis:2SYClznvj7rAN0m34eJAgC"},{"@id":"dis:2KdtiNC6963urv7OWmfioK"},{"@id":"dis:29JEkkq6v4deitAoBmBEvU"},{"@id":"dis:29JEkkq6v4deitAoBmBHBG"},{"@id":"dis:2gKM$JUHj8TRf3NFnYoqqP"},{"@id":"dis:2KdtiNC6963urv7OWmfioI"}]},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKO9","@type":"otl:Space-SPACE","nen2660term:contains":[{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKwE"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKwF"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKQo"},{"@id":"dis:29JEkkq6v4deitAoBmBDmZ"}]},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKOE","@type":"otl:Space-SPACE","nen2660term:contains":[{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNA4"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNA5"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKmR"},{"@id":"dis:29JEkkq6v4deitAoBmB9eD"}]},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKOT","@type":"otl:Space-SPACE","nen2660term:contains":[{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMzT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMzU"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMuD"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKgQ"},{"@id":"dis:29JEkkq6v4deitAoBmBEIJ"}]},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKPH","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKPP","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKQo","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKSE","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKSS","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKWo","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oK_c","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKeo","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKes","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKfI","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKfK","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKfM","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKfW","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKfc","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKfy","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKgI","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKgQ","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKk4","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKkS","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKm8","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKmR","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKmT","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKme","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKmr","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKnR","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKnW","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKnh","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKnl","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKoD","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKoT","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKog","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKoo","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKor","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKov","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKpY","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKqc","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKrj","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKs7","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKsB","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKtE","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKtQ","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKtd","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKtm","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKto","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKts","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKu0","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKv$","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKvC","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKvX","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKvZ","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKw3","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKwE","@type":"otl:SanitaryTerminal-WASHHANDBASIN"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKwF","@type":"otl:Valve-FAUCET"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKwH","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKwl","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKwr","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKwt","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM$l","@type":"otl:Valve-FAUCET"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM1E","@type":"otl:SanitaryTerminal-WCSEAT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM3$","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM46","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM4h","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM5O","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM5c","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM5n","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM6$","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM6a","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM6g","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM6t","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM6x","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM82","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMqg","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMr3","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMr8","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMrJ","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMrd","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMsZ","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMu2","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMuD","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMub","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMv7","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMva","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMvt","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMzT","@type":"otl:SanitaryTerminal-WASHHANDBASIN"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMzU","@type":"otl:Valve-FAUCET"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN06","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN0I","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN0z","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN10","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN1E","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN1M","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN5L","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN5s","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN76","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNA4","@type":"otl:SanitaryTerminal-WASHHANDBASIN"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNA5","@type":"otl:Valve-FAUCET"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNBm","@type":"otl:SanitaryTerminal-WCSEAT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNF3","@type":"otl:SanitaryTerminal-WCSEAT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNI0","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNJf","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNJv","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNJz","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNKD","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNTM","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNU7","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNUj","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNVL","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNbE","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNc6","@type":"otl:SanitaryTerminal-WCSEAT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNeh","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNft","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNgL","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNhS","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNm5","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNmS","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNnr","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oPSI","@type":"otl:SanitaryTerminal-WASHHANDBASIN"},{"@id":"dis:0dkTLSvXHECuXyUwo2U0mv","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0ehR7UOvv8aPeOVSa$yWa4","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0ehR7UOvv8aPeOVSa$yWaO","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0ehR7UOvv8aPeOVSa$yWaU","@type":"otl:PipeFitting-BEND"},{"@id":"dis:0me7HuOOT2XRwTWJq7sYBw","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0oBQPHMpfESufhW3iTNo7W","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0y6$ro3_zABAi6_W6LSP9Z","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:0y6$ro3_zABAi6_W6LSPAm","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:15Z0v90RiHrPC20026FoKR","@type":"otl:BuildingStorey","nen2660term:contains":[{"@id":"dis:1FBFJ578nChfG3o8n8AD1A"},{"@id":"dis:1FBFJ578nChfG3o8n8AD0Z"},{"@id":"dis:1FBFJ578nChfG3o8n8ADNJ"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOS6t"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOS6l"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT13"},{"@id":"dis:2Zd$tVSQj0TuYGU6IBoC0_"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORjW"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORY7"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORaK"},{"@id":"dis:05bQqVhmfB4eJezFaEpusG"},{"@id":"dis:2SYClznvj7rAN0m34eJAgy"},{"@id":"dis:2SYClznvj7rAN0m34eJAg3"},{"@id":"dis:2SYClznvj7rAN0m34eJAib"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT4m"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT4G"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTwQ"},{"@id":"dis:0VP3G_FGb07xtu0JblVga3"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORiT"},{"@id":"dis:29JEkkq6v4deitAoBmBBKm"},{"@id":"dis:29JEkkq6v4deitAoBmBDwQ"},{"@id":"dis:29JEkkq6v4deitAoBmBDtg"},{"@id":"dis:29JEkkq6v4deitAoBmBDs$"},{"@id":"dis:29JEkkq6v4deitAoBmBH1m"},{"@id":"dis:29JEkkq6v4deitAoBmBDpb"},{"@id":"dis:29JEkkq6v4deitAoBmBFcR"},{"@id":"dis:29JEkkq6v4deitAoBmBFXx"},{"@id":"dis:29JEkkq6v4deitAoBmBEFu"},{"@id":"dis:29JEkkq6v4deitAoBmBEFn"},{"@id":"dis:29JEkkq6v4deitAoBmBEFY"}]},{"@id":"dis:19WE8vVzj6auDRHdUgJisS","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8B$","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1FBFJ578nChfG3o8n8A8B4","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8B5","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8BD","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1FBFJ578nChfG3o8n8A8BG","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1FBFJ578nChfG3o8n8A8BM","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1FBFJ578nChfG3o8n8A8BX","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1FBFJ578nChfG3o8n8A8Bc","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:1FBFJ578nChfG3o8n8A8CG","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8CN","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8CQ","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1FBFJ578nChfG3o8n8A8CU","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1FBFJ578nChfG3o8n8A8DF","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8DR","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1FBFJ578nChfG3o8n8A8FR","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8IL","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:1FBFJ578nChfG3o8n8A8IO","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8KF","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1FBFJ578nChfG3o8n8A8L3","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8Ln","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8MR","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8Ns","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8Q3","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8Q8","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8R4","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8RB","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8RF","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1FBFJ578nChfG3o8n8A8RP","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1FBFJ578nChfG3o8n8A8RT","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1FBFJ578nChfG3o8n8A8Rh","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:1FBFJ578nChfG3o8n8A8S9","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1FBFJ578nChfG3o8n8A8SD","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8Sy","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8Tg","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1FBFJ578nChfG3o8n8A8UN","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8AD0Z","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8AD0x","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8AD1A","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8ADI0","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8ADN5","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8ADNJ","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8ADNP","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8ADQY","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8ADQe","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8ADQs","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8ADRk","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8ADS5","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8ADSN","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8ADSY","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8AEYr","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8AEde","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1FBFJ578nChfG3o8n8AF0U","@type":"otl:UnitaryEquipment-AIRHANDLER"},{"@id":"dis:1FBFJ578nChfG3o8n8AF0d","@type":"otl:UnitaryEquipment-AIRHANDLER"},{"@id":"dis:1FCNic0r1E_O1XZY$rXL5t","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1TiBZEpyn0IgO8v1l0tABn","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ2G","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ2V","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ2Y","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ2a","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ2g","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ30","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ32","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ38","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ3d","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ3h","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ3u","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ51","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ5G","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ5M","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ5Q","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ5y","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJwX","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJzM","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJzP","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJzQ","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1VO3iV$$96$hFKjId3ToVq","@type":"otl:BuildingStorey","nen2660term:contains":[{"@id":"dis:1FBFJ578nChfG3o8n8AD0x"},{"@id":"dis:19WE8vVzj6auDRHdUgJisS"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT1P"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT15"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT17"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT1v"},{"@id":"dis:0oBQPHMpfESufhW3iTNo7W"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTvN"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTv8"},{"@id":"dis:3D9LsQKrr8B8MENevn4bXb"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT$8"},{"@id":"dis:0AwVaDrH955fzKGd6NHBUV"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORhH"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORef"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORf2"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORku"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORl8"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOORJ"},{"@id":"dis:2$VuWQNz54ceVuljhLXj5r"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOVd6"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT04"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTog"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT40"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT4A"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTxN"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORfx"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORkB"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORkW"},{"@id":"dis:0VP3G_FGb07xtu0JblVgaK"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORiP"}]},{"@id":"dis:1VO3iV$$96$hFKjId3ToVt","@type":"otl:BuildingStorey","nen2660term:contains":[{"@id":"dis:2U2bEFdi9D29Y9qmkfOVdn"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOVdz"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOVd$"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT1t"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT1p"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT1z"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOORS"},{"@id":"dis:1TiBZEpyn0IgO8v1l0tABn"}]},{"@id":"dis:1VO3iV$$96$hFKjId3TrJW","@type":"otl:UnitaryEquipment-ROOFTOPUNIT"},{"@id":"dis:1ZLKa4lfz3DQi0cEnb7fHq","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1dE6KuRdP4BB7xFbPTpEDM","@type":"otl:DuctSegment-RIGIDSEGMENT"},{"@id":"dis:1eqg1glbL1rABPeoupj2Av","@type":"otl:PipeFitting-BEND"},{"@id":"dis:1eqg1glbL1rABPeoupj2BJ","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1eqg1glbL1rABPeoupj2Bc","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1eqg1glbL1rABPeoupj2EA","@type":"otl:Space-SPACE","nen2660term:contains":[{"@id":"dis:29JEkkq6v4deitAoBmBESO"},{"@id":"dis:29JEkkq6v4deitAoBmBESS"},{"@id":"dis:0ehR7UOvv8aPeOVSa$yWaU"}]},{"@id":"dis:1eqg1glbL1rABPeoupj2Ea","@type":"otl:Space-SPACE","nen2660term:contains":[{"@id":"dis:2U2bEFdi9D29Y9qmkfOVdm"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT06"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT_v"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTyZ"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTod"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTpT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOORV"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOOR2"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOORE"},{"@id":"dis:0VP3G_FGb07xtu0JblVgay"},{"@id":"dis:0VP3G_FGb07xtu0JblVgd3"},{"@id":"dis:0Py2m111j3WggYaJTeOQmT"},{"@id":"dis:0Py2m111j3WggYaJTeOQmN"},{"@id":"dis:0Py2m111j3WggYaJTeOQmL"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOORP"},{"@id":"dis:0Py2m111j3WggYaJTeOQmR"}]},{"@id":"dis:1eqg1glbL1rABPeoupj2Eu","@type":"otl:Space-SPACE"},{"@id":"dis:1fdDgZ_nD4BRmWjisHlHJ6","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:1rUlriaPD9XBnIitcXdWA$","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2$VuWQNz54ceVuljhLXj5r","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmB9eD","@type":"otl:AirTerminal-REGISTER"},{"@id":"dis:29JEkkq6v4deitAoBmBBKm","@type":"otl:AirTerminal-GRILLE"},{"@id":"dis:29JEkkq6v4deitAoBmBDm1","@type":"otl:DuctFitting-BEND"},{"@id":"dis:29JEkkq6v4deitAoBmBDm9","@type":"otl:DuctFitting-CONNECTOR"},{"@id":"dis:29JEkkq6v4deitAoBmBDmL","@type":"otl:DuctSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBDmU","@type":"otl:DuctSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBDmZ","@type":"otl:AirTerminal-REGISTER"},{"@id":"dis:29JEkkq6v4deitAoBmBDmp","@type":"otl:DuctFitting-BEND"},{"@id":"dis:29JEkkq6v4deitAoBmBDmw","@type":"otl:DuctFitting-CONNECTOR"},{"@id":"dis:29JEkkq6v4deitAoBmBDn6","@type":"otl:DuctSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBDnF","@type":"otl:DuctSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBDpb","@type":"otl:DuctFitting-OBSTRUCTION"},{"@id":"dis:29JEkkq6v4deitAoBmBDs$","@type":"otl:DuctSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBDtg","@type":"otl:DuctSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBDwQ","@type":"otl:Fan-PROPELLORAXIAL"},{"@id":"dis:29JEkkq6v4deitAoBmBE0V","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:29JEkkq6v4deitAoBmBE0Y","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBE2g","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBE4v","@type":"otl:PipeFitting-BEND"},{"@id":"dis:29JEkkq6v4deitAoBmBE55","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBE5H","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBEFY","@type":"otl:WasteTerminal-ROOFDRAIN"},{"@id":"dis:29JEkkq6v4deitAoBmBEFn","@type":"otl:WasteTerminal-ROOFDRAIN"},{"@id":"dis:29JEkkq6v4deitAoBmBEFu","@type":"otl:WasteTerminal-ROOFDRAIN"},{"@id":"dis:29JEkkq6v4deitAoBmBEG6","@type":"otl:PipeFitting-TRANSITION"},{"@id":"dis:29JEkkq6v4deitAoBmBEGD","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:29JEkkq6v4deitAoBmBEI2","@type":"otl:AirTerminal-REGISTER"},{"@id":"dis:29JEkkq6v4deitAoBmBEIJ","@type":"otl:AirTerminal-REGISTER"},{"@id":"dis:29JEkkq6v4deitAoBmBEIi","@type":"otl:PipeFitting-BEND"},{"@id":"dis:29JEkkq6v4deitAoBmBEPl","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBESO","@type":"otl:PipeFitting-BEND"},{"@id":"dis:29JEkkq6v4deitAoBmBESS","@type":"otl:PipeFitting-BEND"},{"@id":"dis:29JEkkq6v4deitAoBmBESY","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBET8","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBETR","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBEVA","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBEWS","@type":"otl:AirTerminal-GRILLE"},{"@id":"dis:29JEkkq6v4deitAoBmBEXO","@type":"otl:DuctSegment-FLEXIBLESEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBEXb","@type":"otl:DuctSegment-FLEXIBLESEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBEb7","@type":"otl:DuctSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBEbS","@type":"otl:DuctSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBEga","@type":"otl:DuctSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBEvU","@type":"otl:DuctFitting-TRANSITION"},{"@id":"dis:29JEkkq6v4deitAoBmBEvb","@type":"otl:DuctSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBFXx","@type":"otl:DuctFitting-TRANSITION"},{"@id":"dis:29JEkkq6v4deitAoBmBFcR","@type":"otl:DuctSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBH1m","@type":"otl:DuctSegment-RIGIDSEGMENT"},{"@id":"dis:29JEkkq6v4deitAoBmBHBG","@type":"otl:Fan-PROPELLORAXIAL"},{"@id":"dis:2BuAc$sGjBxPgdrqYVruQ0","@type":"otl:Project","nen2660term:hasPart":{"@id":"dis:2BuAc$sGjBxPgdrqYVruQ2"}},{"@id":"dis:2BuAc$sGjBxPgdrqYVruQ1","@type":"otl:Building","nen2660term:hasPart":[{"@id":"dis:3Zu5Bv0LOHrPC10026FoQQ"},{"@id":"dis:15Z0v90RiHrPC20026FoKR"},{"@id":"dis:1VO3iV$$96$hFKjId3ToVq"},{"@id":"dis:1VO3iV$$96$hFKjId3ToVt"}]},{"@id":"dis:2BuAc$sGjBxPgdrqYVruQ2","@type":"otl:Site","nen2660term:hasPart":{"@id":"dis:2BuAc$sGjBxPgdrqYVruQ1"}},{"@id":"dis:2FXjL1Bn50EhPlSV0mjtgK","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2KdtiNC6963urv7OWmfioI","@type":"otl:DuctFitting-JUNCTION"},{"@id":"dis:2KdtiNC6963urv7OWmfioK","@type":"otl:DuctFitting-BEND"},{"@id":"dis:2L1w2sO$1F_9Qrg0IghYhb","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2SYClznvj7rAN0m34eJAg0","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2SYClznvj7rAN0m34eJAg3","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2SYClznvj7rAN0m34eJAg8","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2SYClznvj7rAN0m34eJAgC","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2SYClznvj7rAN0m34eJAga","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2SYClznvj7rAN0m34eJAgy","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2SYClznvj7rAN0m34eJAhP","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2SYClznvj7rAN0m34eJAhQ","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2SYClznvj7rAN0m34eJAhU","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2SYClznvj7rAN0m34eJAib","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2SYClznvj7rAN0m34eJAih","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2SYClznvj7rAN0m34eJAin","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2SYClznvj7rAN0m34eJAir","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2SYClznvj7rAN0m34eJAj0","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2SYClznvj7rAN0m34eJAj6","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2SYClznvj7rAN0m34eJAjE","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2SYClznvj7rAN0m34eJAjI","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOOR2","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOORE","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOORJ","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOORP","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOORS","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOORV","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQO1","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQO7","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQO9","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQOD","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQOS","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQPW","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQPY","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQPg","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQQF","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQQU","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQR2","@type":"otl:PipeFitting-TRANSITION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQRC","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQRE","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQRU","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQUK","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOR1_","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOR4Z","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOR5M","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOR6I","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOR6M","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORDL","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORY7","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORZ5","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORZf","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORaK","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORaM","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORaQ","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORaf","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORbH","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORef","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORf2","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORfx","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORhH","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORiP","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORiT","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORj4","@type":"otl:UnitaryEquipment-AIRHANDLER"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORjW","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORkB","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORkW","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORku","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORl8","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORw1","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORwP","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOS6l","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOS6t","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSKT","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSa9","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSb8","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSbE","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSbO","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSbS","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSeD","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSiX","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSlc","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSsU","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSzz","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT$8","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT04","@type":"otl:UnitaryEquipment-AIRHANDLER"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT06","@type":"otl:UnitaryEquipment-AIRHANDLER"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT13","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT15","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT17","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT1P","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT1p","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT1t","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT1v","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT1z","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT2X","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT40","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT4A","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT4G","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT4m","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTC5","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTF1","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTYG","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOT_v","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTa_","@type":"otl:PipeFitting-TRANSITION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTao","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTbk","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTdZ","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTdh","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTeC","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTfR","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOThS","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOThx","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTj2","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTjC","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTji","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTjk","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTjt","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTnZ","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTod","@type":"otl:PipeFitting-TRANSITION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTog","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTpH","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTpT","@type":"otl:PipeFitting-TRANSITION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTqu","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTrZ","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTtV","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTt_","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTv8","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTvN","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTwQ","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTxN","@type":"otl:PipeFitting-TRANSITION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTyZ","@type":"otl:PipeFitting-JUNCTION"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOVd$","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOVd6","@type":"otl:UnitaryEquipment-AIRHANDLER"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOVdm","@type":"otl:UnitaryEquipment-AIRHANDLER"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOVdn","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOVdz","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOVid","@type":"otl:UnitaryEquipment-AIRHANDLER"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOX16","@type":"otl:UnitaryEquipment-ROOFTOPUNIT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOX4I","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOX76","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOX7w","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2Zd$tVSQj0TuYGU6IBoC0_","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2_$HzqhibEA8GBQ3mKMrZJ","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2gKM$JUHj8TRf3NFnYoqqP","@type":"otl:PipeFitting-TRANSITION"},{"@id":"dis:2gKM$JUHj8TRf3NFnYoqrT","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2gKM$JUHj8TRf3NFnYoqry","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2q00LXIp16feL$4F0m7U6Z","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:2t55pVFeTBCxEOnajemY2f","@type":"otl:PipeFitting-TRANSITION"},{"@id":"dis:2t55pVFeTBCxEOnajemY2g","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2t55pVFeTBCxEOnajemY54","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2t55pVFeTBCxEOnajemY73","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2t55pVFeTBCxEOnajemY7H","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2t55pVFeTBCxEOnajemY7J","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2t55pVFeTBCxEOnajemY7N","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2t55pVFeTBCxEOnajemY7h","@type":"otl:PipeFitting-BEND"},{"@id":"dis:2t55pVFeTBCxEOnajemY7j","@type":"otl:PipeFitting-BEND"},{"@id":"dis:3$AT6dL_r0gBYFTkiQxvN3","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:38vpW_wgXCNA0RZdKmCLS0","@type":"otl:PipeFitting-BEND"},{"@id":"dis:38vpW_wgXCNA0RZdKmCLSM","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:38vpW_wgXCNA0RZdKmCLSO","@type":"otl:PipeFitting-BEND"},{"@id":"dis:38vpW_wgXCNA0RZdKmCLSU","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:38vpW_wgXCNA0RZdKmCLSe","@type":"otl:PipeFitting-BEND"},{"@id":"dis:38vpW_wgXCNA0RZdKmCLSg","@type":"otl:PipeFitting-BEND"},{"@id":"dis:38vpW_wgXCNA0RZdKmCLTm","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:3D9LsQKrr8B8MENevn4bXb","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:3GUROyVen7WPkUlCoXlecS","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:3Zu5Bv0LOHrPC10026FoQQ","@type":"otl:BuildingStorey","nen2660term:contains":[{"@id":"dis:1VO3iV$$96$hFKjId3TrJW"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOX16"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMv7"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMub"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMsZ"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMr3"},{"@id":"dis:3GUROyVen7WPkUlCoXlecS"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMrd"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMqg"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM82"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM6g"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM6$"},{"@id":"dis:2_$HzqhibEA8GBQ3mKMrZJ"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM46"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM4h"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNbE"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNnr"},{"@id":"dis:04LbL4d8nEZu0UqO6mquBI"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKWo"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oK_c"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKw3"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKwH"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKwr"},{"@id":"dis:0me7HuOOT2XRwTWJq7sYBw"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKvX"},{"@id":"dis:3t269URvrAx8JqCtHhzsKD"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKu0"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKtE"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKtQ"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKtd"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKts"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKsB"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKrj"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKoT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKPP"},{"@id":"dis:1FBFJ578nChfG3o8n8A8Q3"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM3$"},{"@id":"dis:1FBFJ578nChfG3o8n8A8MR"},{"@id":"dis:1FBFJ578nChfG3o8n8A8Ln"},{"@id":"dis:1FBFJ578nChfG3o8n8A8Ns"},{"@id":"dis:1FBFJ578nChfG3o8n8A8L3"},{"@id":"dis:1FBFJ578nChfG3o8n8A8Q8"},{"@id":"dis:1FBFJ578nChfG3o8n8A8IO"},{"@id":"dis:1FBFJ578nChfG3o8n8A8FR"},{"@id":"dis:1FBFJ578nChfG3o8n8A8DF"},{"@id":"dis:1FBFJ578nChfG3o8n8A8CG"},{"@id":"dis:1FBFJ578nChfG3o8n8A8CN"},{"@id":"dis:3y$UZ_q1n8TxHmkLpVQmC4"},{"@id":"dis:1FBFJ578nChfG3o8n8A8B5"},{"@id":"dis:1FBFJ578nChfG3o8n8A8B4"},{"@id":"dis:3t6fs6Xgj0sRdZB6rsUSkE"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOR1_"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOR6M"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOR4Z"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORwP"},{"@id":"dis:0MN1Y$MdnFzB8BBdjdLRv3"},{"@id":"dis:0NCGaLA3zCrfkQllMtPmQv"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ51"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ5G"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ5Q"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ2a"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ2G"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ3h"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ3u"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ32"},{"@id":"dis:2q00LXIp16feL$4F0m7U6Z"},{"@id":"dis:0Yf1Q_2r9CbPtIkG01Ru4H"},{"@id":"dis:0Yf1Q_2r9CbPtIkG01Ru47"},{"@id":"dis:0Yf1Q_2r9CbPtIkG01Ru5$"},{"@id":"dis:1rUlriaPD9XBnIitcXdWA$"},{"@id":"dis:1ZLKa4lfz3DQi0cEnb7fHq"},{"@id":"dis:1eqg1glbL1rABPeoupj2BJ"},{"@id":"dis:1eqg1glbL1rABPeoupj2Bc"},{"@id":"dis:0HvNvNTgf0rxiWOWMUvLXM"},{"@id":"dis:38vpW_wgXCNA0RZdKmCLTm"},{"@id":"dis:38vpW_wgXCNA0RZdKmCLSU"},{"@id":"dis:38vpW_wgXCNA0RZdKmCLSM"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMva"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMvt"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNhS"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNgL"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNft"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN5L"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN1E"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN10"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN06"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN0z"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNVL"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNU7"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNTM"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNKD"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNJf"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNJz"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKk4"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKkS"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKfK"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKfM"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKfc"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKfW"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKog"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKov"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKoo"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKnR"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKnl"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKnW"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKm8"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKmT"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKme"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKFa"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKEk"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKCK"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oK9I"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oK3m"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oK14"},{"@id":"dis:2L1w2sO$1F_9Qrg0IghYhb"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKSE"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKDa"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKLs"},{"@id":"dis:3zyDmA2RvD_wT1i2i5MSb6"},{"@id":"dis:1FBFJ578nChfG3o8n8A8UN"},{"@id":"dis:1FBFJ578nChfG3o8n8A8Sy"},{"@id":"dis:1FBFJ578nChfG3o8n8A8SD"},{"@id":"dis:1FBFJ578nChfG3o8n8A8RB"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOX76"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOX7w"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOThS"},{"@id":"dis:2FXjL1Bn50EhPlSV0mjtgK"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTj2"},{"@id":"dis:29JEkkq6v4deitAoBmBE5H"},{"@id":"dis:29JEkkq6v4deitAoBmBE55"},{"@id":"dis:29JEkkq6v4deitAoBmBE0Y"},{"@id":"dis:1FCNic0r1E_O1XZY$rXL5t"},{"@id":"dis:29JEkkq6v4deitAoBmBETR"},{"@id":"dis:29JEkkq6v4deitAoBmBET8"},{"@id":"dis:29JEkkq6v4deitAoBmBESY"},{"@id":"dis:29JEkkq6v4deitAoBmBEVA"},{"@id":"dis:29JEkkq6v4deitAoBmBEPl"},{"@id":"dis:1FBFJ578nChfG3o8n8A8R4"},{"@id":"dis:29JEkkq6v4deitAoBmBE2g"},{"@id":"dis:0dkTLSvXHECuXyUwo2U0mv"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJzM"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJzP"},{"@id":"dis:3uh20AA1vBG8rVQwcTHJKE"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMu2"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKSS"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMr8"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM6a"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM6x"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM6t"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM5c"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM5n"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNmS"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKtm"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKto"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKs7"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKpY"},{"@id":"dis:1FBFJ578nChfG3o8n8A8BM"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oMrJ"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM5O"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNm5"},{"@id":"dis:1FBFJ578nChfG3o8n8A8Bc"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oM1E"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNF3"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNeh"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNc6"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNBm"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN76"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN5s"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oN1M"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNUj"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNJv"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oNI0"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKgI"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKfI"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKfy"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKes"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKwl"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKvC"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKv$"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKPH"},{"@id":"dis:1FBFJ578nChfG3o8n8A8KF"},{"@id":"dis:1FBFJ578nChfG3o8n8A8DR"},{"@id":"dis:1FBFJ578nChfG3o8n8A8CQ"},{"@id":"dis:1FBFJ578nChfG3o8n8A8B$"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ2V"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ3d"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ30"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ38"},{"@id":"dis:0Yf1Q_2r9CbPtIkG01Ru45"},{"@id":"dis:0Yf1Q_2r9CbPtIkG01Ru5z"},{"@id":"dis:0Yf1Q_2r9CbPtIkG01Ru5p"},{"@id":"dis:0Yf1Q_2r9CbPtIkG01Ru5j"},{"@id":"dis:1eqg1glbL1rABPeoupj2Av"},{"@id":"dis:38vpW_wgXCNA0RZdKmCLS0"},{"@id":"dis:38vpW_wgXCNA0RZdKmCLSO"},{"@id":"dis:38vpW_wgXCNA0RZdKmCLSg"},{"@id":"dis:38vpW_wgXCNA0RZdKmCLSe"},{"@id":"dis:2t55pVFeTBCxEOnajemY2g"},{"@id":"dis:2t55pVFeTBCxEOnajemY73"},{"@id":"dis:2t55pVFeTBCxEOnajemY7H"},{"@id":"dis:2t55pVFeTBCxEOnajemY7J"},{"@id":"dis:2t55pVFeTBCxEOnajemY7N"},{"@id":"dis:2t55pVFeTBCxEOnajemY7h"},{"@id":"dis:2t55pVFeTBCxEOnajemY7j"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKwt"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKvZ"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKoD"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKqc"},{"@id":"dis:1FBFJ578nChfG3o8n8A8IL"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKor"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKnh"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKE3"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKET"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKB_"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKmr"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKC5"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oK27"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oK23"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oK1R"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oK1G"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKNY"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKKP"},{"@id":"dis:0Zbcw4zuTA5wHLhuC4oKKM"},{"@id":"dis:1FBFJ578nChfG3o8n8A8Tg"},{"@id":"dis:1FBFJ578nChfG3o8n8A8S9"},{"@id":"dis:1FBFJ578nChfG3o8n8A8Rh"},{"@id":"dis:1FBFJ578nChfG3o8n8A8RF"},{"@id":"dis:1FBFJ578nChfG3o8n8A8RT"},{"@id":"dis:1FBFJ578nChfG3o8n8A8RP"},{"@id":"dis:1FBFJ578nChfG3o8n8A8CU"},{"@id":"dis:1FBFJ578nChfG3o8n8A8BX"},{"@id":"dis:1FBFJ578nChfG3o8n8A8BD"},{"@id":"dis:1FBFJ578nChfG3o8n8A8BG"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORw1"},{"@id":"dis:1FBFJ578nChfG3o8n8ADSY"},{"@id":"dis:1FBFJ578nChfG3o8n8ADS5"},{"@id":"dis:1FBFJ578nChfG3o8n8ADSN"},{"@id":"dis:1FBFJ578nChfG3o8n8ADRk"},{"@id":"dis:1FBFJ578nChfG3o8n8ADQY"},{"@id":"dis:1FBFJ578nChfG3o8n8ADQs"},{"@id":"dis:1FBFJ578nChfG3o8n8ADNP"},{"@id":"dis:1FBFJ578nChfG3o8n8ADN5"},{"@id":"dis:1FBFJ578nChfG3o8n8AEde"},{"@id":"dis:1FBFJ578nChfG3o8n8AEYr"},{"@id":"dis:0y6$ro3_zABAi6_W6LSP9Z"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOX4I"},{"@id":"dis:1FBFJ578nChfG3o8n8ADQe"},{"@id":"dis:1FBFJ578nChfG3o8n8ADI0"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSeD"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSiX"},{"@id":"dis:07oXa_vc94e8OUb7yg1Q6_"},{"@id":"dis:0Q8HDPjsH5b9QwemIkR3jg"},{"@id":"dis:3pGf9F1SbB_8ZUz8D7FGeK"},{"@id":"dis:0FsRTCzdDCUe1zH6BEMkIb"},{"@id":"dis:0J35z$tDLANRveiL50lrFj"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTnZ"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTtV"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTt_"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTqu"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOThx"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTeC"},{"@id":"dis:0M9lnfhvj0rgx2MREjM1tu"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTji"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTdZ"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTbk"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQQU"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQQF"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQOS"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQO7"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQPW"},{"@id":"dis:1fdDgZ_nD4BRmWjisHlHJ6"},{"@id":"dis:3$AT6dL_r0gBYFTkiQxvN3"},{"@id":"dis:3bvB4gGKPDsfiIFEL03pTx"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORZ5"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORZf"},{"@id":"dis:2SYClznvj7rAN0m34eJAhQ"},{"@id":"dis:2SYClznvj7rAN0m34eJAhP"},{"@id":"dis:2SYClznvj7rAN0m34eJAj0"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTfR"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSKT"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSzz"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSa9"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSbS"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSbO"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTpH"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSsU"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSbE"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOSb8"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTjk"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTYG"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQR2"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTrZ"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTjC"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTjt"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTao"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQRC"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQOD"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQO9"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQPg"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOQUK"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOTa_"},{"@id":"dis:2U2bEFdi9D29Y9qmkfORDL"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOR6I"},{"@id":"dis:2U2bEFdi9D29Y9qmkfOR5M"},{"@id":"dis:29JEkkq6v4deitAoBmBDnF"},{"@id":"dis:29JEkkq6v4deitAoBmBDn6"},{"@id":"dis:29JEkkq6v4deitAoBmBDmU"},{"@id":"dis:29JEkkq6v4deitAoBmBDmL"},{"@id":"dis:29JEkkq6v4deitAoBmBEga"},{"@id":"dis:29JEkkq6v4deitAoBmBEbS"},{"@id":"dis:29JEkkq6v4deitAoBmBEb7"},{"@id":"dis:29JEkkq6v4deitAoBmBDmw"},{"@id":"dis:29JEkkq6v4deitAoBmBDm9"},{"@id":"dis:29JEkkq6v4deitAoBmBDmp"},{"@id":"dis:29JEkkq6v4deitAoBmBDm1"},{"@id":"dis:29JEkkq6v4deitAoBmBEvb"},{"@id":"dis:1dE6KuRdP4BB7xFbPTpEDM"},{"@id":"dis:29JEkkq6v4deitAoBmBEGD"},{"@id":"dis:29JEkkq6v4deitAoBmBEG6"},{"@id":"dis:29JEkkq6v4deitAoBmBEIi"},{"@id":"dis:29JEkkq6v4deitAoBmBEXb"},{"@id":"dis:29JEkkq6v4deitAoBmBEXO"},{"@id":"dis:29JEkkq6v4deitAoBmBEWS"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJzQ"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJwX"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ5y"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ5M"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ2Y"},{"@id":"dis:1V3Mkf3yf6BeoadC1lQJ2g"},{"@id":"dis:0ehR7UOvv8aPeOVSa$yWaO"},{"@id":"dis:0ehR7UOvv8aPeOVSa$yWa4"},{"@id":"dis:2t55pVFeTBCxEOnajemY2f"},{"@id":"dis:2t55pVFeTBCxEOnajemY54"}]},{"@id":"dis:3bvB4gGKPDsfiIFEL03pTx","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:3pGf9F1SbB_8ZUz8D7FGeK","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:3t269URvrAx8JqCtHhzsKD","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:3t6fs6Xgj0sRdZB6rsUSkE","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:3uh20AA1vBG8rVQwcTHJKE","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:3y$UZ_q1n8TxHmkLpVQmC4","@type":"otl:PipeSegment-RIGIDSEGMENT"},{"@id":"dis:3zyDmA2RvD_wT1i2i5MSb6","@type":"otl:PipeSegment-RIGIDSEGMENT"}]}
+{
+  "@context": {
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "ifc": "https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD2/OWL#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "otl": "https://otl.buildingsmart.org/IFC4_ADD2_TC1/def/",
+    "nen2660term": "https://w3id.org/nen2660/term#",
+    "dis": "https://otl.buildingsmart.org/test-project/"
+  },
+  "@graph": [
+    {
+      "@id": "dis:04LbL4d8nEZu0UqO6mquBI",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:05bQqVhmfB4eJezFaEpusG",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:07oXa_vc94e8OUb7yg1Q6_",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0AwVaDrH955fzKGd6NHBUV",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0FsRTCzdDCUe1zH6BEMkIb",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0HvNvNTgf0rxiWOWMUvLXM",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0J35z$tDLANRveiL50lrFj",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0M9lnfhvj0rgx2MREjM1tu",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0MN1Y$MdnFzB8BBdjdLRv3",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0NCGaLA3zCrfkQllMtPmQv",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Py2m111j3WggYaJTeOQmL",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Py2m111j3WggYaJTeOQmN",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Py2m111j3WggYaJTeOQmR",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Py2m111j3WggYaJTeOQmT",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Q8HDPjsH5b9QwemIkR3jg",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0VP3G_FGb07xtu0JblVga3",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0VP3G_FGb07xtu0JblVgaK",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0VP3G_FGb07xtu0JblVgay",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0VP3G_FGb07xtu0JblVgd3",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0VP3G_FGb07xtu0JblVgdK",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Yf1Q_2r9CbPtIkG01Ru45",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Yf1Q_2r9CbPtIkG01Ru47",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Yf1Q_2r9CbPtIkG01Ru4H",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Yf1Q_2r9CbPtIkG01Ru5$",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Yf1Q_2r9CbPtIkG01Ru5j",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Yf1Q_2r9CbPtIkG01Ru5p",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Yf1Q_2r9CbPtIkG01Ru5z",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oK14",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oK1G",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oK1R",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oK23",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oK27",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oK3m",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oK9I",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKB_",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKC5",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKCK",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKDa",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKE3",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKET",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKEk",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKFa",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKKM",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKKP",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKLs",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKNY",
+      "@type": "otl:PipeFitting-TRANSITION"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKO2",
+      "@type": "otl:Space-SPACE",
+      "nen2660term:contains": [
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oPSI"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oM$l"
+        },
+        {
+          "@id": "dis:0VP3G_FGb07xtu0JblVgdK"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oN0I"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKeo"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEI2"
+        }
+      ]
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKO4",
+      "@type": "otl:Space-SPACE",
+      "nen2660term:contains": [
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBE4v"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8AF0d"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8AF0U"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTdh"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOQRU"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOQRE"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOQO1"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOQPY"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBE0V"
+        }
+      ]
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKO7",
+      "@type": "otl:Space-SPACE",
+      "nen2660term:contains": [
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAin"
+        },
+        {
+          "@id": "dis:0y6$ro3_zABAi6_W6LSPAm"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTC5"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORaM"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORaf"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOVid"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORj4"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTF1"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT2X"
+        },
+        {
+          "@id": "dis:2gKM$JUHj8TRf3NFnYoqrT"
+        },
+        {
+          "@id": "dis:2gKM$JUHj8TRf3NFnYoqry"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOSlc"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORaQ"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORbH"
+        },
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAg8"
+        },
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAj6"
+        },
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAjE"
+        },
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAjI"
+        },
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAih"
+        },
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAir"
+        },
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAhU"
+        },
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAga"
+        },
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAg0"
+        },
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAgC"
+        },
+        {
+          "@id": "dis:2KdtiNC6963urv7OWmfioK"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEvU"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBHBG"
+        },
+        {
+          "@id": "dis:2gKM$JUHj8TRf3NFnYoqqP"
+        },
+        {
+          "@id": "dis:2KdtiNC6963urv7OWmfioI"
+        }
+      ]
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKO9",
+      "@type": "otl:Space-SPACE",
+      "nen2660term:contains": [
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKwE"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKwF"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKQo"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBDmZ"
+        }
+      ]
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKOE",
+      "@type": "otl:Space-SPACE",
+      "nen2660term:contains": [
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNA4"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNA5"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKmR"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmB9eD"
+        }
+      ]
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKOT",
+      "@type": "otl:Space-SPACE",
+      "nen2660term:contains": [
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oMzT"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oMzU"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oMuD"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKgQ"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEIJ"
+        }
+      ]
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKPH",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKPP",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKQo",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKSE",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKSS",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKWo",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oK_c",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKeo",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKes",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKfI",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKfK",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKfM",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKfW",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKfc",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKfy",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKgI",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKgQ",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKk4",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKkS",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKm8",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKmR",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKmT",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKme",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKmr",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKnR",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKnW",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKnh",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKnl",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKoD",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKoT",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKog",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKoo",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKor",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKov",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKpY",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKqc",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKrj",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKs7",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKsB",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKtE",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKtQ",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKtd",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKtm",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKto",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKts",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKu0",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKv$",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKvC",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKvX",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKvZ",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKw3",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKwE",
+      "@type": "otl:SanitaryTerminal-WASHHANDBASIN"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKwF",
+      "@type": "otl:Valve-FAUCET"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKwH",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKwl",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKwr",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oKwt",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oM$l",
+      "@type": "otl:Valve-FAUCET"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oM1E",
+      "@type": "otl:SanitaryTerminal-WCSEAT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oM3$",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oM46",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oM4h",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oM5O",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oM5c",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oM5n",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oM6$",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oM6a",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oM6g",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oM6t",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oM6x",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oM82",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oMqg",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oMr3",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oMr8",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oMrJ",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oMrd",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oMsZ",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oMu2",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oMuD",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oMub",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oMv7",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oMva",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oMvt",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oMzT",
+      "@type": "otl:SanitaryTerminal-WASHHANDBASIN"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oMzU",
+      "@type": "otl:Valve-FAUCET"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oN06",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oN0I",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oN0z",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oN10",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oN1E",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oN1M",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oN5L",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oN5s",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oN76",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNA4",
+      "@type": "otl:SanitaryTerminal-WASHHANDBASIN"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNA5",
+      "@type": "otl:Valve-FAUCET"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNBm",
+      "@type": "otl:SanitaryTerminal-WCSEAT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNF3",
+      "@type": "otl:SanitaryTerminal-WCSEAT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNI0",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNJf",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNJv",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNJz",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNKD",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNTM",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNU7",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNUj",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNVL",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNbE",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNc6",
+      "@type": "otl:SanitaryTerminal-WCSEAT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNeh",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNft",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNgL",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNhS",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNm5",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNmS",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oNnr",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0Zbcw4zuTA5wHLhuC4oPSI",
+      "@type": "otl:SanitaryTerminal-WASHHANDBASIN"
+    },
+    {
+      "@id": "dis:0dkTLSvXHECuXyUwo2U0mv",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0ehR7UOvv8aPeOVSa$yWa4",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0ehR7UOvv8aPeOVSa$yWaO",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0ehR7UOvv8aPeOVSa$yWaU",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:0me7HuOOT2XRwTWJq7sYBw",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0oBQPHMpfESufhW3iTNo7W",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0y6$ro3_zABAi6_W6LSP9Z",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:0y6$ro3_zABAi6_W6LSPAm",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:15Z0v90RiHrPC20026FoKR",
+      "@type": "otl:BuildingStorey",
+      "nen2660term:contains": [
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8AD1A"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8AD0Z"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8ADNJ"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOS6t"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOS6l"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT13"
+        },
+        {
+          "@id": "dis:2Zd$tVSQj0TuYGU6IBoC0_"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORjW"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORY7"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORaK"
+        },
+        {
+          "@id": "dis:05bQqVhmfB4eJezFaEpusG"
+        },
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAgy"
+        },
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAg3"
+        },
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAib"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT4m"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT4G"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTwQ"
+        },
+        {
+          "@id": "dis:0VP3G_FGb07xtu0JblVga3"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORiT"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBBKm"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBDwQ"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBDtg"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBDs$"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBH1m"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBDpb"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBFcR"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBFXx"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEFu"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEFn"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEFY"
+        }
+      ]
+    },
+    {
+      "@id": "dis:19WE8vVzj6auDRHdUgJisS",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8B$",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8B4",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8B5",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8BD",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8BG",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8BM",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8BX",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8Bc",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8CG",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8CN",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8CQ",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8CU",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8DF",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8DR",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8FR",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8IL",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8IO",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8KF",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8L3",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8Ln",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8MR",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8Ns",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8Q3",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8Q8",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8R4",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8RB",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8RF",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8RP",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8RT",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8Rh",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8S9",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8SD",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8Sy",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8Tg",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8A8UN",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8AD0Z",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8AD0x",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8AD1A",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8ADI0",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8ADN5",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8ADNJ",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8ADNP",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8ADQY",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8ADQe",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8ADQs",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8ADRk",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8ADS5",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8ADSN",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8ADSY",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8AEYr",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8AEde",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8AF0U",
+      "@type": "otl:UnitaryEquipment-AIRHANDLER"
+    },
+    {
+      "@id": "dis:1FBFJ578nChfG3o8n8AF0d",
+      "@type": "otl:UnitaryEquipment-AIRHANDLER"
+    },
+    {
+      "@id": "dis:1FCNic0r1E_O1XZY$rXL5t",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1TiBZEpyn0IgO8v1l0tABn",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJ2G",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJ2V",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJ2Y",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJ2a",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJ2g",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJ30",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJ32",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJ38",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJ3d",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJ3h",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJ3u",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJ51",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJ5G",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJ5M",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJ5Q",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJ5y",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJwX",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJzM",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJzP",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1V3Mkf3yf6BeoadC1lQJzQ",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1VO3iV$$96$hFKjId3ToVq",
+      "@type": "otl:BuildingStorey",
+      "nen2660term:contains": [
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8AD0x"
+        },
+        {
+          "@id": "dis:19WE8vVzj6auDRHdUgJisS"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT1P"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT15"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT17"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT1v"
+        },
+        {
+          "@id": "dis:0oBQPHMpfESufhW3iTNo7W"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTvN"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTv8"
+        },
+        {
+          "@id": "dis:3D9LsQKrr8B8MENevn4bXb"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT$8"
+        },
+        {
+          "@id": "dis:0AwVaDrH955fzKGd6NHBUV"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORhH"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORef"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORf2"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORku"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORl8"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOORJ"
+        },
+        {
+          "@id": "dis:2$VuWQNz54ceVuljhLXj5r"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOVd6"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT04"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTog"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT40"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT4A"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTxN"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORfx"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORkB"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORkW"
+        },
+        {
+          "@id": "dis:0VP3G_FGb07xtu0JblVgaK"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORiP"
+        }
+      ]
+    },
+    {
+      "@id": "dis:1VO3iV$$96$hFKjId3ToVt",
+      "@type": "otl:BuildingStorey",
+      "nen2660term:contains": [
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOVdn"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOVdz"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOVd$"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT1t"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT1p"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT1z"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOORS"
+        },
+        {
+          "@id": "dis:1TiBZEpyn0IgO8v1l0tABn"
+        }
+      ]
+    },
+    {
+      "@id": "dis:1VO3iV$$96$hFKjId3TrJW",
+      "@type": "otl:UnitaryEquipment-ROOFTOPUNIT"
+    },
+    {
+      "@id": "dis:1ZLKa4lfz3DQi0cEnb7fHq",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1dE6KuRdP4BB7xFbPTpEDM",
+      "@type": "otl:DuctSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1eqg1glbL1rABPeoupj2Av",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:1eqg1glbL1rABPeoupj2BJ",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1eqg1glbL1rABPeoupj2Bc",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1eqg1glbL1rABPeoupj2EA",
+      "@type": "otl:Space-SPACE",
+      "nen2660term:contains": [
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBESO"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBESS"
+        },
+        {
+          "@id": "dis:0ehR7UOvv8aPeOVSa$yWaU"
+        }
+      ]
+    },
+    {
+      "@id": "dis:1eqg1glbL1rABPeoupj2Ea",
+      "@type": "otl:Space-SPACE",
+      "nen2660term:contains": [
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOVdm"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT06"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOT_v"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTyZ"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTod"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTpT"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOORV"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOOR2"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOORE"
+        },
+        {
+          "@id": "dis:0VP3G_FGb07xtu0JblVgay"
+        },
+        {
+          "@id": "dis:0VP3G_FGb07xtu0JblVgd3"
+        },
+        {
+          "@id": "dis:0Py2m111j3WggYaJTeOQmT"
+        },
+        {
+          "@id": "dis:0Py2m111j3WggYaJTeOQmN"
+        },
+        {
+          "@id": "dis:0Py2m111j3WggYaJTeOQmL"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOORP"
+        },
+        {
+          "@id": "dis:0Py2m111j3WggYaJTeOQmR"
+        }
+      ]
+    },
+    {
+      "@id": "dis:1eqg1glbL1rABPeoupj2Eu",
+      "@type": "otl:Space-SPACE"
+    },
+    {
+      "@id": "dis:1fdDgZ_nD4BRmWjisHlHJ6",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:1rUlriaPD9XBnIitcXdWA$",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2$VuWQNz54ceVuljhLXj5r",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmB9eD",
+      "@type": "otl:AirTerminal-REGISTER"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBBKm",
+      "@type": "otl:AirTerminal-GRILLE"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBDm1",
+      "@type": "otl:DuctFitting-BEND"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBDm9",
+      "@type": "otl:DuctFitting-CONNECTOR"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBDmL",
+      "@type": "otl:DuctSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBDmU",
+      "@type": "otl:DuctSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBDmZ",
+      "@type": "otl:AirTerminal-REGISTER"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBDmp",
+      "@type": "otl:DuctFitting-BEND"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBDmw",
+      "@type": "otl:DuctFitting-CONNECTOR"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBDn6",
+      "@type": "otl:DuctSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBDnF",
+      "@type": "otl:DuctSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBDpb",
+      "@type": "otl:DuctFitting-OBSTRUCTION"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBDs$",
+      "@type": "otl:DuctSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBDtg",
+      "@type": "otl:DuctSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBDwQ",
+      "@type": "otl:Fan-PROPELLORAXIAL"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBE0V",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBE0Y",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBE2g",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBE4v",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBE55",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBE5H",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEFY",
+      "@type": "otl:WasteTerminal-ROOFDRAIN"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEFn",
+      "@type": "otl:WasteTerminal-ROOFDRAIN"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEFu",
+      "@type": "otl:WasteTerminal-ROOFDRAIN"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEG6",
+      "@type": "otl:PipeFitting-TRANSITION"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEGD",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEI2",
+      "@type": "otl:AirTerminal-REGISTER"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEIJ",
+      "@type": "otl:AirTerminal-REGISTER"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEIi",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEPl",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBESO",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBESS",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBESY",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBET8",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBETR",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEVA",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEWS",
+      "@type": "otl:AirTerminal-GRILLE"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEXO",
+      "@type": "otl:DuctSegment-FLEXIBLESEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEXb",
+      "@type": "otl:DuctSegment-FLEXIBLESEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEb7",
+      "@type": "otl:DuctSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEbS",
+      "@type": "otl:DuctSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEga",
+      "@type": "otl:DuctSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEvU",
+      "@type": "otl:DuctFitting-TRANSITION"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBEvb",
+      "@type": "otl:DuctSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBFXx",
+      "@type": "otl:DuctFitting-TRANSITION"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBFcR",
+      "@type": "otl:DuctSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBH1m",
+      "@type": "otl:DuctSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:29JEkkq6v4deitAoBmBHBG",
+      "@type": "otl:Fan-PROPELLORAXIAL"
+    },
+    {
+      "@id": "dis:2BuAc$sGjBxPgdrqYVruQ0",
+      "@type": "otl:Project",
+      "nen2660term:hasPart": {
+        "@id": "dis:2BuAc$sGjBxPgdrqYVruQ2"
+      }
+    },
+    {
+      "@id": "dis:2BuAc$sGjBxPgdrqYVruQ1",
+      "@type": "otl:Building",
+      "nen2660term:hasPart": [
+        {
+          "@id": "dis:3Zu5Bv0LOHrPC10026FoQQ"
+        },
+        {
+          "@id": "dis:15Z0v90RiHrPC20026FoKR"
+        },
+        {
+          "@id": "dis:1VO3iV$$96$hFKjId3ToVq"
+        },
+        {
+          "@id": "dis:1VO3iV$$96$hFKjId3ToVt"
+        }
+      ]
+    },
+    {
+      "@id": "dis:2BuAc$sGjBxPgdrqYVruQ2",
+      "@type": "otl:Site",
+      "nen2660term:hasPart": {
+        "@id": "dis:2BuAc$sGjBxPgdrqYVruQ1"
+      }
+    },
+    {
+      "@id": "dis:2FXjL1Bn50EhPlSV0mjtgK",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2KdtiNC6963urv7OWmfioI",
+      "@type": "otl:DuctFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:2KdtiNC6963urv7OWmfioK",
+      "@type": "otl:DuctFitting-BEND"
+    },
+    {
+      "@id": "dis:2L1w2sO$1F_9Qrg0IghYhb",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAg0",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAg3",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAg8",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAgC",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAga",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAgy",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAhP",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAhQ",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAhU",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAib",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAih",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAin",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAir",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAj0",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAj6",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAjE",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2SYClznvj7rAN0m34eJAjI",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOOR2",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOORE",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOORJ",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOORP",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOORS",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOORV",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOQO1",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOQO7",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOQO9",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOQOD",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOQOS",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOQPW",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOQPY",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOQPg",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOQQF",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOQQU",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOQR2",
+      "@type": "otl:PipeFitting-TRANSITION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOQRC",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOQRE",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOQRU",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOQUK",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOR1_",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOR4Z",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOR5M",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOR6I",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOR6M",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORDL",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORY7",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORZ5",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORZf",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORaK",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORaM",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORaQ",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORaf",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORbH",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORef",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORf2",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORfx",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORhH",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORiP",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORiT",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORj4",
+      "@type": "otl:UnitaryEquipment-AIRHANDLER"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORjW",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORkB",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORkW",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORku",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORl8",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORw1",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfORwP",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOS6l",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOS6t",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOSKT",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOSa9",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOSb8",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOSbE",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOSbO",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOSbS",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOSeD",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOSiX",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOSlc",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOSsU",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOSzz",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT$8",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT04",
+      "@type": "otl:UnitaryEquipment-AIRHANDLER"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT06",
+      "@type": "otl:UnitaryEquipment-AIRHANDLER"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT13",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT15",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT17",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT1P",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT1p",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT1t",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT1v",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT1z",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT2X",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT40",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT4A",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT4G",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT4m",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTC5",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTF1",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTYG",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOT_v",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTa_",
+      "@type": "otl:PipeFitting-TRANSITION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTao",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTbk",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTdZ",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTdh",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTeC",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTfR",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOThS",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOThx",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTj2",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTjC",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTji",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTjk",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTjt",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTnZ",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTod",
+      "@type": "otl:PipeFitting-TRANSITION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTog",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTpH",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTpT",
+      "@type": "otl:PipeFitting-TRANSITION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTqu",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTrZ",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTtV",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTt_",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTv8",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTvN",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTwQ",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTxN",
+      "@type": "otl:PipeFitting-TRANSITION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOTyZ",
+      "@type": "otl:PipeFitting-JUNCTION"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOVd$",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOVd6",
+      "@type": "otl:UnitaryEquipment-AIRHANDLER"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOVdm",
+      "@type": "otl:UnitaryEquipment-AIRHANDLER"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOVdn",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOVdz",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOVid",
+      "@type": "otl:UnitaryEquipment-AIRHANDLER"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOX16",
+      "@type": "otl:UnitaryEquipment-ROOFTOPUNIT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOX4I",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOX76",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2U2bEFdi9D29Y9qmkfOX7w",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2Zd$tVSQj0TuYGU6IBoC0_",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2_$HzqhibEA8GBQ3mKMrZJ",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2gKM$JUHj8TRf3NFnYoqqP",
+      "@type": "otl:PipeFitting-TRANSITION"
+    },
+    {
+      "@id": "dis:2gKM$JUHj8TRf3NFnYoqrT",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2gKM$JUHj8TRf3NFnYoqry",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2q00LXIp16feL$4F0m7U6Z",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:2t55pVFeTBCxEOnajemY2f",
+      "@type": "otl:PipeFitting-TRANSITION"
+    },
+    {
+      "@id": "dis:2t55pVFeTBCxEOnajemY2g",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2t55pVFeTBCxEOnajemY54",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2t55pVFeTBCxEOnajemY73",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2t55pVFeTBCxEOnajemY7H",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2t55pVFeTBCxEOnajemY7J",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2t55pVFeTBCxEOnajemY7N",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2t55pVFeTBCxEOnajemY7h",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:2t55pVFeTBCxEOnajemY7j",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:3$AT6dL_r0gBYFTkiQxvN3",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:38vpW_wgXCNA0RZdKmCLS0",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:38vpW_wgXCNA0RZdKmCLSM",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:38vpW_wgXCNA0RZdKmCLSO",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:38vpW_wgXCNA0RZdKmCLSU",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:38vpW_wgXCNA0RZdKmCLSe",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:38vpW_wgXCNA0RZdKmCLSg",
+      "@type": "otl:PipeFitting-BEND"
+    },
+    {
+      "@id": "dis:38vpW_wgXCNA0RZdKmCLTm",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:3D9LsQKrr8B8MENevn4bXb",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:3GUROyVen7WPkUlCoXlecS",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:3Zu5Bv0LOHrPC10026FoQQ",
+      "@type": "otl:BuildingStorey",
+      "nen2660term:contains": [
+        {
+          "@id": "dis:1VO3iV$$96$hFKjId3TrJW"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOX16"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oMv7"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oMub"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oMsZ"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oMr3"
+        },
+        {
+          "@id": "dis:3GUROyVen7WPkUlCoXlecS"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oMrd"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oMqg"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oM82"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oM6g"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oM6$"
+        },
+        {
+          "@id": "dis:2_$HzqhibEA8GBQ3mKMrZJ"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oM46"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oM4h"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNbE"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNnr"
+        },
+        {
+          "@id": "dis:04LbL4d8nEZu0UqO6mquBI"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKWo"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oK_c"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKw3"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKwH"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKwr"
+        },
+        {
+          "@id": "dis:0me7HuOOT2XRwTWJq7sYBw"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKvX"
+        },
+        {
+          "@id": "dis:3t269URvrAx8JqCtHhzsKD"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKu0"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKtE"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKtQ"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKtd"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKts"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKsB"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKrj"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKoT"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKPP"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8Q3"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oM3$"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8MR"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8Ln"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8Ns"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8L3"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8Q8"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8IO"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8FR"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8DF"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8CG"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8CN"
+        },
+        {
+          "@id": "dis:3y$UZ_q1n8TxHmkLpVQmC4"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8B5"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8B4"
+        },
+        {
+          "@id": "dis:3t6fs6Xgj0sRdZB6rsUSkE"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOR1_"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOR6M"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOR4Z"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORwP"
+        },
+        {
+          "@id": "dis:0MN1Y$MdnFzB8BBdjdLRv3"
+        },
+        {
+          "@id": "dis:0NCGaLA3zCrfkQllMtPmQv"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJ51"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJ5G"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJ5Q"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJ2a"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJ2G"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJ3h"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJ3u"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJ32"
+        },
+        {
+          "@id": "dis:2q00LXIp16feL$4F0m7U6Z"
+        },
+        {
+          "@id": "dis:0Yf1Q_2r9CbPtIkG01Ru4H"
+        },
+        {
+          "@id": "dis:0Yf1Q_2r9CbPtIkG01Ru47"
+        },
+        {
+          "@id": "dis:0Yf1Q_2r9CbPtIkG01Ru5$"
+        },
+        {
+          "@id": "dis:1rUlriaPD9XBnIitcXdWA$"
+        },
+        {
+          "@id": "dis:1ZLKa4lfz3DQi0cEnb7fHq"
+        },
+        {
+          "@id": "dis:1eqg1glbL1rABPeoupj2BJ"
+        },
+        {
+          "@id": "dis:1eqg1glbL1rABPeoupj2Bc"
+        },
+        {
+          "@id": "dis:0HvNvNTgf0rxiWOWMUvLXM"
+        },
+        {
+          "@id": "dis:38vpW_wgXCNA0RZdKmCLTm"
+        },
+        {
+          "@id": "dis:38vpW_wgXCNA0RZdKmCLSU"
+        },
+        {
+          "@id": "dis:38vpW_wgXCNA0RZdKmCLSM"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oMva"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oMvt"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNhS"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNgL"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNft"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oN5L"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oN1E"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oN10"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oN06"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oN0z"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNVL"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNU7"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNTM"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNKD"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNJf"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNJz"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKk4"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKkS"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKfK"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKfM"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKfc"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKfW"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKog"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKov"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKoo"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKnR"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKnl"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKnW"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKm8"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKmT"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKme"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKFa"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKEk"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKCK"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oK9I"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oK3m"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oK14"
+        },
+        {
+          "@id": "dis:2L1w2sO$1F_9Qrg0IghYhb"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKSE"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKDa"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKLs"
+        },
+        {
+          "@id": "dis:3zyDmA2RvD_wT1i2i5MSb6"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8UN"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8Sy"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8SD"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8RB"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOX76"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOX7w"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOThS"
+        },
+        {
+          "@id": "dis:2FXjL1Bn50EhPlSV0mjtgK"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTj2"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBE5H"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBE55"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBE0Y"
+        },
+        {
+          "@id": "dis:1FCNic0r1E_O1XZY$rXL5t"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBETR"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBET8"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBESY"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEVA"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEPl"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8R4"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBE2g"
+        },
+        {
+          "@id": "dis:0dkTLSvXHECuXyUwo2U0mv"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJzM"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJzP"
+        },
+        {
+          "@id": "dis:3uh20AA1vBG8rVQwcTHJKE"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oMu2"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKSS"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oMr8"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oM6a"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oM6x"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oM6t"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oM5c"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oM5n"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNmS"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKtm"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKto"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKs7"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKpY"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8BM"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oMrJ"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oM5O"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNm5"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8Bc"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oM1E"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNF3"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNeh"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNc6"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNBm"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oN76"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oN5s"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oN1M"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNUj"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNJv"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oNI0"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKgI"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKfI"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKfy"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKes"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKwl"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKvC"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKv$"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKPH"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8KF"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8DR"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8CQ"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8B$"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJ2V"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJ3d"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJ30"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJ38"
+        },
+        {
+          "@id": "dis:0Yf1Q_2r9CbPtIkG01Ru45"
+        },
+        {
+          "@id": "dis:0Yf1Q_2r9CbPtIkG01Ru5z"
+        },
+        {
+          "@id": "dis:0Yf1Q_2r9CbPtIkG01Ru5p"
+        },
+        {
+          "@id": "dis:0Yf1Q_2r9CbPtIkG01Ru5j"
+        },
+        {
+          "@id": "dis:1eqg1glbL1rABPeoupj2Av"
+        },
+        {
+          "@id": "dis:38vpW_wgXCNA0RZdKmCLS0"
+        },
+        {
+          "@id": "dis:38vpW_wgXCNA0RZdKmCLSO"
+        },
+        {
+          "@id": "dis:38vpW_wgXCNA0RZdKmCLSg"
+        },
+        {
+          "@id": "dis:38vpW_wgXCNA0RZdKmCLSe"
+        },
+        {
+          "@id": "dis:2t55pVFeTBCxEOnajemY2g"
+        },
+        {
+          "@id": "dis:2t55pVFeTBCxEOnajemY73"
+        },
+        {
+          "@id": "dis:2t55pVFeTBCxEOnajemY7H"
+        },
+        {
+          "@id": "dis:2t55pVFeTBCxEOnajemY7J"
+        },
+        {
+          "@id": "dis:2t55pVFeTBCxEOnajemY7N"
+        },
+        {
+          "@id": "dis:2t55pVFeTBCxEOnajemY7h"
+        },
+        {
+          "@id": "dis:2t55pVFeTBCxEOnajemY7j"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKwt"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKvZ"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKoD"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKqc"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8IL"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKor"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKnh"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKE3"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKET"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKB_"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKmr"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKC5"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oK27"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oK23"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oK1R"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oK1G"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKNY"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKKP"
+        },
+        {
+          "@id": "dis:0Zbcw4zuTA5wHLhuC4oKKM"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8Tg"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8S9"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8Rh"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8RF"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8RT"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8RP"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8CU"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8BX"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8BD"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8A8BG"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORw1"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8ADSY"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8ADS5"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8ADSN"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8ADRk"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8ADQY"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8ADQs"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8ADNP"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8ADN5"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8AEde"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8AEYr"
+        },
+        {
+          "@id": "dis:0y6$ro3_zABAi6_W6LSP9Z"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOX4I"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8ADQe"
+        },
+        {
+          "@id": "dis:1FBFJ578nChfG3o8n8ADI0"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOSeD"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOSiX"
+        },
+        {
+          "@id": "dis:07oXa_vc94e8OUb7yg1Q6_"
+        },
+        {
+          "@id": "dis:0Q8HDPjsH5b9QwemIkR3jg"
+        },
+        {
+          "@id": "dis:3pGf9F1SbB_8ZUz8D7FGeK"
+        },
+        {
+          "@id": "dis:0FsRTCzdDCUe1zH6BEMkIb"
+        },
+        {
+          "@id": "dis:0J35z$tDLANRveiL50lrFj"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTnZ"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTtV"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTt_"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTqu"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOThx"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTeC"
+        },
+        {
+          "@id": "dis:0M9lnfhvj0rgx2MREjM1tu"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTji"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTdZ"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTbk"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOQQU"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOQQF"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOQOS"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOQO7"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOQPW"
+        },
+        {
+          "@id": "dis:1fdDgZ_nD4BRmWjisHlHJ6"
+        },
+        {
+          "@id": "dis:3$AT6dL_r0gBYFTkiQxvN3"
+        },
+        {
+          "@id": "dis:3bvB4gGKPDsfiIFEL03pTx"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORZ5"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORZf"
+        },
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAhQ"
+        },
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAhP"
+        },
+        {
+          "@id": "dis:2SYClznvj7rAN0m34eJAj0"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTfR"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOSKT"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOSzz"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOSa9"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOSbS"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOSbO"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTpH"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOSsU"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOSbE"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOSb8"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTjk"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTYG"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOQR2"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTrZ"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTjC"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTjt"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTao"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOQRC"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOQOD"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOQO9"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOQPg"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOQUK"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOTa_"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfORDL"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOR6I"
+        },
+        {
+          "@id": "dis:2U2bEFdi9D29Y9qmkfOR5M"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBDnF"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBDn6"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBDmU"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBDmL"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEga"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEbS"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEb7"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBDmw"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBDm9"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBDmp"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBDm1"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEvb"
+        },
+        {
+          "@id": "dis:1dE6KuRdP4BB7xFbPTpEDM"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEGD"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEG6"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEIi"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEXb"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEXO"
+        },
+        {
+          "@id": "dis:29JEkkq6v4deitAoBmBEWS"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJzQ"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJwX"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJ5y"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJ5M"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJ2Y"
+        },
+        {
+          "@id": "dis:1V3Mkf3yf6BeoadC1lQJ2g"
+        },
+        {
+          "@id": "dis:0ehR7UOvv8aPeOVSa$yWaO"
+        },
+        {
+          "@id": "dis:0ehR7UOvv8aPeOVSa$yWa4"
+        },
+        {
+          "@id": "dis:2t55pVFeTBCxEOnajemY2f"
+        },
+        {
+          "@id": "dis:2t55pVFeTBCxEOnajemY54"
+        }
+      ]
+    },
+    {
+      "@id": "dis:3bvB4gGKPDsfiIFEL03pTx",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:3pGf9F1SbB_8ZUz8D7FGeK",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:3t269URvrAx8JqCtHhzsKD",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:3t6fs6Xgj0sRdZB6rsUSkE",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:3uh20AA1vBG8rVQwcTHJKE",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:3y$UZ_q1n8TxHmkLpVQmC4",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    },
+    {
+      "@id": "dis:3zyDmA2RvD_wT1i2i5MSb6",
+      "@type": "otl:PipeSegment-RIGIDSEGMENT"
+    }
+  ]
+}
