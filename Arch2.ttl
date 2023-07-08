@@ -1,0 +1,1496 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ifc: <https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD2/OWL#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix otl: <https://otl.buildingsmart.org/IFC4_ADD2_TC1/def/> .
+@prefix nen2660term: <https://w3id.org/nen2660/term#> .
+@prefix dis: <https://otl.buildingsmart.org/test-project/> .
+
+<https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wc$2-GlobalId> a otl:GlobalId ;
+	rdf:value "1cEc$7xFLC4vjMJJ95Wc$2"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wc$2> a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wc$2-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wcu7-GlobalId> a otl:GlobalId ;
+	rdf:value "1cEc$7xFLC4vjMJJ95Wcu7"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wcu7> a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wcu7-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3Dmcd-GlobalId> a otl:GlobalId ;
+	rdf:value "2rFSb_9kbA2wrzD7$3Dmcd"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3Dmcd> a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3Dmcd-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpSv-GlobalId> a otl:GlobalId ;
+	rdf:value "2rFSb_9kbA2wrzD7$3DpSv"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpSv> a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpSv-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpL2-GlobalId> a otl:GlobalId ;
+	rdf:value "2rFSb_9kbA2wrzD7$3DpL2"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpL2> a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpL2-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpK8-GlobalId> a otl:GlobalId ;
+	rdf:value "2rFSb_9kbA2wrzD7$3DpK8"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpK8> a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpK8-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJj-GlobalId> a otl:GlobalId ;
+	rdf:value "2rFSb_9kbA2wrzD7$3DpJj"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJj> a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJj-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/1g1jkX3cP9M9Mhoffuwg$q-GlobalId> a otl:GlobalId ;
+	rdf:value "1g1jkX3cP9M9Mhoffuwg$q"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/1g1jkX3cP9M9Mhoffuwg$q> a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/1g1jkX3cP9M9Mhoffuwg$q-GlobalId> .
+
+dis:1g1jkX3cP9M9Mhoffuwgz5-GlobalId a otl:GlobalId ;
+	rdf:value "1g1jkX3cP9M9Mhoffuwgz5"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1g1jkX3cP9M9Mhoffuwgz5 a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1g1jkX3cP9M9Mhoffuwgz5-GlobalId .
+
+dis:1g1jkX3cP9M9Mhoffuwgx6-GlobalId a otl:GlobalId ;
+	rdf:value "1g1jkX3cP9M9Mhoffuwgx6"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1g1jkX3cP9M9Mhoffuwgx6 a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1g1jkX3cP9M9Mhoffuwgx6-GlobalId .
+
+dis:1g1jkX3cP9M9Mhoffuwgsi-GlobalId a otl:GlobalId ;
+	rdf:value "1g1jkX3cP9M9Mhoffuwgsi"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1g1jkX3cP9M9Mhoffuwgsi a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1g1jkX3cP9M9Mhoffuwgsi-GlobalId .
+
+dis:1g1jkX3cP9M9MhoffuwgrA-GlobalId a otl:GlobalId ;
+	rdf:value "1g1jkX3cP9M9MhoffuwgrA"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1g1jkX3cP9M9MhoffuwgrA a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1g1jkX3cP9M9MhoffuwgrA-GlobalId .
+
+dis:1g1jkX3cP9M9MhoffuwgpK-GlobalId a otl:GlobalId ;
+	rdf:value "1g1jkX3cP9M9MhoffuwgpK"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1g1jkX3cP9M9MhoffuwgpK a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1g1jkX3cP9M9MhoffuwgpK-GlobalId .
+
+dis:1g1jkX3cP9M9Mhoffuwgmx-GlobalId a otl:GlobalId ;
+	rdf:value "1g1jkX3cP9M9Mhoffuwgmx"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1g1jkX3cP9M9Mhoffuwgmx a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1g1jkX3cP9M9Mhoffuwgmx-GlobalId .
+
+dis:1g1jkX3cP9M9Mhoffuwgmw-GlobalId a otl:GlobalId ;
+	rdf:value "1g1jkX3cP9M9Mhoffuwgmw"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1g1jkX3cP9M9Mhoffuwgmw a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1g1jkX3cP9M9Mhoffuwgmw-GlobalId .
+
+dis:3E9XiEdwvASPj27ff2r7jr-GlobalId a otl:GlobalId ;
+	rdf:value "3E9XiEdwvASPj27ff2r7jr"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3E9XiEdwvASPj27ff2r7jr a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:3E9XiEdwvASPj27ff2r7jr-GlobalId .
+
+dis:1mHbaBHGz7x8w_QB7PFSdR-GlobalId a otl:GlobalId ;
+	rdf:value "1mHbaBHGz7x8w_QB7PFSdR"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1mHbaBHGz7x8w_QB7PFSdR a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1mHbaBHGz7x8w_QB7PFSdR-GlobalId .
+
+dis:1mHbaBHGz7x8w_QB7PFSdO-GlobalId a otl:GlobalId ;
+	rdf:value "1mHbaBHGz7x8w_QB7PFSdO"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1mHbaBHGz7x8w_QB7PFSdO a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1mHbaBHGz7x8w_QB7PFSdO-GlobalId .
+
+dis:1mHbaBHGz7x8w_QB7PFSdP-GlobalId a otl:GlobalId ;
+	rdf:value "1mHbaBHGz7x8w_QB7PFSdP"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1mHbaBHGz7x8w_QB7PFSdP a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1mHbaBHGz7x8w_QB7PFSdP-GlobalId .
+
+dis:1mHbaBHGz7x8w_QB7PFSdV-GlobalId a otl:GlobalId ;
+	rdf:value "1mHbaBHGz7x8w_QB7PFSdV"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1mHbaBHGz7x8w_QB7PFSdV a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1mHbaBHGz7x8w_QB7PFSdV-GlobalId .
+
+dis:1mHbaBHGz7x8w_QB7PFSdT-GlobalId a otl:GlobalId ;
+	rdf:value "1mHbaBHGz7x8w_QB7PFSdT"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1mHbaBHGz7x8w_QB7PFSdT a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1mHbaBHGz7x8w_QB7PFSdT-GlobalId .
+
+dis:1mHbaBHGz7x8w_QB7PFSdI-GlobalId a otl:GlobalId ;
+	rdf:value "1mHbaBHGz7x8w_QB7PFSdI"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1mHbaBHGz7x8w_QB7PFSdI a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1mHbaBHGz7x8w_QB7PFSdI-GlobalId .
+
+dis:1mHbaBHGz7x8w_QB7PFSdJ-GlobalId a otl:GlobalId ;
+	rdf:value "1mHbaBHGz7x8w_QB7PFSdJ"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1mHbaBHGz7x8w_QB7PFSdJ a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1mHbaBHGz7x8w_QB7PFSdJ-GlobalId .
+
+dis:1mHbaBHGz7x8w_QB7PFSdG-GlobalId a otl:GlobalId ;
+	rdf:value "1mHbaBHGz7x8w_QB7PFSdG"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1mHbaBHGz7x8w_QB7PFSdG a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1mHbaBHGz7x8w_QB7PFSdG-GlobalId .
+
+dis:1mHbaBHGz7x8w_QB7PFSdH-GlobalId a otl:GlobalId ;
+	rdf:value "1mHbaBHGz7x8w_QB7PFSdH"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1mHbaBHGz7x8w_QB7PFSdH a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1mHbaBHGz7x8w_QB7PFSdH-GlobalId .
+
+dis:1mHbaBHGz7x8w_QB7PFSdM-GlobalId a otl:GlobalId ;
+	rdf:value "1mHbaBHGz7x8w_QB7PFSdM"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1mHbaBHGz7x8w_QB7PFSdM a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1mHbaBHGz7x8w_QB7PFSdM-GlobalId .
+
+dis:1mHbaBHGz7x8w_QB7PFSdN-GlobalId a otl:GlobalId ;
+	rdf:value "1mHbaBHGz7x8w_QB7PFSdN"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1mHbaBHGz7x8w_QB7PFSdN a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1mHbaBHGz7x8w_QB7PFSdN-GlobalId .
+
+dis:1mHbaBHGz7x8w_QB7PFSdK-GlobalId a otl:GlobalId ;
+	rdf:value "1mHbaBHGz7x8w_QB7PFSdK"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1mHbaBHGz7x8w_QB7PFSdK a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1mHbaBHGz7x8w_QB7PFSdK-GlobalId .
+
+dis:1mHbaBHGz7x8w_QB7PFSdL-GlobalId a otl:GlobalId ;
+	rdf:value "1mHbaBHGz7x8w_QB7PFSdL"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1mHbaBHGz7x8w_QB7PFSdL a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1mHbaBHGz7x8w_QB7PFSdL-GlobalId .
+
+dis:1mHbaBHGz7x8w_QB7PFSdA-GlobalId a otl:GlobalId ;
+	rdf:value "1mHbaBHGz7x8w_QB7PFSdA"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1mHbaBHGz7x8w_QB7PFSdA a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1mHbaBHGz7x8w_QB7PFSdA-GlobalId .
+
+dis:1mHbaBHGz7x8w_QB7PFSdB-GlobalId a otl:GlobalId ;
+	rdf:value "1mHbaBHGz7x8w_QB7PFSdB"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1mHbaBHGz7x8w_QB7PFSdB a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1mHbaBHGz7x8w_QB7PFSdB-GlobalId .
+
+dis:1mHbaBHGz7x8w_QB7PFSd9-GlobalId a otl:GlobalId ;
+	rdf:value "1mHbaBHGz7x8w_QB7PFSd9"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1mHbaBHGz7x8w_QB7PFSd9 a otl:Beam-BEAM ;
+	nen2660term:isDescribedBy dis:1mHbaBHGz7x8w_QB7PFSd9-GlobalId .
+
+dis:1EFBNAS5XByhJ5rD1UPCsb-GlobalId a otl:GlobalId ;
+	rdf:value "1EFBNAS5XByhJ5rD1UPCsb"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1EFBNAS5XByhJ5rD1UPCsb a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:1EFBNAS5XByhJ5rD1UPCsb-GlobalId .
+
+dis:1EFBNAS5XByhJ5rD1UPCsc-GlobalId a otl:GlobalId ;
+	rdf:value "1EFBNAS5XByhJ5rD1UPCsc"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1EFBNAS5XByhJ5rD1UPCsc a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:1EFBNAS5XByhJ5rD1UPCsc-GlobalId .
+
+dis:1kvXKmFsfB997MVV0FQXlC-GlobalId a otl:GlobalId ;
+	rdf:value "1kvXKmFsfB997MVV0FQXlC"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1kvXKmFsfB997MVV0FQXlC a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy dis:1kvXKmFsfB997MVV0FQXlC-GlobalId .
+
+dis:0p2ZDGdpD7UPt8bD8w3LvB-GlobalId a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3LvB"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0p2ZDGdpD7UPt8bD8w3LvB a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy dis:0p2ZDGdpD7UPt8bD8w3LvB-GlobalId .
+
+dis:0p2ZDGdpD7UPt8bD8w3Lxs-GlobalId a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3Lxs"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0p2ZDGdpD7UPt8bD8w3Lxs a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy dis:0p2ZDGdpD7UPt8bD8w3Lxs-GlobalId .
+
+dis:0p2ZDGdpD7UPt8bD8w3LzI-GlobalId a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3LzI"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0p2ZDGdpD7UPt8bD8w3LzI a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy dis:0p2ZDGdpD7UPt8bD8w3LzI-GlobalId .
+
+dis:0p2ZDGdpD7UPt8bD8w3LzJ-GlobalId a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3LzJ"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0p2ZDGdpD7UPt8bD8w3LzJ a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy dis:0p2ZDGdpD7UPt8bD8w3LzJ-GlobalId .
+
+dis:0p2ZDGdpD7UPt8bD8w3LzS-GlobalId a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3LzS"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0p2ZDGdpD7UPt8bD8w3LzS a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy dis:0p2ZDGdpD7UPt8bD8w3LzS-GlobalId .
+
+dis:0p2ZDGdpD7UPt8bD8w3Lwd-GlobalId a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3Lwd"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0p2ZDGdpD7UPt8bD8w3Lwd a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy dis:0p2ZDGdpD7UPt8bD8w3Lwd-GlobalId .
+
+dis:0p2ZDGdpD7UPt8bD8w3LwW-GlobalId a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3LwW"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0p2ZDGdpD7UPt8bD8w3LwW a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy dis:0p2ZDGdpD7UPt8bD8w3LwW-GlobalId .
+
+dis:0p2ZDGdpD7UPt8bD8w3LwX-GlobalId a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3LwX"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0p2ZDGdpD7UPt8bD8w3LwX a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy dis:0p2ZDGdpD7UPt8bD8w3LwX-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$e-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$e"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$e> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$e-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$f-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$f"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$f> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$f-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$g-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$g"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$g> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$g-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$M-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$M"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$M> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$M-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$N-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$N"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$N> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$N-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$G-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$G"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$G> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$G-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$H-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$H"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$H> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$H-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$I-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$I"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$I> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$I-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$J-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$J"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$J> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$J-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$P-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$P"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$P> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$P-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$Q-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$Q"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$Q> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$Q-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$R-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$R"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$R> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$R-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$6-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$6"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$6> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$6-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$7-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$7"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$7> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$7-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$0-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$0> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$0-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$D-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$D"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$D> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$D-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$E-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$E"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$E> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$E-GlobalId> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$F-GlobalId> a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L$F"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$F> a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$F-GlobalId> .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_r-GlobalId a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L_r"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_r a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy dis:0p2ZDGdpD7UPt8bD8w3L_r-GlobalId .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_s-GlobalId a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L_s"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_s a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy dis:0p2ZDGdpD7UPt8bD8w3L_s-GlobalId .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_t-GlobalId a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L_t"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_t a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy dis:0p2ZDGdpD7UPt8bD8w3L_t-GlobalId .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_p-GlobalId a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L_p"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_p a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy dis:0p2ZDGdpD7UPt8bD8w3L_p-GlobalId .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_y-GlobalId a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L_y"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_y a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy dis:0p2ZDGdpD7UPt8bD8w3L_y-GlobalId .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_z-GlobalId a otl:GlobalId ;
+	rdf:value "0p2ZDGdpD7UPt8bD8w3L_z"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_z a otl:Window-SKYLIGHT ;
+	nen2660term:isDescribedBy dis:0p2ZDGdpD7UPt8bD8w3L_z-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRnF4UPJo-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRnF4UPJo"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRnF4UPJo a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRnF4UPJo-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRnF4UPJp-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRnF4UPJp"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRnF4UPJp a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRnF4UPJp-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRnF4UPJm-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRnF4UPJm"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRnF4UPJm a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRnF4UPJm-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJm-GlobalId> a otl:GlobalId ;
+	rdf:value "2rFSb_9kbA2wrzD7$3DpJm"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJm> a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJm-GlobalId> .
+
+dis:09lIjZx2vDTPNk_dV2tm0k-GlobalId a otl:GlobalId ;
+	rdf:value "09lIjZx2vDTPNk_dV2tm0k"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:09lIjZx2vDTPNk_dV2tm0k a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:09lIjZx2vDTPNk_dV2tm0k-GlobalId .
+
+dis:09lIjZx2vDTPNk_dV2tm0j-GlobalId a otl:GlobalId ;
+	rdf:value "09lIjZx2vDTPNk_dV2tm0j"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:09lIjZx2vDTPNk_dV2tm0j a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:09lIjZx2vDTPNk_dV2tm0j-GlobalId .
+
+dis:09lIjZx2vDTPNk_dV2tm0i-GlobalId a otl:GlobalId ;
+	rdf:value "09lIjZx2vDTPNk_dV2tm0i"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:09lIjZx2vDTPNk_dV2tm0i a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:09lIjZx2vDTPNk_dV2tm0i-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEGN-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEGN"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEGN a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEGN-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEGM-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEGM"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEGM a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEGM-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEGA-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEGA"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEGA a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEGA-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEG9-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEG9"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEG9 a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEG9-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEG8-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEG8"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEG8 a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEG8-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEGF-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEGF"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEGF a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEGF-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEGD-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEGD"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEGD a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEGD-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEGC-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEGC"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEGC a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEGC-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEG3-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEG3"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEG3 a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEG3-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEUD-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEUD"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEUD a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEUD-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEUC-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEUC"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEUC a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEUC-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEU1-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEU1"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEU1 a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEU1-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEU0-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEU0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEU0 a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEU0-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEU7-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEU7"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEU7 a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEU7-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEU6-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEU6"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEU6 a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEU6-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEU4-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEU4"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEU4 a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEU4-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEUx-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEUx"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEUx a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEUx-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEUw-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEUw"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEUw a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEUw-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEQw-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEQw"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEQw a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEQw-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEOS-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEOS"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEOS a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEOS-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEOe-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEOe"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEOe a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEOe-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEPn-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEPn"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEPn a otl:Window-WINDOW ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEPn-GlobalId .
+
+dis:1OLKI1FSrDh9qO2C3rbMSj-GlobalId a otl:GlobalId ;
+	rdf:value "1OLKI1FSrDh9qO2C3rbMSj"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1OLKI1FSrDh9qO2C3rbMSj a otl:Wall-SOLIDWALL ;
+	nen2660term:isDescribedBy dis:1OLKI1FSrDh9qO2C3rbMSj-GlobalId .
+
+dis:1OLKI1FSrDh9qO2C3rbMSi-GlobalId a otl:GlobalId ;
+	rdf:value "1OLKI1FSrDh9qO2C3rbMSi"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1OLKI1FSrDh9qO2C3rbMSi a otl:Wall-SOLIDWALL ;
+	nen2660term:isDescribedBy dis:1OLKI1FSrDh9qO2C3rbMSi-GlobalId .
+
+dis:1OLKI1FSrDh9qO2C3rbMSY-GlobalId a otl:GlobalId ;
+	rdf:value "1OLKI1FSrDh9qO2C3rbMSY"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1OLKI1FSrDh9qO2C3rbMSY a otl:Wall-SOLIDWALL ;
+	nen2660term:isDescribedBy dis:1OLKI1FSrDh9qO2C3rbMSY-GlobalId .
+
+dis:09lIjZx2vDTPNk_dV2tm0f-GlobalId a otl:GlobalId ;
+	rdf:value "09lIjZx2vDTPNk_dV2tm0f"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:09lIjZx2vDTPNk_dV2tm0f a otl:Wall-SOLIDWALL ;
+	nen2660term:isDescribedBy dis:09lIjZx2vDTPNk_dV2tm0f-GlobalId .
+
+dis:1ULospfXv7690gCF8h428e-GlobalId a otl:GlobalId ;
+	rdf:value "1ULospfXv7690gCF8h428e"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1ULospfXv7690gCF8h428e a otl:Wall-PARAPET ;
+	nen2660term:isDescribedBy dis:1ULospfXv7690gCF8h428e-GlobalId .
+
+dis:1ULospfXv7690gCF8h429F-GlobalId a otl:GlobalId ;
+	rdf:value "1ULospfXv7690gCF8h429F"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1ULospfXv7690gCF8h429F a otl:Wall-PARAPET ;
+	nen2660term:isDescribedBy dis:1ULospfXv7690gCF8h429F-GlobalId .
+
+dis:1ULospfXv7690gCF8h427l-GlobalId a otl:GlobalId ;
+	rdf:value "1ULospfXv7690gCF8h427l"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1ULospfXv7690gCF8h427l a otl:Wall-PARAPET ;
+	nen2660term:isDescribedBy dis:1ULospfXv7690gCF8h427l-GlobalId .
+
+dis:1ULospfXv7690gCF8h424e-GlobalId a otl:GlobalId ;
+	rdf:value "1ULospfXv7690gCF8h424e"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1ULospfXv7690gCF8h424e a otl:Wall-PARAPET ;
+	nen2660term:isDescribedBy dis:1ULospfXv7690gCF8h424e-GlobalId .
+
+dis:1ULospfXv7690gCF8h4230-GlobalId a otl:GlobalId ;
+	rdf:value "1ULospfXv7690gCF8h4230"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1ULospfXv7690gCF8h4230 a otl:Wall-PARTITIONING ;
+	nen2660term:isDescribedBy dis:1ULospfXv7690gCF8h4230-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/0W63ce3trCoh3G$fz7RxDI-GlobalId> a otl:GlobalId ;
+	rdf:value "0W63ce3trCoh3G$fz7RxDI"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0W63ce3trCoh3G$fz7RxDI> a otl:Wall-PARAPET ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0W63ce3trCoh3G$fz7RxDI-GlobalId> .
+
+dis:3gD7tao8P3IujTtErDpEGJ-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEGJ"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEGJ a otl:Wall-SOLIDWALL ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEGJ-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEGI-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEGI"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEGI a otl:Wall-SOLIDWALL ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEGI-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEGH-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEGH"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEGH a otl:Wall-SOLIDWALL ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEGH-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEGE-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEGE"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEGE a otl:Wall-SOLIDWALL ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEGE-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEU8-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEU8"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEU8 a otl:Wall-SOLIDWALL ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEU8-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEUF-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEUF"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEUF a otl:Wall-SOLIDWALL ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEUF-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEUE-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEUE"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEUE a otl:Wall-SOLIDWALL ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEUE-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEU5-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEU5"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEU5 a otl:Wall-SOLIDWALL ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEU5-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7ND-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRnF4U7ND"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7ND a otl:StairFlight-STRAIGHT ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRnF4U7ND-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7MC-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRnF4U7MC"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7MC a otl:StairFlight-STRAIGHT ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRnF4U7MC-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7NC-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRnF4U7NC"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7NC a otl:Stair-STRAIGHT_RUN_STAIR ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRnF4U7NC-GlobalId ;
+	nen2660term:hasPart dis:0_Z1ithZ9Ap9JbRnF4U7ND, dis:3bGNiE0jDAtu760ksjFAe5, dis:3bGNiE0jDAtu760ksjFAfK, dis:0_Z1ithZ9Ap9JbRnF4U7NK, dis:0_Z1ithZ9Ap9JbRnF4U7NL .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7MF-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRnF4U7MF"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7MF a otl:Stair-STRAIGHT_RUN_STAIR ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRnF4U7MF-GlobalId ;
+	nen2660term:hasPart dis:0_Z1ithZ9Ap9JbRnF4U7MC, <https://otl.buildingsmart.org/test-project/3E29J$$Ej42vUpsgYleWJZ>, dis:2FfuHfgGr53wh3eM4wOTm5, dis:0_Z1ithZ9Ap9JbRnF4U7MA, dis:0_Z1ithZ9Ap9JbRnF4U7MB .
+
+dis:1lbY296lP6hP6SusoAGeeU-GlobalId a otl:GlobalId ;
+	rdf:value "1lbY296lP6hP6SusoAGeeU"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1lbY296lP6hP6SusoAGeeU a otl:Slab-FLOOR ;
+	nen2660term:isDescribedBy dis:1lbY296lP6hP6SusoAGeeU-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/1lbY296lP6hP6SusoAGeI$-GlobalId> a otl:GlobalId ;
+	rdf:value "1lbY296lP6hP6SusoAGeI$"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/1lbY296lP6hP6SusoAGeI$> a otl:Slab-FLOOR ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/1lbY296lP6hP6SusoAGeI$-GlobalId> .
+
+dis:0_Z1ithZ9Ap9JbRn74U7Dz-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRn74U7Dz"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRn74U7Dz a otl:Slab-ROOF ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRn74U7Dz-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRn34U7Dz-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRn34U7Dz"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRn34U7Dz a otl:Slab-ROOF ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRn34U7Dz-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRnV4U7Dz-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRnV4U7Dz"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRnV4U7Dz a otl:Slab-ROOF ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRnV4U7Dz-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRnR4U7Dz-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRnR4U7Dz"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRnR4U7Dz a otl:Slab-ROOF ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRnR4U7Dz-GlobalId .
+
+dis:2LftbZkEr4axg6d3FRTnGw-GlobalId a otl:GlobalId ;
+	rdf:value "2LftbZkEr4axg6d3FRTnGw"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:2LftbZkEr4axg6d3FRTnGw a otl:Slab-FLOOR ;
+	nen2660term:isDescribedBy dis:2LftbZkEr4axg6d3FRTnGw-GlobalId .
+
+dis:1kvXKmFsfB997MVV0FQXWX-GlobalId a otl:GlobalId ;
+	rdf:value "1kvXKmFsfB997MVV0FQXWX"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1kvXKmFsfB997MVV0FQXWX a otl:Roof ;
+	nen2660term:isDescribedBy dis:1kvXKmFsfB997MVV0FQXWX-GlobalId ;
+	nen2660term:hasPart dis:1kvXKmFsfB997MVV0FQXlC, dis:0p2ZDGdpD7UPt8bD8w3LvB, dis:0p2ZDGdpD7UPt8bD8w3Lxs, dis:0p2ZDGdpD7UPt8bD8w3LzI, dis:0p2ZDGdpD7UPt8bD8w3LzJ, dis:0p2ZDGdpD7UPt8bD8w3LzS, dis:0p2ZDGdpD7UPt8bD8w3Lwd, dis:0p2ZDGdpD7UPt8bD8w3LwW, dis:0p2ZDGdpD7UPt8bD8w3LwX, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$e>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$f>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$g>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$M>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$N>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$G>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$H>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$I>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$J>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$P>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$Q>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$R>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$6>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$7>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$0>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$D>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$E>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$F>, dis:0p2ZDGdpD7UPt8bD8w3L_r, dis:0p2ZDGdpD7UPt8bD8w3L_s, dis:0p2ZDGdpD7UPt8bD8w3L_t, dis:0p2ZDGdpD7UPt8bD8w3L_p, dis:0p2ZDGdpD7UPt8bD8w3L_y, dis:0p2ZDGdpD7UPt8bD8w3L_z .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7Dz-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRnF4U7Dz"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7Dz a otl:Roof-FLAT_ROOF ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRnF4U7Dz-GlobalId ;
+	nen2660term:hasPart dis:0_Z1ithZ9Ap9JbRn74U7Dz, dis:0_Z1ithZ9Ap9JbRn34U7Dz, dis:0_Z1ithZ9Ap9JbRnV4U7Dz, dis:0_Z1ithZ9Ap9JbRnR4U7Dz .
+
+dis:2vFKzyJSbEp8zuPoUlGXjO-GlobalId a otl:GlobalId ;
+	rdf:value "2vFKzyJSbEp8zuPoUlGXjO"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:2vFKzyJSbEp8zuPoUlGXjO a otl:Railing-HANDRAIL ;
+	nen2660term:isDescribedBy dis:2vFKzyJSbEp8zuPoUlGXjO-GlobalId .
+
+dis:3GE7z8Luj3O8FGwnJDBcWy-GlobalId a otl:GlobalId ;
+	rdf:value "3GE7z8Luj3O8FGwnJDBcWy"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3GE7z8Luj3O8FGwnJDBcWy a otl:Railing-HANDRAIL ;
+	nen2660term:isDescribedBy dis:3GE7z8Luj3O8FGwnJDBcWy-GlobalId .
+
+dis:045EhR6JHBuvaYZwaACAoP-GlobalId a otl:GlobalId ;
+	rdf:value "045EhR6JHBuvaYZwaACAoP"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:045EhR6JHBuvaYZwaACAoP a otl:Railing-HANDRAIL ;
+	nen2660term:isDescribedBy dis:045EhR6JHBuvaYZwaACAoP-GlobalId .
+
+dis:045EhR6JHBuvaYZwaACAng-GlobalId a otl:GlobalId ;
+	rdf:value "045EhR6JHBuvaYZwaACAng"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:045EhR6JHBuvaYZwaACAng a otl:Railing-HANDRAIL ;
+	nen2660term:isDescribedBy dis:045EhR6JHBuvaYZwaACAng-GlobalId .
+
+dis:2LftbZkEr4axg6d3FRTnV0-GlobalId a otl:GlobalId ;
+	rdf:value "2LftbZkEr4axg6d3FRTnV0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:2LftbZkEr4axg6d3FRTnV0 a otl:Railing-HANDRAIL ;
+	nen2660term:isDescribedBy dis:2LftbZkEr4axg6d3FRTnV0-GlobalId .
+
+dis:3bGNiE0jDAtu760ksjFAe5-GlobalId a otl:GlobalId ;
+	rdf:value "3bGNiE0jDAtu760ksjFAe5"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3bGNiE0jDAtu760ksjFAe5 a otl:Railing-HANDRAIL ;
+	nen2660term:isDescribedBy dis:3bGNiE0jDAtu760ksjFAe5-GlobalId .
+
+dis:3bGNiE0jDAtu760ksjFAfK-GlobalId a otl:GlobalId ;
+	rdf:value "3bGNiE0jDAtu760ksjFAfK"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3bGNiE0jDAtu760ksjFAfK a otl:Railing-HANDRAIL ;
+	nen2660term:isDescribedBy dis:3bGNiE0jDAtu760ksjFAfK-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/3E29J$$Ej42vUpsgYleWJZ-GlobalId> a otl:GlobalId ;
+	rdf:value "3E29J$$Ej42vUpsgYleWJZ"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/3E29J$$Ej42vUpsgYleWJZ> a otl:Railing-HANDRAIL ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/3E29J$$Ej42vUpsgYleWJZ-GlobalId> .
+
+dis:2FfuHfgGr53wh3eM4wOTm5-GlobalId a otl:GlobalId ;
+	rdf:value "2FfuHfgGr53wh3eM4wOTm5"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:2FfuHfgGr53wh3eM4wOTm5 a otl:Railing-HANDRAIL ;
+	nen2660term:isDescribedBy dis:2FfuHfgGr53wh3eM4wOTm5-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/1j1OihH$z2CvmgGDKKJZKy-GlobalId> a otl:GlobalId ;
+	rdf:value "1j1OihH$z2CvmgGDKKJZKy"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/1j1OihH$z2CvmgGDKKJZKy> a otl:Plate ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/1j1OihH$z2CvmgGDKKJZKy-GlobalId> .
+
+dis:2AuLOca6f6cRI1uPw56Jb2-GlobalId a otl:GlobalId ;
+	rdf:value "2AuLOca6f6cRI1uPw56Jb2"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:2AuLOca6f6cRI1uPw56Jb2 a otl:Plate ;
+	nen2660term:isDescribedBy dis:2AuLOca6f6cRI1uPw56Jb2-GlobalId .
+
+dis:1bdTccQonEKxp490ObK0LX-GlobalId a otl:GlobalId ;
+	rdf:value "1bdTccQonEKxp490ObK0LX"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1bdTccQonEKxp490ObK0LX a otl:Plate ;
+	nen2660term:isDescribedBy dis:1bdTccQonEKxp490ObK0LX-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/2iFHqZE$H2NvxC8_wHimLX-GlobalId> a otl:GlobalId ;
+	rdf:value "2iFHqZE$H2NvxC8_wHimLX"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/2iFHqZE$H2NvxC8_wHimLX> a otl:Plate ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/2iFHqZE$H2NvxC8_wHimLX-GlobalId> .
+
+dis:2evn3jI_n36vyKv0NOn5TJ-GlobalId a otl:GlobalId ;
+	rdf:value "2evn3jI_n36vyKv0NOn5TJ"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:2evn3jI_n36vyKv0NOn5TJ a otl:Plate ;
+	nen2660term:isDescribedBy dis:2evn3jI_n36vyKv0NOn5TJ-GlobalId .
+
+dis:0GPt685mH19PWgemKd9qag-GlobalId a otl:GlobalId ;
+	rdf:value "0GPt685mH19PWgemKd9qag"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0GPt685mH19PWgemKd9qag a otl:Plate ;
+	nen2660term:isDescribedBy dis:0GPt685mH19PWgemKd9qag-GlobalId .
+
+dis:1rujA016H2AxziuAGmkIyX-GlobalId a otl:GlobalId ;
+	rdf:value "1rujA016H2AxziuAGmkIyX"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1rujA016H2AxziuAGmkIyX a otl:Plate ;
+	nen2660term:isDescribedBy dis:1rujA016H2AxziuAGmkIyX-GlobalId .
+
+dis:1a9EnXpsD7cRFQOingXVah-GlobalId a otl:GlobalId ;
+	rdf:value "1a9EnXpsD7cRFQOingXVah"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1a9EnXpsD7cRFQOingXVah a otl:Plate ;
+	nen2660term:isDescribedBy dis:1a9EnXpsD7cRFQOingXVah-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7NK-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRnF4U7NK"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7NK a otl:Member-STRINGER ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRnF4U7NK-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7NL-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRnF4U7NL"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7NL a otl:Member-STRINGER ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRnF4U7NL-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7MA-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRnF4U7MA"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7MA a otl:Member-STRINGER ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRnF4U7MA-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7MB-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRnF4U7MB"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7MB a otl:Member-STRINGER ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRnF4U7MB-GlobalId .
+
+dis:1qHFr7JC9CTO5IS3NzkT0p-GlobalId a otl:GlobalId ;
+	rdf:value "1qHFr7JC9CTO5IS3NzkT0p"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1qHFr7JC9CTO5IS3NzkT0p a otl:Door-DOOR ;
+	nen2660term:isDescribedBy dis:1qHFr7JC9CTO5IS3NzkT0p-GlobalId .
+
+dis:1qHFr7JC9CTO5IS3NzkTCo-GlobalId a otl:GlobalId ;
+	rdf:value "1qHFr7JC9CTO5IS3NzkTCo"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1qHFr7JC9CTO5IS3NzkTCo a otl:Door-DOOR ;
+	nen2660term:isDescribedBy dis:1qHFr7JC9CTO5IS3NzkTCo-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRnF4UP4_-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRnF4UP4_"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRnF4UP4_ a otl:Door-DOOR ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRnF4UP4_-GlobalId .
+
+dis:1ULospfXv7690gCF8h4237-GlobalId a otl:GlobalId ;
+	rdf:value "1ULospfXv7690gCF8h4237"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1ULospfXv7690gCF8h4237 a otl:Door-DOOR ;
+	nen2660term:isDescribedBy dis:1ULospfXv7690gCF8h4237-GlobalId .
+
+dis:1ULospfXv7690gCF8h4236-GlobalId a otl:GlobalId ;
+	rdf:value "1ULospfXv7690gCF8h4236"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1ULospfXv7690gCF8h4236 a otl:Door-DOOR ;
+	nen2660term:isDescribedBy dis:1ULospfXv7690gCF8h4236-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEGL-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEGL"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEGL a otl:Door-DOOR ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEGL-GlobalId .
+
+dis:3gD7tao8P3IujTtErDpEGK-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtErDpEGK"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtErDpEGK a otl:Door-DOOR ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtErDpEGK-GlobalId .
+
+dis:1k4Y0dLbLDP9eUoJBKKRm7-GlobalId a otl:GlobalId ;
+	rdf:value "1k4Y0dLbLDP9eUoJBKKRm7"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1k4Y0dLbLDP9eUoJBKKRm7 a otl:Covering-CEILING ;
+	nen2660term:isDescribedBy dis:1k4Y0dLbLDP9eUoJBKKRm7-GlobalId .
+
+dis:2IrIUikNz8LBj3RJTOBpAK-GlobalId a otl:GlobalId ;
+	rdf:value "2IrIUikNz8LBj3RJTOBpAK"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:2IrIUikNz8LBj3RJTOBpAK a otl:Column ;
+	nen2660term:isDescribedBy dis:2IrIUikNz8LBj3RJTOBpAK-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wcc5-GlobalId> a otl:GlobalId ;
+	rdf:value "1cEc$7xFLC4vjMJJ95Wcc5"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wcc5> a otl:Column ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wcc5-GlobalId> .
+
+dis:0hMjoK32L7bOBubKLfTxwt-GlobalId a otl:GlobalId ;
+	rdf:value "0hMjoK32L7bOBubKLfTxwt"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0hMjoK32L7bOBubKLfTxwt a otl:Column ;
+	nen2660term:isDescribedBy dis:0hMjoK32L7bOBubKLfTxwt-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJl-GlobalId> a otl:GlobalId ;
+	rdf:value "2rFSb_9kbA2wrzD7$3DpJl"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJl> a otl:Column ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJl-GlobalId> .
+
+dis:24iHrXZ3D6cQDBQ5nv6eW1-GlobalId a otl:GlobalId ;
+	rdf:value "24iHrXZ3D6cQDBQ5nv6eW1"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:24iHrXZ3D6cQDBQ5nv6eW1 a otl:Column ;
+	nen2660term:isDescribedBy dis:24iHrXZ3D6cQDBQ5nv6eW1-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJk-GlobalId> a otl:GlobalId ;
+	rdf:value "2rFSb_9kbA2wrzD7$3DpJk"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJk> a otl:Column ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJk-GlobalId> .
+
+dis:39ZjTz7yHB2RMz5xWPlVXk-GlobalId a otl:GlobalId ;
+	rdf:value "39ZjTz7yHB2RMz5xWPlVXk"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:39ZjTz7yHB2RMz5xWPlVXk a otl:Column ;
+	nen2660term:isDescribedBy dis:39ZjTz7yHB2RMz5xWPlVXk-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95WcWa-GlobalId> a otl:GlobalId ;
+	rdf:value "1cEc$7xFLC4vjMJJ95WcWa"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95WcWa> a otl:Column ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95WcWa-GlobalId> .
+
+dis:2aBxTXU89Cqga4pP6FEetE-GlobalId a otl:GlobalId ;
+	rdf:value "2aBxTXU89Cqga4pP6FEetE"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:2aBxTXU89Cqga4pP6FEetE a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:2aBxTXU89Cqga4pP6FEetE-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/3tC$$bUcr558SpLDJNHP3_-GlobalId> a otl:GlobalId ;
+	rdf:value "3tC$$bUcr558SpLDJNHP3_"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/3tC$$bUcr558SpLDJNHP3_> a otl:OpeningElement ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/3tC$$bUcr558SpLDJNHP3_-GlobalId> .
+
+dis:3mx6W_p550MBQL4wTR8jiR-GlobalId a otl:GlobalId ;
+	rdf:value "3mx6W_p550MBQL4wTR8jiR"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3mx6W_p550MBQL4wTR8jiR a otl:OpeningElement ;
+	nen2660term:isDescribedBy dis:3mx6W_p550MBQL4wTR8jiR-GlobalId .
+
+dis:14FUQZ2PPESxpcYL0KIgDn-GlobalId a otl:GlobalId ;
+	rdf:value "14FUQZ2PPESxpcYL0KIgDn"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:14FUQZ2PPESxpcYL0KIgDn a otl:OpeningElement ;
+	nen2660term:isDescribedBy dis:14FUQZ2PPESxpcYL0KIgDn-GlobalId .
+
+dis:3AfilRUT99IBHlpVsQq4Ns-GlobalId a otl:GlobalId ;
+	rdf:value "3AfilRUT99IBHlpVsQq4Ns"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3AfilRUT99IBHlpVsQq4Ns a otl:OpeningElement ;
+	nen2660term:isDescribedBy dis:3AfilRUT99IBHlpVsQq4Ns-GlobalId .
+
+dis:312yo88grD1RLWO6dCHqlC-GlobalId a otl:GlobalId ;
+	rdf:value "312yo88grD1RLWO6dCHqlC"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:312yo88grD1RLWO6dCHqlC a otl:OpeningElement ;
+	nen2660term:isDescribedBy dis:312yo88grD1RLWO6dCHqlC-GlobalId .
+
+dis:0b6wCw2212nOAviGpWQRoY-GlobalId a otl:GlobalId ;
+	rdf:value "0b6wCw2212nOAviGpWQRoY"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0b6wCw2212nOAviGpWQRoY a otl:OpeningElement ;
+	nen2660term:isDescribedBy dis:0b6wCw2212nOAviGpWQRoY-GlobalId .
+
+dis:2DmTNMENL3UgTAXqF11byz-GlobalId a otl:GlobalId ;
+	rdf:value "2DmTNMENL3UgTAXqF11byz"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:2DmTNMENL3UgTAXqF11byz a otl:OpeningElement ;
+	nen2660term:isDescribedBy dis:2DmTNMENL3UgTAXqF11byz-GlobalId .
+
+dis:1IMGVtEaj4bfDaZGfd0L8r-GlobalId a otl:GlobalId ;
+	rdf:value "1IMGVtEaj4bfDaZGfd0L8r"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1IMGVtEaj4bfDaZGfd0L8r a otl:OpeningElement ;
+	nen2660term:isDescribedBy dis:1IMGVtEaj4bfDaZGfd0L8r-GlobalId .
+
+dis:1a7D8tken6p9WoQmB0XUKn-GlobalId a otl:GlobalId ;
+	rdf:value "1a7D8tken6p9WoQmB0XUKn"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1a7D8tken6p9WoQmB0XUKn a otl:OpeningElement ;
+	nen2660term:isDescribedBy dis:1a7D8tken6p9WoQmB0XUKn-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/1Si$88qyD3284ms2QhdyxT-GlobalId> a otl:GlobalId ;
+	rdf:value "1Si$88qyD3284ms2QhdyxT"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/1Si$88qyD3284ms2QhdyxT> a otl:OpeningElement ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/1Si$88qyD3284ms2QhdyxT-GlobalId> .
+
+dis:07_9AwgB96TQVGZQELWzTd-GlobalId a otl:GlobalId ;
+	rdf:value "07_9AwgB96TQVGZQELWzTd"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:07_9AwgB96TQVGZQELWzTd a otl:OpeningElement ;
+	nen2660term:isDescribedBy dis:07_9AwgB96TQVGZQELWzTd-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/39jeFE0YzC_Q28$gRaSVYK-GlobalId> a otl:GlobalId ;
+	rdf:value "39jeFE0YzC_Q28$gRaSVYK"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/39jeFE0YzC_Q28$gRaSVYK> a otl:OpeningElement ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/39jeFE0YzC_Q28$gRaSVYK-GlobalId> .
+
+dis:3lVmVqAGH2ifR7DiFMokFy-GlobalId a otl:GlobalId ;
+	rdf:value "3lVmVqAGH2ifR7DiFMokFy"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3lVmVqAGH2ifR7DiFMokFy a otl:OpeningElement ;
+	nen2660term:isDescribedBy dis:3lVmVqAGH2ifR7DiFMokFy-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/0qiZc1yBj4z9rg1mp$M3fR-GlobalId> a otl:GlobalId ;
+	rdf:value "0qiZc1yBj4z9rg1mp$M3fR"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0qiZc1yBj4z9rg1mp$M3fR> a otl:OpeningElement ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0qiZc1yBj4z9rg1mp$M3fR-GlobalId> .
+
+dis:2uP4Z6BrL4iQYmebw3QSal-GlobalId a otl:GlobalId ;
+	rdf:value "2uP4Z6BrL4iQYmebw3QSal"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:2uP4Z6BrL4iQYmebw3QSal a otl:OpeningElement ;
+	nen2660term:isDescribedBy dis:2uP4Z6BrL4iQYmebw3QSal-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/2P7Fk5J$v4efInns3qqujz-GlobalId> a otl:GlobalId ;
+	rdf:value "2P7Fk5J$v4efInns3qqujz"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/2P7Fk5J$v4efInns3qqujz> a otl:OpeningElement ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/2P7Fk5J$v4efInns3qqujz-GlobalId> .
+
+dis:1qHFr7JC9CTO5IS2RzkT0p-GlobalId a otl:GlobalId ;
+	rdf:value "1qHFr7JC9CTO5IS2RzkT0p"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1qHFr7JC9CTO5IS2RzkT0p a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:1qHFr7JC9CTO5IS2RzkT0p-GlobalId .
+
+dis:1qHFr7JC9CTO5IS2RzkTCo-GlobalId a otl:GlobalId ;
+	rdf:value "1qHFr7JC9CTO5IS2RzkTCo"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1qHFr7JC9CTO5IS2RzkTCo a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:1qHFr7JC9CTO5IS2RzkTCo-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRm34UP4_-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRm34UP4_"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRm34UP4_ a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRm34UP4_-GlobalId .
+
+dis:1EFBNAS5XByhJ5rCDUPCsb-GlobalId a otl:GlobalId ;
+	rdf:value "1EFBNAS5XByhJ5rCDUPCsb"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1EFBNAS5XByhJ5rCDUPCsb a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:1EFBNAS5XByhJ5rCDUPCsb-GlobalId .
+
+dis:1EFBNAS5XByhJ5rCDUPCsc-GlobalId a otl:GlobalId ;
+	rdf:value "1EFBNAS5XByhJ5rCDUPCsc"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1EFBNAS5XByhJ5rCDUPCsc a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:1EFBNAS5XByhJ5rCDUPCsc-GlobalId .
+
+dis:2rFSb_9kbA2wrzD6p3DpJm-GlobalId a otl:GlobalId ;
+	rdf:value "2rFSb_9kbA2wrzD6p3DpJm"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:2rFSb_9kbA2wrzD6p3DpJm a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:2rFSb_9kbA2wrzD6p3DpJm-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRm34UPJp-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRm34UPJp"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRm34UPJp a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRm34UPJp-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRm34UPJo-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRm34UPJo"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRm34UPJo a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRm34UPJo-GlobalId .
+
+dis:0_Z1ithZ9Ap9JbRm34UPJm-GlobalId a otl:GlobalId ;
+	rdf:value "0_Z1ithZ9Ap9JbRm34UPJm"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0_Z1ithZ9Ap9JbRm34UPJm a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:0_Z1ithZ9Ap9JbRm34UPJm-GlobalId .
+
+dis:09lIjZx2vDTPNk_cJ2tm0j-GlobalId a otl:GlobalId ;
+	rdf:value "09lIjZx2vDTPNk_cJ2tm0j"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:09lIjZx2vDTPNk_cJ2tm0j a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:09lIjZx2vDTPNk_cJ2tm0j-GlobalId .
+
+dis:09lIjZx2vDTPNk_cJ2tm0k-GlobalId a otl:GlobalId ;
+	rdf:value "09lIjZx2vDTPNk_cJ2tm0k"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:09lIjZx2vDTPNk_cJ2tm0k a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:09lIjZx2vDTPNk_cJ2tm0k-GlobalId .
+
+dis:09lIjZx2vDTPNk_cJ2tm0i-GlobalId a otl:GlobalId ;
+	rdf:value "09lIjZx2vDTPNk_cJ2tm0i"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:09lIjZx2vDTPNk_cJ2tm0i a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:09lIjZx2vDTPNk_cJ2tm0i-GlobalId .
+
+dis:1ULospfXv7690gCE4h4237-GlobalId a otl:GlobalId ;
+	rdf:value "1ULospfXv7690gCE4h4237"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1ULospfXv7690gCE4h4237 a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:1ULospfXv7690gCE4h4237-GlobalId .
+
+dis:1ULospfXv7690gCE4h4236-GlobalId a otl:GlobalId ;
+	rdf:value "1ULospfXv7690gCE4h4236"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1ULospfXv7690gCE4h4236 a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:1ULospfXv7690gCE4h4236-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEGL-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEGL"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEGL a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEGL-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEGK-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEGK"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEGK a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEGK-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEPn-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEPn"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEPn a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEPn-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEGN-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEGN"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEGN a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEGN-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEGM-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEGM"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEGM a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEGM-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEGF-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEGF"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEGF a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEGF-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEG9-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEG9"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEG9 a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEG9-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEGA-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEGA"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEGA a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEGA-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEG8-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEG8"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEG8 a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEG8-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEGC-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEGC"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEGC a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEGC-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEGD-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEGD"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEGD a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEGD-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEG3-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEG3"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEG3 a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEG3-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEQw-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEQw"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEQw a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEQw-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEOS-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEOS"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEOS a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEOS-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEOe-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEOe"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEOe a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEOe-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEUD-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEUD"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEUD a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEUD-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEUC-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEUC"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEUC a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEUC-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEU6-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEU6"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEU6 a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEU6-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEU0-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEU0"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEU0 a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEU0-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEU1-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEU1"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEU1 a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEU1-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEU7-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEU7"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEU7 a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEU7-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEUx-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEUx"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEUx a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEUx-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEU4-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEU4"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEU4 a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEU4-GlobalId .
+
+dis:3gD7tao8P3IujTtFvDpEUw-GlobalId a otl:GlobalId ;
+	rdf:value "3gD7tao8P3IujTtFvDpEUw"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3gD7tao8P3IujTtFvDpEUw a otl:OpeningElement-OPENING ;
+	nen2660term:isDescribedBy dis:3gD7tao8P3IujTtFvDpEUw-GlobalId .
+
+dis:2nRIABbVzAg8mDTFYWTEhZ-GlobalId a otl:GlobalId ;
+	rdf:value "2nRIABbVzAg8mDTFYWTEhZ"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:2nRIABbVzAg8mDTFYWTEhZ a otl:MechanicalFastener ;
+	nen2660term:isDescribedBy dis:2nRIABbVzAg8mDTFYWTEhZ-GlobalId, dis:2nRIABbVzAg8mDTFYWTEhZ-NominalLength .
+
+dis:2nRIABbVzAg8mDTFYWTEhZ-NominalLength a otl:NominalLength ;
+	rdf:value "488"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:02BWJrs218euypSHcUfExW-GlobalId a otl:GlobalId ;
+	rdf:value "02BWJrs218euypSHcUfExW"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:02BWJrs218euypSHcUfExW a otl:MechanicalFastener ;
+	nen2660term:isDescribedBy dis:02BWJrs218euypSHcUfExW-GlobalId, dis:02BWJrs218euypSHcUfExW-NominalLength .
+
+dis:02BWJrs218euypSHcUfExW-NominalLength a otl:NominalLength ;
+	rdf:value "488"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3ca86Wdiz6dekLvFz1LEI5-GlobalId a otl:GlobalId ;
+	rdf:value "3ca86Wdiz6dekLvFz1LEI5"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3ca86Wdiz6dekLvFz1LEI5 a otl:MechanicalFastener ;
+	nen2660term:isDescribedBy dis:3ca86Wdiz6dekLvFz1LEI5-GlobalId, dis:3ca86Wdiz6dekLvFz1LEI5-NominalLength .
+
+dis:3ca86Wdiz6dekLvFz1LEI5-NominalLength a otl:NominalLength ;
+	rdf:value "488"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1O2HX0rKjDG8Ivob3lTs0Y-GlobalId a otl:GlobalId ;
+	rdf:value "1O2HX0rKjDG8Ivob3lTs0Y"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1O2HX0rKjDG8Ivob3lTs0Y a otl:MechanicalFastener ;
+	nen2660term:isDescribedBy dis:1O2HX0rKjDG8Ivob3lTs0Y-GlobalId, dis:1O2HX0rKjDG8Ivob3lTs0Y-NominalLength .
+
+dis:1O2HX0rKjDG8Ivob3lTs0Y-NominalLength a otl:NominalLength ;
+	rdf:value "488"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0RrWqSmR52swcoAL2sMQYl-GlobalId a otl:GlobalId ;
+	rdf:value "0RrWqSmR52swcoAL2sMQYl"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0RrWqSmR52swcoAL2sMQYl a otl:Fastener ;
+	nen2660term:isDescribedBy dis:0RrWqSmR52swcoAL2sMQYl-GlobalId .
+
+dis:1Tmeco7AX5zhGm8jiw_SL_-GlobalId a otl:GlobalId ;
+	rdf:value "1Tmeco7AX5zhGm8jiw_SL_"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:1Tmeco7AX5zhGm8jiw_SL_ a otl:Fastener ;
+	nen2660term:isDescribedBy dis:1Tmeco7AX5zhGm8jiw_SL_-GlobalId .
+
+dis:3jAXzKiUXFvxFuMuVjrhwP-GlobalId a otl:GlobalId ;
+	rdf:value "3jAXzKiUXFvxFuMuVjrhwP"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3jAXzKiUXFvxFuMuVjrhwP a otl:Fastener ;
+	nen2660term:isDescribedBy dis:3jAXzKiUXFvxFuMuVjrhwP-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/3$KEMFe4TAbwCiHLGMGHhF-GlobalId> a otl:GlobalId ;
+	rdf:value "3$KEMFe4TAbwCiHLGMGHhF"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/3$KEMFe4TAbwCiHLGMGHhF> a otl:Fastener ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/3$KEMFe4TAbwCiHLGMGHhF-GlobalId> .
+
+dis:3yfPO99s11rOxpfeYbwRey-GlobalId a otl:GlobalId ;
+	rdf:value "3yfPO99s11rOxpfeYbwRey"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3yfPO99s11rOxpfeYbwRey a otl:Fastener ;
+	nen2660term:isDescribedBy dis:3yfPO99s11rOxpfeYbwRey-GlobalId .
+
+dis:3Xg8IvjGj6afVQfa2GAMSq-GlobalId a otl:GlobalId ;
+	rdf:value "3Xg8IvjGj6afVQfa2GAMSq"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3Xg8IvjGj6afVQfa2GAMSq a otl:Fastener ;
+	nen2660term:isDescribedBy dis:3Xg8IvjGj6afVQfa2GAMSq-GlobalId .
+
+dis:3BFAkZij10M9m99qoAKtvr-GlobalId a otl:GlobalId ;
+	rdf:value "3BFAkZij10M9m99qoAKtvr"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3BFAkZij10M9m99qoAKtvr a otl:Fastener ;
+	nen2660term:isDescribedBy dis:3BFAkZij10M9m99qoAKtvr-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/24BxnxLPL5Zxb$XgPhKPwb-GlobalId> a otl:GlobalId ;
+	rdf:value "24BxnxLPL5Zxb$XgPhKPwb"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/24BxnxLPL5Zxb$XgPhKPwb> a otl:Fastener ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/24BxnxLPL5Zxb$XgPhKPwb-GlobalId> .
+
+dis:0JsY172jv16988H50g_79S-GlobalId a otl:GlobalId ;
+	rdf:value "0JsY172jv16988H50g_79S"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0JsY172jv16988H50g_79S a otl:Fastener ;
+	nen2660term:isDescribedBy dis:0JsY172jv16988H50g_79S-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/0MrfXLcBL4JAg$EXEf2oD5-GlobalId> a otl:GlobalId ;
+	rdf:value "0MrfXLcBL4JAg$EXEf2oD5"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0MrfXLcBL4JAg$EXEf2oD5> a otl:Fastener ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0MrfXLcBL4JAg$EXEf2oD5-GlobalId> .
+
+dis:0WXvRZIIP3UBNbMj2FNGLU-GlobalId a otl:GlobalId ;
+	rdf:value "0WXvRZIIP3UBNbMj2FNGLU"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0WXvRZIIP3UBNbMj2FNGLU a otl:Fastener ;
+	nen2660term:isDescribedBy dis:0WXvRZIIP3UBNbMj2FNGLU-GlobalId .
+
+dis:0hGNjBkIfF7f7aj0NnbC3D-GlobalId a otl:GlobalId ;
+	rdf:value "0hGNjBkIfF7f7aj0NnbC3D"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:0hGNjBkIfF7f7aj0NnbC3D a otl:Fastener ;
+	nen2660term:isDescribedBy dis:0hGNjBkIfF7f7aj0NnbC3D-GlobalId .
+
+dis:3YkYjhpE55H9m7VFD08Rpv-GlobalId a otl:GlobalId ;
+	rdf:value "3YkYjhpE55H9m7VFD08Rpv"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:3YkYjhpE55H9m7VFD08Rpv a otl:Fastener ;
+	nen2660term:isDescribedBy dis:3YkYjhpE55H9m7VFD08Rpv-GlobalId .
+
+dis:2BwO7EBDzB0gKaYwYWtR_U-GlobalId a otl:GlobalId ;
+	rdf:value "2BwO7EBDzB0gKaYwYWtR_U"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:2BwO7EBDzB0gKaYwYWtR_U a otl:Fastener ;
+	nen2660term:isDescribedBy dis:2BwO7EBDzB0gKaYwYWtR_U-GlobalId .
+
+dis:39dc1yso93AxnQY00I9ayQ-GlobalId a otl:GlobalId ;
+	rdf:value "39dc1yso93AxnQY00I9ayQ"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+dis:39dc1yso93AxnQY00I9ayQ a otl:Fastener ;
+	nen2660term:isDescribedBy dis:39dc1yso93AxnQY00I9ayQ-GlobalId .
+
+<https://otl.buildingsmart.org/test-project/0_NbcHgOXE7AHhLg3DHj$b-GlobalId> a otl:GlobalId ;
+	rdf:value "0_NbcHgOXE7AHhLg3DHj$b"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<https://otl.buildingsmart.org/test-project/0_NbcHgOXE7AHhLg3DHj$b> a otl:Fastener ;
+	nen2660term:isDescribedBy <https://otl.buildingsmart.org/test-project/0_NbcHgOXE7AHhLg3DHj$b-GlobalId> .
+
+dis:3Zu5Bv0LOHrPC10026FoQQ a otl:BuildingStorey ;
+	nen2660term:contains dis:1EFBNAS5XByhJ5rD1UPCsb, dis:1EFBNAS5XByhJ5rD1UPCsc, dis:0_Z1ithZ9Ap9JbRnF4UPJo, dis:0_Z1ithZ9Ap9JbRnF4UPJp, dis:0_Z1ithZ9Ap9JbRnF4UPJm, <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJm>, dis:09lIjZx2vDTPNk_dV2tm0k, dis:09lIjZx2vDTPNk_dV2tm0j, dis:09lIjZx2vDTPNk_dV2tm0i, dis:1OLKI1FSrDh9qO2C3rbMSj, dis:1OLKI1FSrDh9qO2C3rbMSi, dis:1OLKI1FSrDh9qO2C3rbMSY, dis:09lIjZx2vDTPNk_dV2tm0f, dis:1ULospfXv7690gCF8h428e, dis:1ULospfXv7690gCF8h429F, dis:1ULospfXv7690gCF8h427l, dis:1ULospfXv7690gCF8h424e, dis:1ULospfXv7690gCF8h4230, <https://otl.buildingsmart.org/test-project/0W63ce3trCoh3G$fz7RxDI>, dis:0_Z1ithZ9Ap9JbRnF4U7NC, dis:1lbY296lP6hP6SusoAGeeU, <https://otl.buildingsmart.org/test-project/1j1OihH$z2CvmgGDKKJZKy>, dis:2AuLOca6f6cRI1uPw56Jb2, dis:1bdTccQonEKxp490ObK0LX, <https://otl.buildingsmart.org/test-project/2iFHqZE$H2NvxC8_wHimLX>, dis:2evn3jI_n36vyKv0NOn5TJ, dis:0GPt685mH19PWgemKd9qag, dis:1rujA016H2AxziuAGmkIyX, dis:1a9EnXpsD7cRFQOingXVah, dis:1qHFr7JC9CTO5IS3NzkT0p, dis:1qHFr7JC9CTO5IS3NzkTCo, dis:0_Z1ithZ9Ap9JbRnF4UP4_, dis:1ULospfXv7690gCF8h4237, dis:1ULospfXv7690gCF8h4236, dis:1k4Y0dLbLDP9eUoJBKKRm7, dis:2IrIUikNz8LBj3RJTOBpAK, <https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wcc5>, dis:0hMjoK32L7bOBubKLfTxwt, <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJl>, dis:24iHrXZ3D6cQDBQ5nv6eW1, <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJk>, dis:39ZjTz7yHB2RMz5xWPlVXk, <https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95WcWa>, dis:2nRIABbVzAg8mDTFYWTEhZ, dis:02BWJrs218euypSHcUfExW, dis:3ca86Wdiz6dekLvFz1LEI5, dis:1O2HX0rKjDG8Ivob3lTs0Y, dis:0RrWqSmR52swcoAL2sMQYl, dis:1Tmeco7AX5zhGm8jiw_SL_, dis:3jAXzKiUXFvxFuMuVjrhwP, <https://otl.buildingsmart.org/test-project/3$KEMFe4TAbwCiHLGMGHhF>, dis:3yfPO99s11rOxpfeYbwRey, dis:3Xg8IvjGj6afVQfa2GAMSq, dis:3BFAkZij10M9m99qoAKtvr, <https://otl.buildingsmart.org/test-project/24BxnxLPL5Zxb$XgPhKPwb>, dis:0JsY172jv16988H50g_79S, <https://otl.buildingsmart.org/test-project/0MrfXLcBL4JAg$EXEf2oD5>, dis:0WXvRZIIP3UBNbMj2FNGLU, dis:0hGNjBkIfF7f7aj0NnbC3D, dis:3YkYjhpE55H9m7VFD08Rpv, dis:2BwO7EBDzB0gKaYwYWtR_U, dis:39dc1yso93AxnQY00I9ayQ, <https://otl.buildingsmart.org/test-project/0_NbcHgOXE7AHhLg3DHj$b>, <https://otl.buildingsmart.org/test-project/0UeLhYgPn3e9uQl37$Hxk0> ;
+	nen2660term:hasPart <https://otl.buildingsmart.org/test-project/18HN$la4HDSPXoM2C5jD_X>, <https://otl.buildingsmart.org/test-project/18HN$la4HDSPXoM2C5jDuN>, <https://otl.buildingsmart.org/test-project/18HN$la4HDSPXoM2C5jDuI> .
+
+dis:1lbY296lP6hP6SusoAGeib a otl:BuildingStorey ;
+	nen2660term:contains dis:3gD7tao8P3IujTtErDpEGN, dis:3gD7tao8P3IujTtErDpEGM, dis:3gD7tao8P3IujTtErDpEGA, dis:3gD7tao8P3IujTtErDpEG9, dis:3gD7tao8P3IujTtErDpEG8, dis:3gD7tao8P3IujTtErDpEGF, dis:3gD7tao8P3IujTtErDpEGD, dis:3gD7tao8P3IujTtErDpEGC, dis:3gD7tao8P3IujTtErDpEG3, dis:3gD7tao8P3IujTtErDpEPn, dis:3gD7tao8P3IujTtErDpEGJ, dis:3gD7tao8P3IujTtErDpEGI, dis:3gD7tao8P3IujTtErDpEGH, dis:3gD7tao8P3IujTtErDpEGE, dis:0_Z1ithZ9Ap9JbRnF4U7MF, <https://otl.buildingsmart.org/test-project/1lbY296lP6hP6SusoAGeI$>, dis:2vFKzyJSbEp8zuPoUlGXjO, dis:3GE7z8Luj3O8FGwnJDBcWy, dis:045EhR6JHBuvaYZwaACAoP, dis:045EhR6JHBuvaYZwaACAng, dis:3gD7tao8P3IujTtErDpEGL, dis:3gD7tao8P3IujTtErDpEGK, <https://otl.buildingsmart.org/test-project/1$0ZCbSCPE7QyZrsVmF9oq> ;
+	nen2660term:hasPart dis:1srdC4RsX6sgOGn5RXFVfF .
+
+dis:1lbY296lP6hP6SusoAGeQP a otl:BuildingStorey ;
+	nen2660term:contains <https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wc$2>, <https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wcu7>, <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3Dmcd>, <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpSv>, <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpL2>, <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpK8>, <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJj>, <https://otl.buildingsmart.org/test-project/1g1jkX3cP9M9Mhoffuwg$q>, dis:1g1jkX3cP9M9Mhoffuwgz5, dis:1g1jkX3cP9M9Mhoffuwgx6, dis:1g1jkX3cP9M9Mhoffuwgsi, dis:1g1jkX3cP9M9MhoffuwgrA, dis:1g1jkX3cP9M9MhoffuwgpK, dis:1g1jkX3cP9M9Mhoffuwgmx, dis:1g1jkX3cP9M9Mhoffuwgmw, dis:3E9XiEdwvASPj27ff2r7jr, dis:1mHbaBHGz7x8w_QB7PFSdR, dis:1mHbaBHGz7x8w_QB7PFSdO, dis:1mHbaBHGz7x8w_QB7PFSdP, dis:1mHbaBHGz7x8w_QB7PFSdV, dis:1mHbaBHGz7x8w_QB7PFSdT, dis:1mHbaBHGz7x8w_QB7PFSdI, dis:1mHbaBHGz7x8w_QB7PFSdJ, dis:1mHbaBHGz7x8w_QB7PFSdG, dis:1mHbaBHGz7x8w_QB7PFSdH, dis:1mHbaBHGz7x8w_QB7PFSdM, dis:1mHbaBHGz7x8w_QB7PFSdN, dis:1mHbaBHGz7x8w_QB7PFSdK, dis:1mHbaBHGz7x8w_QB7PFSdL, dis:1mHbaBHGz7x8w_QB7PFSdA, dis:1mHbaBHGz7x8w_QB7PFSdB, dis:1mHbaBHGz7x8w_QB7PFSd9, dis:3gD7tao8P3IujTtErDpEUD, dis:3gD7tao8P3IujTtErDpEUC, dis:3gD7tao8P3IujTtErDpEU1, dis:3gD7tao8P3IujTtErDpEU0, dis:3gD7tao8P3IujTtErDpEU7, dis:3gD7tao8P3IujTtErDpEU6, dis:3gD7tao8P3IujTtErDpEU4, dis:3gD7tao8P3IujTtErDpEUx, dis:3gD7tao8P3IujTtErDpEUw, dis:3gD7tao8P3IujTtErDpEQw, dis:3gD7tao8P3IujTtErDpEOS, dis:3gD7tao8P3IujTtErDpEOe, dis:3gD7tao8P3IujTtErDpEU8, dis:3gD7tao8P3IujTtErDpEUF, dis:3gD7tao8P3IujTtErDpEUE, dis:3gD7tao8P3IujTtErDpEU5, dis:2LftbZkEr4axg6d3FRTnGw, dis:0_Z1ithZ9Ap9JbRnF4U7Dz, dis:2LftbZkEr4axg6d3FRTnV0, <https://otl.buildingsmart.org/test-project/3Xb$vFs1943u97RKgIdBfL> ;
+	nen2660term:hasPart dis:1srdC4RsX6sgOGn5RXFUMU .
+
+dis:1lbY296lP6hP6SusoAGeOh a otl:BuildingStorey ;
+	nen2660term:contains dis:0pydn4v054ffcOEysb4ZzP .
+
+dis:0X5_SQgzv2BfJZJ_u3Zfov a otl:BuildingStorey ;
+	nen2660term:contains dis:1kvXKmFsfB997MVV0FQXWX, dis:2CNgktKFL6PPpKGamJDonq .
+
+dis:1CmCCBZ4rBDe2rjTwZFe5Q a otl:Project ;
+	nen2660term:hasPart dis:1CmCCBZ4rBDe2rjTwZFe5O .
+
+dis:1CmCCBZ4rBDe2rjTwZFe5O a otl:Site ;
+	nen2660term:hasPart dis:1CmCCBZ4rBDe2rjTwZFe5R .
+
+dis:1CmCCBZ4rBDe2rjTwZFe5R a otl:Building ;
+	nen2660term:hasPart dis:3Zu5Bv0LOHrPC10026FoQQ, dis:1lbY296lP6hP6SusoAGeib, dis:1lbY296lP6hP6SusoAGeQP, dis:1lbY296lP6hP6SusoAGeOh, dis:0X5_SQgzv2BfJZJ_u3Zfov .
+
+<https://otl.buildingsmart.org/test-project/18HN$la4HDSPXoM2C5jD_X> a otl:Space-SPACE .
+
+<https://otl.buildingsmart.org/test-project/18HN$la4HDSPXoM2C5jDuN> a otl:Space-SPACE .
+
+<https://otl.buildingsmart.org/test-project/18HN$la4HDSPXoM2C5jDuI> a otl:Space-SPACE .
+
+dis:1srdC4RsX6sgOGn5RXFVfF a otl:Space-SPACE .
+
+dis:1srdC4RsX6sgOGn5RXFUMU a otl:Space-SPACE .
+

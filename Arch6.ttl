@@ -1,0 +1,767 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ifc: <https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD2/OWL#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix otl: <https://otl.buildingsmart.org/IFC4_ADD2_TC1/def/> .
+@prefix nen2660term: <https://w3id.org/nen2660/term#> .
+@prefix dis: <https://otl.buildingsmart.org/test-project/> .
+
+<https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wc$2> otl:hasGlobalId "1cEc$7xFLC4vjMJJ95Wc$2" ;
+	a otl:Beam-BEAM .
+
+<https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wcu7> otl:hasGlobalId "1cEc$7xFLC4vjMJJ95Wcu7" ;
+	a otl:Beam-BEAM .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3Dmcd> otl:hasGlobalId "2rFSb_9kbA2wrzD7$3Dmcd" ;
+	a otl:Beam-BEAM .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpSv> otl:hasGlobalId "2rFSb_9kbA2wrzD7$3DpSv" ;
+	a otl:Beam-BEAM .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpL2> otl:hasGlobalId "2rFSb_9kbA2wrzD7$3DpL2" ;
+	a otl:Beam-BEAM .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpK8> otl:hasGlobalId "2rFSb_9kbA2wrzD7$3DpK8" ;
+	a otl:Beam-BEAM .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJj> otl:hasGlobalId "2rFSb_9kbA2wrzD7$3DpJj" ;
+	a otl:Beam-BEAM .
+
+<https://otl.buildingsmart.org/test-project/1g1jkX3cP9M9Mhoffuwg$q> otl:hasGlobalId "1g1jkX3cP9M9Mhoffuwg$q" ;
+	a otl:Beam-BEAM .
+
+dis:1g1jkX3cP9M9Mhoffuwgz5 otl:hasGlobalId "1g1jkX3cP9M9Mhoffuwgz5" ;
+	a otl:Beam-BEAM .
+
+dis:1g1jkX3cP9M9Mhoffuwgx6 otl:hasGlobalId "1g1jkX3cP9M9Mhoffuwgx6" ;
+	a otl:Beam-BEAM .
+
+dis:1g1jkX3cP9M9Mhoffuwgsi otl:hasGlobalId "1g1jkX3cP9M9Mhoffuwgsi" ;
+	a otl:Beam-BEAM .
+
+dis:1g1jkX3cP9M9MhoffuwgrA otl:hasGlobalId "1g1jkX3cP9M9MhoffuwgrA" ;
+	a otl:Beam-BEAM .
+
+dis:1g1jkX3cP9M9MhoffuwgpK otl:hasGlobalId "1g1jkX3cP9M9MhoffuwgpK" ;
+	a otl:Beam-BEAM .
+
+dis:1g1jkX3cP9M9Mhoffuwgmx otl:hasGlobalId "1g1jkX3cP9M9Mhoffuwgmx" ;
+	a otl:Beam-BEAM .
+
+dis:1g1jkX3cP9M9Mhoffuwgmw otl:hasGlobalId "1g1jkX3cP9M9Mhoffuwgmw" ;
+	a otl:Beam-BEAM .
+
+dis:3E9XiEdwvASPj27ff2r7jr otl:hasGlobalId "3E9XiEdwvASPj27ff2r7jr" ;
+	a otl:Beam-BEAM .
+
+dis:1mHbaBHGz7x8w_QB7PFSdR otl:hasGlobalId "1mHbaBHGz7x8w_QB7PFSdR" ;
+	a otl:Beam-BEAM .
+
+dis:1mHbaBHGz7x8w_QB7PFSdO otl:hasGlobalId "1mHbaBHGz7x8w_QB7PFSdO" ;
+	a otl:Beam-BEAM .
+
+dis:1mHbaBHGz7x8w_QB7PFSdP otl:hasGlobalId "1mHbaBHGz7x8w_QB7PFSdP" ;
+	a otl:Beam-BEAM .
+
+dis:1mHbaBHGz7x8w_QB7PFSdV otl:hasGlobalId "1mHbaBHGz7x8w_QB7PFSdV" ;
+	a otl:Beam-BEAM .
+
+dis:1mHbaBHGz7x8w_QB7PFSdT otl:hasGlobalId "1mHbaBHGz7x8w_QB7PFSdT" ;
+	a otl:Beam-BEAM .
+
+dis:1mHbaBHGz7x8w_QB7PFSdI otl:hasGlobalId "1mHbaBHGz7x8w_QB7PFSdI" ;
+	a otl:Beam-BEAM .
+
+dis:1mHbaBHGz7x8w_QB7PFSdJ otl:hasGlobalId "1mHbaBHGz7x8w_QB7PFSdJ" ;
+	a otl:Beam-BEAM .
+
+dis:1mHbaBHGz7x8w_QB7PFSdG otl:hasGlobalId "1mHbaBHGz7x8w_QB7PFSdG" ;
+	a otl:Beam-BEAM .
+
+dis:1mHbaBHGz7x8w_QB7PFSdH otl:hasGlobalId "1mHbaBHGz7x8w_QB7PFSdH" ;
+	a otl:Beam-BEAM .
+
+dis:1mHbaBHGz7x8w_QB7PFSdM otl:hasGlobalId "1mHbaBHGz7x8w_QB7PFSdM" ;
+	a otl:Beam-BEAM .
+
+dis:1mHbaBHGz7x8w_QB7PFSdN otl:hasGlobalId "1mHbaBHGz7x8w_QB7PFSdN" ;
+	a otl:Beam-BEAM .
+
+dis:1mHbaBHGz7x8w_QB7PFSdK otl:hasGlobalId "1mHbaBHGz7x8w_QB7PFSdK" ;
+	a otl:Beam-BEAM .
+
+dis:1mHbaBHGz7x8w_QB7PFSdL otl:hasGlobalId "1mHbaBHGz7x8w_QB7PFSdL" ;
+	a otl:Beam-BEAM .
+
+dis:1mHbaBHGz7x8w_QB7PFSdA otl:hasGlobalId "1mHbaBHGz7x8w_QB7PFSdA" ;
+	a otl:Beam-BEAM .
+
+dis:1mHbaBHGz7x8w_QB7PFSdB otl:hasGlobalId "1mHbaBHGz7x8w_QB7PFSdB" ;
+	a otl:Beam-BEAM .
+
+dis:1mHbaBHGz7x8w_QB7PFSd9 otl:hasGlobalId "1mHbaBHGz7x8w_QB7PFSd9" ;
+	a otl:Beam-BEAM .
+
+dis:1EFBNAS5XByhJ5rD1UPCsb otl:hasGlobalId "1EFBNAS5XByhJ5rD1UPCsb" ;
+	a otl:Window-WINDOW .
+
+dis:1EFBNAS5XByhJ5rD1UPCsc otl:hasGlobalId "1EFBNAS5XByhJ5rD1UPCsc" ;
+	a otl:Window-WINDOW .
+
+dis:1kvXKmFsfB997MVV0FQXlC otl:hasGlobalId "1kvXKmFsfB997MVV0FQXlC" ;
+	a otl:Window-SKYLIGHT .
+
+dis:0p2ZDGdpD7UPt8bD8w3LvB otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3LvB" ;
+	a otl:Window-SKYLIGHT .
+
+dis:0p2ZDGdpD7UPt8bD8w3Lxs otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3Lxs" ;
+	a otl:Window-SKYLIGHT .
+
+dis:0p2ZDGdpD7UPt8bD8w3LzI otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3LzI" ;
+	a otl:Window-SKYLIGHT .
+
+dis:0p2ZDGdpD7UPt8bD8w3LzJ otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3LzJ" ;
+	a otl:Window-SKYLIGHT .
+
+dis:0p2ZDGdpD7UPt8bD8w3LzS otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3LzS" ;
+	a otl:Window-SKYLIGHT .
+
+dis:0p2ZDGdpD7UPt8bD8w3Lwd otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3Lwd" ;
+	a otl:Window-SKYLIGHT .
+
+dis:0p2ZDGdpD7UPt8bD8w3LwW otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3LwW" ;
+	a otl:Window-SKYLIGHT .
+
+dis:0p2ZDGdpD7UPt8bD8w3LwX otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3LwX" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$e> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$e" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$f> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$f" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$g> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$g" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$M> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$M" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$N> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$N" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$G> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$G" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$H> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$H" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$I> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$I" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$J> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$J" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$P> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$P" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$Q> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$Q" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$R> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$R" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$6> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$6" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$7> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$7" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$0> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$0" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$D> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$D" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$E> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$E" ;
+	a otl:Window-SKYLIGHT .
+
+<https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$F> otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L$F" ;
+	a otl:Window-SKYLIGHT .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_r otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L_r" ;
+	a otl:Window-SKYLIGHT .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_s otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L_s" ;
+	a otl:Window-SKYLIGHT .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_t otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L_t" ;
+	a otl:Window-SKYLIGHT .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_p otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L_p" ;
+	a otl:Window-SKYLIGHT .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_y otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L_y" ;
+	a otl:Window-SKYLIGHT .
+
+dis:0p2ZDGdpD7UPt8bD8w3L_z otl:hasGlobalId "0p2ZDGdpD7UPt8bD8w3L_z" ;
+	a otl:Window-SKYLIGHT .
+
+dis:0_Z1ithZ9Ap9JbRnF4UPJo otl:hasGlobalId "0_Z1ithZ9Ap9JbRnF4UPJo" ;
+	a otl:Window-WINDOW .
+
+dis:0_Z1ithZ9Ap9JbRnF4UPJp otl:hasGlobalId "0_Z1ithZ9Ap9JbRnF4UPJp" ;
+	a otl:Window-WINDOW .
+
+dis:0_Z1ithZ9Ap9JbRnF4UPJm otl:hasGlobalId "0_Z1ithZ9Ap9JbRnF4UPJm" ;
+	a otl:Window-WINDOW .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJm> otl:hasGlobalId "2rFSb_9kbA2wrzD7$3DpJm" ;
+	a otl:Window-WINDOW .
+
+dis:09lIjZx2vDTPNk_dV2tm0k otl:hasGlobalId "09lIjZx2vDTPNk_dV2tm0k" ;
+	a otl:Window-WINDOW .
+
+dis:09lIjZx2vDTPNk_dV2tm0j otl:hasGlobalId "09lIjZx2vDTPNk_dV2tm0j" ;
+	a otl:Window-WINDOW .
+
+dis:09lIjZx2vDTPNk_dV2tm0i otl:hasGlobalId "09lIjZx2vDTPNk_dV2tm0i" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEGN otl:hasGlobalId "3gD7tao8P3IujTtErDpEGN" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEGM otl:hasGlobalId "3gD7tao8P3IujTtErDpEGM" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEGA otl:hasGlobalId "3gD7tao8P3IujTtErDpEGA" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEG9 otl:hasGlobalId "3gD7tao8P3IujTtErDpEG9" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEG8 otl:hasGlobalId "3gD7tao8P3IujTtErDpEG8" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEGF otl:hasGlobalId "3gD7tao8P3IujTtErDpEGF" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEGD otl:hasGlobalId "3gD7tao8P3IujTtErDpEGD" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEGC otl:hasGlobalId "3gD7tao8P3IujTtErDpEGC" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEG3 otl:hasGlobalId "3gD7tao8P3IujTtErDpEG3" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEUD otl:hasGlobalId "3gD7tao8P3IujTtErDpEUD" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEUC otl:hasGlobalId "3gD7tao8P3IujTtErDpEUC" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEU1 otl:hasGlobalId "3gD7tao8P3IujTtErDpEU1" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEU0 otl:hasGlobalId "3gD7tao8P3IujTtErDpEU0" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEU7 otl:hasGlobalId "3gD7tao8P3IujTtErDpEU7" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEU6 otl:hasGlobalId "3gD7tao8P3IujTtErDpEU6" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEU4 otl:hasGlobalId "3gD7tao8P3IujTtErDpEU4" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEUx otl:hasGlobalId "3gD7tao8P3IujTtErDpEUx" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEUw otl:hasGlobalId "3gD7tao8P3IujTtErDpEUw" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEQw otl:hasGlobalId "3gD7tao8P3IujTtErDpEQw" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEOS otl:hasGlobalId "3gD7tao8P3IujTtErDpEOS" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEOe otl:hasGlobalId "3gD7tao8P3IujTtErDpEOe" ;
+	a otl:Window-WINDOW .
+
+dis:3gD7tao8P3IujTtErDpEPn otl:hasGlobalId "3gD7tao8P3IujTtErDpEPn" ;
+	a otl:Window-WINDOW .
+
+dis:1OLKI1FSrDh9qO2C3rbMSj otl:hasGlobalId "1OLKI1FSrDh9qO2C3rbMSj" ;
+	a otl:Wall-SOLIDWALL .
+
+dis:1OLKI1FSrDh9qO2C3rbMSi otl:hasGlobalId "1OLKI1FSrDh9qO2C3rbMSi" ;
+	a otl:Wall-SOLIDWALL .
+
+dis:1OLKI1FSrDh9qO2C3rbMSY otl:hasGlobalId "1OLKI1FSrDh9qO2C3rbMSY" ;
+	a otl:Wall-SOLIDWALL .
+
+dis:09lIjZx2vDTPNk_dV2tm0f otl:hasGlobalId "09lIjZx2vDTPNk_dV2tm0f" ;
+	a otl:Wall-SOLIDWALL .
+
+dis:1ULospfXv7690gCF8h428e otl:hasGlobalId "1ULospfXv7690gCF8h428e" ;
+	a otl:Wall-PARAPET .
+
+dis:1ULospfXv7690gCF8h429F otl:hasGlobalId "1ULospfXv7690gCF8h429F" ;
+	a otl:Wall-PARAPET .
+
+dis:1ULospfXv7690gCF8h427l otl:hasGlobalId "1ULospfXv7690gCF8h427l" ;
+	a otl:Wall-PARAPET .
+
+dis:1ULospfXv7690gCF8h424e otl:hasGlobalId "1ULospfXv7690gCF8h424e" ;
+	a otl:Wall-PARAPET .
+
+dis:1ULospfXv7690gCF8h4230 otl:hasGlobalId "1ULospfXv7690gCF8h4230" ;
+	a otl:Wall-PARTITIONING .
+
+<https://otl.buildingsmart.org/test-project/0W63ce3trCoh3G$fz7RxDI> otl:hasGlobalId "0W63ce3trCoh3G$fz7RxDI" ;
+	a otl:Wall-PARAPET .
+
+dis:3gD7tao8P3IujTtErDpEGJ otl:hasGlobalId "3gD7tao8P3IujTtErDpEGJ" ;
+	a otl:Wall-SOLIDWALL .
+
+dis:3gD7tao8P3IujTtErDpEGI otl:hasGlobalId "3gD7tao8P3IujTtErDpEGI" ;
+	a otl:Wall-SOLIDWALL .
+
+dis:3gD7tao8P3IujTtErDpEGH otl:hasGlobalId "3gD7tao8P3IujTtErDpEGH" ;
+	a otl:Wall-SOLIDWALL .
+
+dis:3gD7tao8P3IujTtErDpEGE otl:hasGlobalId "3gD7tao8P3IujTtErDpEGE" ;
+	a otl:Wall-SOLIDWALL .
+
+dis:3gD7tao8P3IujTtErDpEU8 otl:hasGlobalId "3gD7tao8P3IujTtErDpEU8" ;
+	a otl:Wall-SOLIDWALL .
+
+dis:3gD7tao8P3IujTtErDpEUF otl:hasGlobalId "3gD7tao8P3IujTtErDpEUF" ;
+	a otl:Wall-SOLIDWALL .
+
+dis:3gD7tao8P3IujTtErDpEUE otl:hasGlobalId "3gD7tao8P3IujTtErDpEUE" ;
+	a otl:Wall-SOLIDWALL .
+
+dis:3gD7tao8P3IujTtErDpEU5 otl:hasGlobalId "3gD7tao8P3IujTtErDpEU5" ;
+	a otl:Wall-SOLIDWALL .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7ND otl:hasGlobalId "0_Z1ithZ9Ap9JbRnF4U7ND" ;
+	a otl:StairFlight-STRAIGHT .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7MC otl:hasGlobalId "0_Z1ithZ9Ap9JbRnF4U7MC" ;
+	a otl:StairFlight-STRAIGHT .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7NC otl:hasGlobalId "0_Z1ithZ9Ap9JbRnF4U7NC" ;
+	a otl:Stair-STRAIGHT_RUN_STAIR ;
+	nen2660term:hasPart dis:0_Z1ithZ9Ap9JbRnF4U7ND, dis:3bGNiE0jDAtu760ksjFAe5, dis:3bGNiE0jDAtu760ksjFAfK, dis:0_Z1ithZ9Ap9JbRnF4U7NK, dis:0_Z1ithZ9Ap9JbRnF4U7NL .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7MF otl:hasGlobalId "0_Z1ithZ9Ap9JbRnF4U7MF" ;
+	a otl:Stair-STRAIGHT_RUN_STAIR ;
+	nen2660term:hasPart dis:0_Z1ithZ9Ap9JbRnF4U7MC, <https://otl.buildingsmart.org/test-project/3E29J$$Ej42vUpsgYleWJZ>, dis:2FfuHfgGr53wh3eM4wOTm5, dis:0_Z1ithZ9Ap9JbRnF4U7MA, dis:0_Z1ithZ9Ap9JbRnF4U7MB .
+
+dis:1lbY296lP6hP6SusoAGeeU otl:hasGlobalId "1lbY296lP6hP6SusoAGeeU" ;
+	a otl:Slab-FLOOR .
+
+<https://otl.buildingsmart.org/test-project/1lbY296lP6hP6SusoAGeI$> otl:hasGlobalId "1lbY296lP6hP6SusoAGeI$" ;
+	a otl:Slab-FLOOR .
+
+dis:0_Z1ithZ9Ap9JbRn74U7Dz otl:hasGlobalId "0_Z1ithZ9Ap9JbRn74U7Dz" ;
+	a otl:Slab-ROOF .
+
+dis:0_Z1ithZ9Ap9JbRn34U7Dz otl:hasGlobalId "0_Z1ithZ9Ap9JbRn34U7Dz" ;
+	a otl:Slab-ROOF .
+
+dis:0_Z1ithZ9Ap9JbRnV4U7Dz otl:hasGlobalId "0_Z1ithZ9Ap9JbRnV4U7Dz" ;
+	a otl:Slab-ROOF .
+
+dis:0_Z1ithZ9Ap9JbRnR4U7Dz otl:hasGlobalId "0_Z1ithZ9Ap9JbRnR4U7Dz" ;
+	a otl:Slab-ROOF .
+
+dis:2LftbZkEr4axg6d3FRTnGw otl:hasGlobalId "2LftbZkEr4axg6d3FRTnGw" ;
+	a otl:Slab-FLOOR .
+
+dis:1kvXKmFsfB997MVV0FQXWX otl:hasGlobalId "1kvXKmFsfB997MVV0FQXWX" ;
+	a otl:Roof ;
+	nen2660term:hasPart dis:1kvXKmFsfB997MVV0FQXlC, dis:0p2ZDGdpD7UPt8bD8w3LvB, dis:0p2ZDGdpD7UPt8bD8w3Lxs, dis:0p2ZDGdpD7UPt8bD8w3LzI, dis:0p2ZDGdpD7UPt8bD8w3LzJ, dis:0p2ZDGdpD7UPt8bD8w3LzS, dis:0p2ZDGdpD7UPt8bD8w3Lwd, dis:0p2ZDGdpD7UPt8bD8w3LwW, dis:0p2ZDGdpD7UPt8bD8w3LwX, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$e>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$f>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$g>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$M>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$N>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$G>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$H>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$I>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$J>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$P>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$Q>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$R>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$6>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$7>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$0>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$D>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$E>, <https://otl.buildingsmart.org/test-project/0p2ZDGdpD7UPt8bD8w3L$F>, dis:0p2ZDGdpD7UPt8bD8w3L_r, dis:0p2ZDGdpD7UPt8bD8w3L_s, dis:0p2ZDGdpD7UPt8bD8w3L_t, dis:0p2ZDGdpD7UPt8bD8w3L_p, dis:0p2ZDGdpD7UPt8bD8w3L_y, dis:0p2ZDGdpD7UPt8bD8w3L_z .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7Dz otl:hasGlobalId "0_Z1ithZ9Ap9JbRnF4U7Dz" ;
+	a otl:Roof-FLAT_ROOF ;
+	nen2660term:hasPart dis:0_Z1ithZ9Ap9JbRn74U7Dz, dis:0_Z1ithZ9Ap9JbRn34U7Dz, dis:0_Z1ithZ9Ap9JbRnV4U7Dz, dis:0_Z1ithZ9Ap9JbRnR4U7Dz .
+
+dis:2vFKzyJSbEp8zuPoUlGXjO otl:hasGlobalId "2vFKzyJSbEp8zuPoUlGXjO" ;
+	a otl:Railing-HANDRAIL .
+
+dis:3GE7z8Luj3O8FGwnJDBcWy otl:hasGlobalId "3GE7z8Luj3O8FGwnJDBcWy" ;
+	a otl:Railing-HANDRAIL .
+
+dis:045EhR6JHBuvaYZwaACAoP otl:hasGlobalId "045EhR6JHBuvaYZwaACAoP" ;
+	a otl:Railing-HANDRAIL .
+
+dis:045EhR6JHBuvaYZwaACAng otl:hasGlobalId "045EhR6JHBuvaYZwaACAng" ;
+	a otl:Railing-HANDRAIL .
+
+dis:2LftbZkEr4axg6d3FRTnV0 otl:hasGlobalId "2LftbZkEr4axg6d3FRTnV0" ;
+	a otl:Railing-HANDRAIL .
+
+dis:3bGNiE0jDAtu760ksjFAe5 otl:hasGlobalId "3bGNiE0jDAtu760ksjFAe5" ;
+	a otl:Railing-HANDRAIL .
+
+dis:3bGNiE0jDAtu760ksjFAfK otl:hasGlobalId "3bGNiE0jDAtu760ksjFAfK" ;
+	a otl:Railing-HANDRAIL .
+
+<https://otl.buildingsmart.org/test-project/3E29J$$Ej42vUpsgYleWJZ> otl:hasGlobalId "3E29J$$Ej42vUpsgYleWJZ" ;
+	a otl:Railing-HANDRAIL .
+
+dis:2FfuHfgGr53wh3eM4wOTm5 otl:hasGlobalId "2FfuHfgGr53wh3eM4wOTm5" ;
+	a otl:Railing-HANDRAIL .
+
+<https://otl.buildingsmart.org/test-project/1j1OihH$z2CvmgGDKKJZKy> otl:hasGlobalId "1j1OihH$z2CvmgGDKKJZKy" ;
+	a otl:Plate .
+
+dis:2AuLOca6f6cRI1uPw56Jb2 otl:hasGlobalId "2AuLOca6f6cRI1uPw56Jb2" ;
+	a otl:Plate .
+
+dis:1bdTccQonEKxp490ObK0LX otl:hasGlobalId "1bdTccQonEKxp490ObK0LX" ;
+	a otl:Plate .
+
+<https://otl.buildingsmart.org/test-project/2iFHqZE$H2NvxC8_wHimLX> otl:hasGlobalId "2iFHqZE$H2NvxC8_wHimLX" ;
+	a otl:Plate .
+
+dis:2evn3jI_n36vyKv0NOn5TJ otl:hasGlobalId "2evn3jI_n36vyKv0NOn5TJ" ;
+	a otl:Plate .
+
+dis:0GPt685mH19PWgemKd9qag otl:hasGlobalId "0GPt685mH19PWgemKd9qag" ;
+	a otl:Plate .
+
+dis:1rujA016H2AxziuAGmkIyX otl:hasGlobalId "1rujA016H2AxziuAGmkIyX" ;
+	a otl:Plate .
+
+dis:1a9EnXpsD7cRFQOingXVah otl:hasGlobalId "1a9EnXpsD7cRFQOingXVah" ;
+	a otl:Plate .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7NK otl:hasGlobalId "0_Z1ithZ9Ap9JbRnF4U7NK" ;
+	a otl:Member-STRINGER .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7NL otl:hasGlobalId "0_Z1ithZ9Ap9JbRnF4U7NL" ;
+	a otl:Member-STRINGER .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7MA otl:hasGlobalId "0_Z1ithZ9Ap9JbRnF4U7MA" ;
+	a otl:Member-STRINGER .
+
+dis:0_Z1ithZ9Ap9JbRnF4U7MB otl:hasGlobalId "0_Z1ithZ9Ap9JbRnF4U7MB" ;
+	a otl:Member-STRINGER .
+
+dis:1qHFr7JC9CTO5IS3NzkT0p otl:hasGlobalId "1qHFr7JC9CTO5IS3NzkT0p" ;
+	a otl:Door-DOOR .
+
+dis:1qHFr7JC9CTO5IS3NzkTCo otl:hasGlobalId "1qHFr7JC9CTO5IS3NzkTCo" ;
+	a otl:Door-DOOR .
+
+dis:0_Z1ithZ9Ap9JbRnF4UP4_ otl:hasGlobalId "0_Z1ithZ9Ap9JbRnF4UP4_" ;
+	a otl:Door-DOOR .
+
+dis:1ULospfXv7690gCF8h4237 otl:hasGlobalId "1ULospfXv7690gCF8h4237" ;
+	a otl:Door-DOOR .
+
+dis:1ULospfXv7690gCF8h4236 otl:hasGlobalId "1ULospfXv7690gCF8h4236" ;
+	a otl:Door-DOOR .
+
+dis:3gD7tao8P3IujTtErDpEGL otl:hasGlobalId "3gD7tao8P3IujTtErDpEGL" ;
+	a otl:Door-DOOR .
+
+dis:3gD7tao8P3IujTtErDpEGK otl:hasGlobalId "3gD7tao8P3IujTtErDpEGK" ;
+	a otl:Door-DOOR .
+
+dis:1k4Y0dLbLDP9eUoJBKKRm7 otl:hasGlobalId "1k4Y0dLbLDP9eUoJBKKRm7" ;
+	a otl:Covering-CEILING .
+
+dis:2IrIUikNz8LBj3RJTOBpAK otl:hasGlobalId "2IrIUikNz8LBj3RJTOBpAK" ;
+	a otl:Column .
+
+<https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wcc5> otl:hasGlobalId "1cEc$7xFLC4vjMJJ95Wcc5" ;
+	a otl:Column .
+
+dis:0hMjoK32L7bOBubKLfTxwt otl:hasGlobalId "0hMjoK32L7bOBubKLfTxwt" ;
+	a otl:Column .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJl> otl:hasGlobalId "2rFSb_9kbA2wrzD7$3DpJl" ;
+	a otl:Column .
+
+dis:24iHrXZ3D6cQDBQ5nv6eW1 otl:hasGlobalId "24iHrXZ3D6cQDBQ5nv6eW1" ;
+	a otl:Column .
+
+<https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJk> otl:hasGlobalId "2rFSb_9kbA2wrzD7$3DpJk" ;
+	a otl:Column .
+
+dis:39ZjTz7yHB2RMz5xWPlVXk otl:hasGlobalId "39ZjTz7yHB2RMz5xWPlVXk" ;
+	a otl:Column .
+
+<https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95WcWa> otl:hasGlobalId "1cEc$7xFLC4vjMJJ95WcWa" ;
+	a otl:Column .
+
+dis:2aBxTXU89Cqga4pP6FEetE otl:hasGlobalId "2aBxTXU89Cqga4pP6FEetE" ;
+	a otl:OpeningElement-OPENING .
+
+<https://otl.buildingsmart.org/test-project/3tC$$bUcr558SpLDJNHP3_> otl:hasGlobalId "3tC$$bUcr558SpLDJNHP3_" ;
+	a otl:OpeningElement .
+
+dis:3mx6W_p550MBQL4wTR8jiR otl:hasGlobalId "3mx6W_p550MBQL4wTR8jiR" ;
+	a otl:OpeningElement .
+
+dis:14FUQZ2PPESxpcYL0KIgDn otl:hasGlobalId "14FUQZ2PPESxpcYL0KIgDn" ;
+	a otl:OpeningElement .
+
+dis:3AfilRUT99IBHlpVsQq4Ns otl:hasGlobalId "3AfilRUT99IBHlpVsQq4Ns" ;
+	a otl:OpeningElement .
+
+dis:312yo88grD1RLWO6dCHqlC otl:hasGlobalId "312yo88grD1RLWO6dCHqlC" ;
+	a otl:OpeningElement .
+
+dis:0b6wCw2212nOAviGpWQRoY otl:hasGlobalId "0b6wCw2212nOAviGpWQRoY" ;
+	a otl:OpeningElement .
+
+dis:2DmTNMENL3UgTAXqF11byz otl:hasGlobalId "2DmTNMENL3UgTAXqF11byz" ;
+	a otl:OpeningElement .
+
+dis:1IMGVtEaj4bfDaZGfd0L8r otl:hasGlobalId "1IMGVtEaj4bfDaZGfd0L8r" ;
+	a otl:OpeningElement .
+
+dis:1a7D8tken6p9WoQmB0XUKn otl:hasGlobalId "1a7D8tken6p9WoQmB0XUKn" ;
+	a otl:OpeningElement .
+
+<https://otl.buildingsmart.org/test-project/1Si$88qyD3284ms2QhdyxT> otl:hasGlobalId "1Si$88qyD3284ms2QhdyxT" ;
+	a otl:OpeningElement .
+
+dis:07_9AwgB96TQVGZQELWzTd otl:hasGlobalId "07_9AwgB96TQVGZQELWzTd" ;
+	a otl:OpeningElement .
+
+<https://otl.buildingsmart.org/test-project/39jeFE0YzC_Q28$gRaSVYK> otl:hasGlobalId "39jeFE0YzC_Q28$gRaSVYK" ;
+	a otl:OpeningElement .
+
+dis:3lVmVqAGH2ifR7DiFMokFy otl:hasGlobalId "3lVmVqAGH2ifR7DiFMokFy" ;
+	a otl:OpeningElement .
+
+<https://otl.buildingsmart.org/test-project/0qiZc1yBj4z9rg1mp$M3fR> otl:hasGlobalId "0qiZc1yBj4z9rg1mp$M3fR" ;
+	a otl:OpeningElement .
+
+dis:2uP4Z6BrL4iQYmebw3QSal otl:hasGlobalId "2uP4Z6BrL4iQYmebw3QSal" ;
+	a otl:OpeningElement .
+
+<https://otl.buildingsmart.org/test-project/2P7Fk5J$v4efInns3qqujz> otl:hasGlobalId "2P7Fk5J$v4efInns3qqujz" ;
+	a otl:OpeningElement .
+
+dis:1qHFr7JC9CTO5IS2RzkT0p otl:hasGlobalId "1qHFr7JC9CTO5IS2RzkT0p" ;
+	a otl:OpeningElement-OPENING .
+
+dis:1qHFr7JC9CTO5IS2RzkTCo otl:hasGlobalId "1qHFr7JC9CTO5IS2RzkTCo" ;
+	a otl:OpeningElement-OPENING .
+
+dis:0_Z1ithZ9Ap9JbRm34UP4_ otl:hasGlobalId "0_Z1ithZ9Ap9JbRm34UP4_" ;
+	a otl:OpeningElement-OPENING .
+
+dis:1EFBNAS5XByhJ5rCDUPCsb otl:hasGlobalId "1EFBNAS5XByhJ5rCDUPCsb" ;
+	a otl:OpeningElement-OPENING .
+
+dis:1EFBNAS5XByhJ5rCDUPCsc otl:hasGlobalId "1EFBNAS5XByhJ5rCDUPCsc" ;
+	a otl:OpeningElement-OPENING .
+
+dis:2rFSb_9kbA2wrzD6p3DpJm otl:hasGlobalId "2rFSb_9kbA2wrzD6p3DpJm" ;
+	a otl:OpeningElement-OPENING .
+
+dis:0_Z1ithZ9Ap9JbRm34UPJp otl:hasGlobalId "0_Z1ithZ9Ap9JbRm34UPJp" ;
+	a otl:OpeningElement-OPENING .
+
+dis:0_Z1ithZ9Ap9JbRm34UPJo otl:hasGlobalId "0_Z1ithZ9Ap9JbRm34UPJo" ;
+	a otl:OpeningElement-OPENING .
+
+dis:0_Z1ithZ9Ap9JbRm34UPJm otl:hasGlobalId "0_Z1ithZ9Ap9JbRm34UPJm" ;
+	a otl:OpeningElement-OPENING .
+
+dis:09lIjZx2vDTPNk_cJ2tm0j otl:hasGlobalId "09lIjZx2vDTPNk_cJ2tm0j" ;
+	a otl:OpeningElement-OPENING .
+
+dis:09lIjZx2vDTPNk_cJ2tm0k otl:hasGlobalId "09lIjZx2vDTPNk_cJ2tm0k" ;
+	a otl:OpeningElement-OPENING .
+
+dis:09lIjZx2vDTPNk_cJ2tm0i otl:hasGlobalId "09lIjZx2vDTPNk_cJ2tm0i" ;
+	a otl:OpeningElement-OPENING .
+
+dis:1ULospfXv7690gCE4h4237 otl:hasGlobalId "1ULospfXv7690gCE4h4237" ;
+	a otl:OpeningElement-OPENING .
+
+dis:1ULospfXv7690gCE4h4236 otl:hasGlobalId "1ULospfXv7690gCE4h4236" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEGL otl:hasGlobalId "3gD7tao8P3IujTtFvDpEGL" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEGK otl:hasGlobalId "3gD7tao8P3IujTtFvDpEGK" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEPn otl:hasGlobalId "3gD7tao8P3IujTtFvDpEPn" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEGN otl:hasGlobalId "3gD7tao8P3IujTtFvDpEGN" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEGM otl:hasGlobalId "3gD7tao8P3IujTtFvDpEGM" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEGF otl:hasGlobalId "3gD7tao8P3IujTtFvDpEGF" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEG9 otl:hasGlobalId "3gD7tao8P3IujTtFvDpEG9" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEGA otl:hasGlobalId "3gD7tao8P3IujTtFvDpEGA" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEG8 otl:hasGlobalId "3gD7tao8P3IujTtFvDpEG8" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEGC otl:hasGlobalId "3gD7tao8P3IujTtFvDpEGC" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEGD otl:hasGlobalId "3gD7tao8P3IujTtFvDpEGD" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEG3 otl:hasGlobalId "3gD7tao8P3IujTtFvDpEG3" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEQw otl:hasGlobalId "3gD7tao8P3IujTtFvDpEQw" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEOS otl:hasGlobalId "3gD7tao8P3IujTtFvDpEOS" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEOe otl:hasGlobalId "3gD7tao8P3IujTtFvDpEOe" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEUD otl:hasGlobalId "3gD7tao8P3IujTtFvDpEUD" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEUC otl:hasGlobalId "3gD7tao8P3IujTtFvDpEUC" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEU6 otl:hasGlobalId "3gD7tao8P3IujTtFvDpEU6" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEU0 otl:hasGlobalId "3gD7tao8P3IujTtFvDpEU0" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEU1 otl:hasGlobalId "3gD7tao8P3IujTtFvDpEU1" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEU7 otl:hasGlobalId "3gD7tao8P3IujTtFvDpEU7" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEUx otl:hasGlobalId "3gD7tao8P3IujTtFvDpEUx" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEU4 otl:hasGlobalId "3gD7tao8P3IujTtFvDpEU4" ;
+	a otl:OpeningElement-OPENING .
+
+dis:3gD7tao8P3IujTtFvDpEUw otl:hasGlobalId "3gD7tao8P3IujTtFvDpEUw" ;
+	a otl:OpeningElement-OPENING .
+
+dis:2nRIABbVzAg8mDTFYWTEhZ otl:hasGlobalId "2nRIABbVzAg8mDTFYWTEhZ" ;
+	a otl:MechanicalFastener .
+
+dis:02BWJrs218euypSHcUfExW otl:hasGlobalId "02BWJrs218euypSHcUfExW" ;
+	a otl:MechanicalFastener .
+
+dis:3ca86Wdiz6dekLvFz1LEI5 otl:hasGlobalId "3ca86Wdiz6dekLvFz1LEI5" ;
+	a otl:MechanicalFastener .
+
+dis:1O2HX0rKjDG8Ivob3lTs0Y otl:hasGlobalId "1O2HX0rKjDG8Ivob3lTs0Y" ;
+	a otl:MechanicalFastener .
+
+dis:0RrWqSmR52swcoAL2sMQYl otl:hasGlobalId "0RrWqSmR52swcoAL2sMQYl" ;
+	a otl:Fastener .
+
+dis:1Tmeco7AX5zhGm8jiw_SL_ otl:hasGlobalId "1Tmeco7AX5zhGm8jiw_SL_" ;
+	a otl:Fastener .
+
+dis:3jAXzKiUXFvxFuMuVjrhwP otl:hasGlobalId "3jAXzKiUXFvxFuMuVjrhwP" ;
+	a otl:Fastener .
+
+<https://otl.buildingsmart.org/test-project/3$KEMFe4TAbwCiHLGMGHhF> otl:hasGlobalId "3$KEMFe4TAbwCiHLGMGHhF" ;
+	a otl:Fastener .
+
+dis:3yfPO99s11rOxpfeYbwRey otl:hasGlobalId "3yfPO99s11rOxpfeYbwRey" ;
+	a otl:Fastener .
+
+dis:3Xg8IvjGj6afVQfa2GAMSq otl:hasGlobalId "3Xg8IvjGj6afVQfa2GAMSq" ;
+	a otl:Fastener .
+
+dis:3BFAkZij10M9m99qoAKtvr otl:hasGlobalId "3BFAkZij10M9m99qoAKtvr" ;
+	a otl:Fastener .
+
+<https://otl.buildingsmart.org/test-project/24BxnxLPL5Zxb$XgPhKPwb> otl:hasGlobalId "24BxnxLPL5Zxb$XgPhKPwb" ;
+	a otl:Fastener .
+
+dis:0JsY172jv16988H50g_79S otl:hasGlobalId "0JsY172jv16988H50g_79S" ;
+	a otl:Fastener .
+
+<https://otl.buildingsmart.org/test-project/0MrfXLcBL4JAg$EXEf2oD5> otl:hasGlobalId "0MrfXLcBL4JAg$EXEf2oD5" ;
+	a otl:Fastener .
+
+dis:0WXvRZIIP3UBNbMj2FNGLU otl:hasGlobalId "0WXvRZIIP3UBNbMj2FNGLU" ;
+	a otl:Fastener .
+
+dis:0hGNjBkIfF7f7aj0NnbC3D otl:hasGlobalId "0hGNjBkIfF7f7aj0NnbC3D" ;
+	a otl:Fastener .
+
+dis:3YkYjhpE55H9m7VFD08Rpv otl:hasGlobalId "3YkYjhpE55H9m7VFD08Rpv" ;
+	a otl:Fastener .
+
+dis:2BwO7EBDzB0gKaYwYWtR_U otl:hasGlobalId "2BwO7EBDzB0gKaYwYWtR_U" ;
+	a otl:Fastener .
+
+dis:39dc1yso93AxnQY00I9ayQ otl:hasGlobalId "39dc1yso93AxnQY00I9ayQ" ;
+	a otl:Fastener .
+
+<https://otl.buildingsmart.org/test-project/0_NbcHgOXE7AHhLg3DHj$b> otl:hasGlobalId "0_NbcHgOXE7AHhLg3DHj$b" ;
+	a otl:Fastener .
+
+dis:3Zu5Bv0LOHrPC10026FoQQ a otl:BuildingStorey ;
+	nen2660term:contains dis:1EFBNAS5XByhJ5rD1UPCsb, dis:1EFBNAS5XByhJ5rD1UPCsc, dis:0_Z1ithZ9Ap9JbRnF4UPJo, dis:0_Z1ithZ9Ap9JbRnF4UPJp, dis:0_Z1ithZ9Ap9JbRnF4UPJm, <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJm>, dis:09lIjZx2vDTPNk_dV2tm0k, dis:09lIjZx2vDTPNk_dV2tm0j, dis:09lIjZx2vDTPNk_dV2tm0i, dis:1OLKI1FSrDh9qO2C3rbMSj, dis:1OLKI1FSrDh9qO2C3rbMSi, dis:1OLKI1FSrDh9qO2C3rbMSY, dis:09lIjZx2vDTPNk_dV2tm0f, dis:1ULospfXv7690gCF8h428e, dis:1ULospfXv7690gCF8h429F, dis:1ULospfXv7690gCF8h427l, dis:1ULospfXv7690gCF8h424e, dis:1ULospfXv7690gCF8h4230, <https://otl.buildingsmart.org/test-project/0W63ce3trCoh3G$fz7RxDI>, dis:0_Z1ithZ9Ap9JbRnF4U7NC, dis:1lbY296lP6hP6SusoAGeeU, <https://otl.buildingsmart.org/test-project/1j1OihH$z2CvmgGDKKJZKy>, dis:2AuLOca6f6cRI1uPw56Jb2, dis:1bdTccQonEKxp490ObK0LX, <https://otl.buildingsmart.org/test-project/2iFHqZE$H2NvxC8_wHimLX>, dis:2evn3jI_n36vyKv0NOn5TJ, dis:0GPt685mH19PWgemKd9qag, dis:1rujA016H2AxziuAGmkIyX, dis:1a9EnXpsD7cRFQOingXVah, dis:1qHFr7JC9CTO5IS3NzkT0p, dis:1qHFr7JC9CTO5IS3NzkTCo, dis:0_Z1ithZ9Ap9JbRnF4UP4_, dis:1ULospfXv7690gCF8h4237, dis:1ULospfXv7690gCF8h4236, dis:1k4Y0dLbLDP9eUoJBKKRm7, dis:2IrIUikNz8LBj3RJTOBpAK, <https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wcc5>, dis:0hMjoK32L7bOBubKLfTxwt, <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJl>, dis:24iHrXZ3D6cQDBQ5nv6eW1, <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJk>, dis:39ZjTz7yHB2RMz5xWPlVXk, <https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95WcWa>, dis:2nRIABbVzAg8mDTFYWTEhZ, dis:02BWJrs218euypSHcUfExW, dis:3ca86Wdiz6dekLvFz1LEI5, dis:1O2HX0rKjDG8Ivob3lTs0Y, dis:0RrWqSmR52swcoAL2sMQYl, dis:1Tmeco7AX5zhGm8jiw_SL_, dis:3jAXzKiUXFvxFuMuVjrhwP, <https://otl.buildingsmart.org/test-project/3$KEMFe4TAbwCiHLGMGHhF>, dis:3yfPO99s11rOxpfeYbwRey, dis:3Xg8IvjGj6afVQfa2GAMSq, dis:3BFAkZij10M9m99qoAKtvr, <https://otl.buildingsmart.org/test-project/24BxnxLPL5Zxb$XgPhKPwb>, dis:0JsY172jv16988H50g_79S, <https://otl.buildingsmart.org/test-project/0MrfXLcBL4JAg$EXEf2oD5>, dis:0WXvRZIIP3UBNbMj2FNGLU, dis:0hGNjBkIfF7f7aj0NnbC3D, dis:3YkYjhpE55H9m7VFD08Rpv, dis:2BwO7EBDzB0gKaYwYWtR_U, dis:39dc1yso93AxnQY00I9ayQ, <https://otl.buildingsmart.org/test-project/0_NbcHgOXE7AHhLg3DHj$b>, <https://otl.buildingsmart.org/test-project/0UeLhYgPn3e9uQl37$Hxk0> ;
+	nen2660term:hasPart <https://otl.buildingsmart.org/test-project/18HN$la4HDSPXoM2C5jD_X>, <https://otl.buildingsmart.org/test-project/18HN$la4HDSPXoM2C5jDuN>, <https://otl.buildingsmart.org/test-project/18HN$la4HDSPXoM2C5jDuI> .
+
+dis:1lbY296lP6hP6SusoAGeib a otl:BuildingStorey ;
+	nen2660term:contains dis:3gD7tao8P3IujTtErDpEGN, dis:3gD7tao8P3IujTtErDpEGM, dis:3gD7tao8P3IujTtErDpEGA, dis:3gD7tao8P3IujTtErDpEG9, dis:3gD7tao8P3IujTtErDpEG8, dis:3gD7tao8P3IujTtErDpEGF, dis:3gD7tao8P3IujTtErDpEGD, dis:3gD7tao8P3IujTtErDpEGC, dis:3gD7tao8P3IujTtErDpEG3, dis:3gD7tao8P3IujTtErDpEPn, dis:3gD7tao8P3IujTtErDpEGJ, dis:3gD7tao8P3IujTtErDpEGI, dis:3gD7tao8P3IujTtErDpEGH, dis:3gD7tao8P3IujTtErDpEGE, dis:0_Z1ithZ9Ap9JbRnF4U7MF, <https://otl.buildingsmart.org/test-project/1lbY296lP6hP6SusoAGeI$>, dis:2vFKzyJSbEp8zuPoUlGXjO, dis:3GE7z8Luj3O8FGwnJDBcWy, dis:045EhR6JHBuvaYZwaACAoP, dis:045EhR6JHBuvaYZwaACAng, dis:3gD7tao8P3IujTtErDpEGL, dis:3gD7tao8P3IujTtErDpEGK, <https://otl.buildingsmart.org/test-project/1$0ZCbSCPE7QyZrsVmF9oq> ;
+	nen2660term:hasPart dis:1srdC4RsX6sgOGn5RXFVfF .
+
+dis:1lbY296lP6hP6SusoAGeQP a otl:BuildingStorey ;
+	nen2660term:contains <https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wc$2>, <https://otl.buildingsmart.org/test-project/1cEc$7xFLC4vjMJJ95Wcu7>, <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3Dmcd>, <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpSv>, <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpL2>, <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpK8>, <https://otl.buildingsmart.org/test-project/2rFSb_9kbA2wrzD7$3DpJj>, <https://otl.buildingsmart.org/test-project/1g1jkX3cP9M9Mhoffuwg$q>, dis:1g1jkX3cP9M9Mhoffuwgz5, dis:1g1jkX3cP9M9Mhoffuwgx6, dis:1g1jkX3cP9M9Mhoffuwgsi, dis:1g1jkX3cP9M9MhoffuwgrA, dis:1g1jkX3cP9M9MhoffuwgpK, dis:1g1jkX3cP9M9Mhoffuwgmx, dis:1g1jkX3cP9M9Mhoffuwgmw, dis:3E9XiEdwvASPj27ff2r7jr, dis:1mHbaBHGz7x8w_QB7PFSdR, dis:1mHbaBHGz7x8w_QB7PFSdO, dis:1mHbaBHGz7x8w_QB7PFSdP, dis:1mHbaBHGz7x8w_QB7PFSdV, dis:1mHbaBHGz7x8w_QB7PFSdT, dis:1mHbaBHGz7x8w_QB7PFSdI, dis:1mHbaBHGz7x8w_QB7PFSdJ, dis:1mHbaBHGz7x8w_QB7PFSdG, dis:1mHbaBHGz7x8w_QB7PFSdH, dis:1mHbaBHGz7x8w_QB7PFSdM, dis:1mHbaBHGz7x8w_QB7PFSdN, dis:1mHbaBHGz7x8w_QB7PFSdK, dis:1mHbaBHGz7x8w_QB7PFSdL, dis:1mHbaBHGz7x8w_QB7PFSdA, dis:1mHbaBHGz7x8w_QB7PFSdB, dis:1mHbaBHGz7x8w_QB7PFSd9, dis:3gD7tao8P3IujTtErDpEUD, dis:3gD7tao8P3IujTtErDpEUC, dis:3gD7tao8P3IujTtErDpEU1, dis:3gD7tao8P3IujTtErDpEU0, dis:3gD7tao8P3IujTtErDpEU7, dis:3gD7tao8P3IujTtErDpEU6, dis:3gD7tao8P3IujTtErDpEU4, dis:3gD7tao8P3IujTtErDpEUx, dis:3gD7tao8P3IujTtErDpEUw, dis:3gD7tao8P3IujTtErDpEQw, dis:3gD7tao8P3IujTtErDpEOS, dis:3gD7tao8P3IujTtErDpEOe, dis:3gD7tao8P3IujTtErDpEU8, dis:3gD7tao8P3IujTtErDpEUF, dis:3gD7tao8P3IujTtErDpEUE, dis:3gD7tao8P3IujTtErDpEU5, dis:2LftbZkEr4axg6d3FRTnGw, dis:0_Z1ithZ9Ap9JbRnF4U7Dz, dis:2LftbZkEr4axg6d3FRTnV0, <https://otl.buildingsmart.org/test-project/3Xb$vFs1943u97RKgIdBfL> ;
+	nen2660term:hasPart dis:1srdC4RsX6sgOGn5RXFUMU .
+
+dis:1lbY296lP6hP6SusoAGeOh a otl:BuildingStorey ;
+	nen2660term:contains dis:0pydn4v054ffcOEysb4ZzP .
+
+dis:0X5_SQgzv2BfJZJ_u3Zfov a otl:BuildingStorey ;
+	nen2660term:contains dis:1kvXKmFsfB997MVV0FQXWX, dis:2CNgktKFL6PPpKGamJDonq .
+
+dis:1CmCCBZ4rBDe2rjTwZFe5Q a otl:Project ;
+	nen2660term:hasPart dis:1CmCCBZ4rBDe2rjTwZFe5O .
+
+dis:1CmCCBZ4rBDe2rjTwZFe5O a otl:Site ;
+	nen2660term:hasPart dis:1CmCCBZ4rBDe2rjTwZFe5R .
+
+dis:1CmCCBZ4rBDe2rjTwZFe5R a otl:Building ;
+	nen2660term:hasPart dis:3Zu5Bv0LOHrPC10026FoQQ, dis:1lbY296lP6hP6SusoAGeib, dis:1lbY296lP6hP6SusoAGeQP, dis:1lbY296lP6hP6SusoAGeOh, dis:0X5_SQgzv2BfJZJ_u3Zfov .
+
+<https://otl.buildingsmart.org/test-project/18HN$la4HDSPXoM2C5jD_X> a otl:Space-SPACE .
+
+<https://otl.buildingsmart.org/test-project/18HN$la4HDSPXoM2C5jDuN> a otl:Space-SPACE .
+
+<https://otl.buildingsmart.org/test-project/18HN$la4HDSPXoM2C5jDuI> a otl:Space-SPACE .
+
+dis:1srdC4RsX6sgOGn5RXFVfF a otl:Space-SPACE .
+
+dis:1srdC4RsX6sgOGn5RXFUMU a otl:Space-SPACE .
+

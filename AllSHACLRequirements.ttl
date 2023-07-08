@@ -1,0 +1,64 @@
+@prefix IFC4-PSD: <https://www.linkedbuildingdata.net/IFC4-PSD#> .
+@prefix beo:      <https://pi.pauwel.be/voc/buildingelement#> .
+@prefix bot:      <https://w3id.org/bot#> .
+@prefix furn:     <http://pi.pauwel.be/voc/furniture#> .
+@prefix geo:      <http://www.opengis.net/ont/geosparql#> .
+@prefix ifc:      <https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD2/OWL#> .
+@prefix inst:     <https://otl.buildingsmart.org/test-project/> .
+@prefix lbd:      <https://linkebuildingdata.org/LBD#> .
+@prefix mep:      <http://pi.pauwel.be/voc/distributionelement#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix props:    <http://lbd.arch.rwth-aachen.de/props#> .
+@prefix rdf:      <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix smls:     <https://w3id.org/def/smls-owl#> .
+@prefix unit:     <http://qudt.org/vocab/unit/> .
+@prefix xsd:      <http://www.w3.org/2001/XMLSchema#> .
+@prefix sh:       <http://www.w3.org/ns/shacl#> .
+@prefix sh-shape: <http://test.example.org/testshape#> .
+
+
+sh-shape:WindowHeight a sh:NodeShape ;
+    sh:targetClass beo:Window ;
+    sh:property sh-shape:MinimumValue,
+        sh-shape:dataTypeDouble ;
+    sh:description "Nodeshape for targeting the objects classified as windows" ;
+    sh:severity sh:violation .
+
+sh-shape:MinimumValue a sh:PropertyShape ; 
+    sh:path props:overallHeightIfcWindow_attribute_simple ;
+    sh:minExclusive 0 ;
+    sh:message "The window has a value of 0 or smaller for the property 'heigth'" .
+
+sh-shape:dataTypeDouble a sh:PropertyShape ; 
+    sh:path props:overallHeightIfcWindow_attribute_simple ;
+    sh:datatype xsd:double ;
+    sh:message "The datatype of the height value of this window is not 'double'" .
+
+sh-shape:WindowHeight a sh:NodeShape ;
+    sh:targetClass beo:Window ;
+    sh:property sh-shape:MinimumValue,
+        sh-shape:dataTypeDouble ;
+    sh:description "Nodeshape for targeting the objects classified as windows" ;
+    sh:severity sh:violation .
+
+sh-shape:MinimumValue a sh:PropertyShape ; 
+    sh:path props:overallHeightIfcWindow_attribute_simple ;
+    sh:minExclusive 0 ;
+    sh:message "The window has a value of 0 or smaller for the property 'heigth'" .
+
+sh-shape:dataTypeDouble a sh:PropertyShape ; 
+    sh:path props:overallHeightIfcWindow_attribute_simple ;
+    sh:datatype xsd:double ;
+    sh:message "The datatype of the height value of this window is not 'double'" .
+
+sh-shape:BuildingStoreyContainment a sh:NodeShape ;
+    sh:targetClass bot:Storey ;
+    sh:property sh-shape:StoreyHasSpace ;
+    sh:description "Nodeshape for checking if storey has spaces" ;
+    sh:severity sh:violation .
+
+sh-shape:StoreyHasSpace a sh:PropertyShape ;
+    sh:path bot:hasSpace ;
+    sh:minCount 1 ;
+    sh:message "This building storey does not have a space" .

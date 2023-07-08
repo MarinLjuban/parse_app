@@ -1,0 +1,40 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ifc: <https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD2/OWL#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix otl: <https://otl.buildingsmart.org/IFC4_ADD2_TC1/def/> .
+@prefix nen2660term: <https://w3id.org/nen2660/term#> .
+@prefix dis: <https://otl.buildingsmart.org/test-project/> .
+@prefix IFC4-PSD: <https://www.linkedbuildingdata.net/IFC4-PSD#> .
+@prefix beo:      <https://pi.pauwel.be/voc/buildingelement#> .
+@prefix bot:      <https://w3id.org/bot#> .
+@prefix furn:     <http://pi.pauwel.be/voc/furniture#> .
+@prefix geo:      <http://www.opengis.net/ont/geosparql#> .
+@prefix ifc:      <https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD2/OWL#> .
+@prefix inst:     <https://otl.buildingsmart.org/test-project/> .
+@prefix lbd:      <https://linkebuildingdata.org/LBD#> .
+@prefix mep:      <http://pi.pauwel.be/voc/distributionelement#> .
+@prefix owl:      <http://www.w3.org/2002/07/owl#> .
+@prefix props:    <http://lbd.arch.rwth-aachen.de/props#> .
+@prefix rdf:      <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:     <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix smls:     <https://w3id.org/def/smls-owl#> .
+@prefix unit:     <http://qudt.org/vocab/unit/> .
+@prefix xsd:      <http://www.w3.org/2001/XMLSchema#> .
+@prefix sh:       <http://www.w3.org/ns/shacl#> .
+@prefix sh-shape: <http://test.example.org/testshape#> .
+
+
+sh-shape:BuildingStoreyContainment a sh:NodeShape ;
+    sh:targetClass otl:BuildingStorey;
+    sh:property sh-shape:StoreyHasSpace ;
+    sh:property [
+        sh:path nen2660term:contains ;
+        sh:class otl:Space ;
+        sh:minCount 1 ;
+        sh:message "otl:BuildingStorey should have a nen2660:contains property pointing to an otl:Space." 
+    ];
+    sh:description "Nodeshape for checking if storey has spaces" ;
+    sh:severity sh:violation .
+
